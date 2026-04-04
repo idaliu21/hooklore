@@ -117,21 +117,28 @@ def export():
         ).fetchall()
         patterns = [dict(p) for p in patterns]
 
+        # Extract English title from translated pattern first line
+        eng_title_from_pattern = ""
+        if patterns:
+            eng_first_line = (patterns[0].get("english_text") or "").split("\n")[0]
+            eng_first_line = eng_first_line.strip("-— ").strip()
+            eng_title_from_pattern = re.split(r"\s*[—–]\s*", eng_first_line)[0].strip()
+
+        # Auto-fill title_en if empty
+        if not post.get("title_en") and eng_title_from_pattern:
+            # Clean: remove parenthesized Chinese text like "(小山雀)"
+            clean_title = re.sub(r"\s*\([^)]*[\u4e00-\u9fff][^)]*\)", "", eng_title_from_pattern).strip()
+            if clean_title and not re.match(r"^(Rnd|Row|Step|Round|Ch |Sc |Using)", clean_title):
+                conn.execute("UPDATE posts SET title_en = ? WHERE id = ?", (clean_title, post_id))
+                conn.commit()
+                post["title_en"] = clean_title
+
         # Determine slug: manual > english title from pattern > note_id
         slug = post.get("slug") or ""
-        if not slug and patterns:
-            # Extract English title from first line of translated pattern
-            eng_first_line = (patterns[0].get("english_text") or "").split("\n")[0]
-            # Strip leading/trailing markers like "---"
-            eng_first_line = eng_first_line.strip("-— ").strip()
-            # Remove stuff after " — " or " – " (pattern subtitle), but not plain "-"
-            eng_title = re.split(r"\s*[—–]\s*", eng_first_line)[0].strip()
-            candidate = slugify(eng_title, "")
-            # Quality check: reject slugs that look like instructions, not titles
+        if not slug:
+            candidate = slugify(eng_title_from_pattern, "")
             if candidate and len(candidate) <= 50 and not re.match(r"^(rnd|row|step|round|ch-|sc-|using)", candidate):
                 slug = candidate
-            else:
-                slug = ""
         if not slug:
             slug = note_id
             print(f"  [!] No good English slug for '{post.get('title', '')}', using note_id. Set slug manually in admin.")
@@ -162,7 +169,7 @@ def export():
         pattern_entry = {
             "id": post_id,
             "slug": slug,
-            "title": post.get("title") or note_id,
+            "title": post.get("title_en") or post.get("title") or note_id,
             "description": post.get("description") or "",
             "author": post.get("author") or "",
             "tags": tags,
