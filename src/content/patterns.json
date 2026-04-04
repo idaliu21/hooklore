@@ -1,0 +1,339 @@
+[
+  {
+    "id": 10,
+    "slug": "sparrow",
+    "title": "要怪就怪它长得太乖了【附图解】",
+    "description": "",
+    "author": "智齿榴莲",
+    "tags": [
+      "amigurumi",
+      "stardew-valley"
+    ],
+    "createdAt": "2026-03-30 14:35:36",
+    "productPhotos": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/01_thumb.webp",
+        "medium": "/images/sparrow/01_medium.webp",
+        "full": "/images/sparrow/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/02_thumb.webp",
+        "medium": "/images/sparrow/02_medium.webp",
+        "full": "/images/sparrow/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/03_thumb.webp",
+        "medium": "/images/sparrow/03_medium.webp",
+        "full": "/images/sparrow/03_full.webp"
+      },
+      {
+        "filename": "04.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/04_thumb.webp",
+        "medium": "/images/sparrow/04_medium.webp",
+        "full": "/images/sparrow/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/05_thumb.webp",
+        "medium": "/images/sparrow/05_medium.webp",
+        "full": "/images/sparrow/05_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/sparrow/06_thumb.webp",
+        "medium": "/images/sparrow/06_medium.webp",
+        "full": "/images/sparrow/06_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/01_thumb.webp",
+        "medium": "/images/sparrow/01_medium.webp",
+        "full": "/images/sparrow/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/02_thumb.webp",
+        "medium": "/images/sparrow/02_medium.webp",
+        "full": "/images/sparrow/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/03_thumb.webp",
+        "medium": "/images/sparrow/03_medium.webp",
+        "full": "/images/sparrow/03_full.webp"
+      },
+      {
+        "filename": "04.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/04_thumb.webp",
+        "medium": "/images/sparrow/04_medium.webp",
+        "full": "/images/sparrow/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "product_photo",
+        "thumb": "/images/sparrow/05_thumb.webp",
+        "medium": "/images/sparrow/05_medium.webp",
+        "full": "/images/sparrow/05_full.webp"
+      },
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/sparrow/06_thumb.webp",
+        "medium": "/images/sparrow/06_medium.webp",
+        "full": "/images/sparrow/06_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Sparrow (小山雀) — Complete Pattern\nKey: X=sc, V=sc inc, A=sc dec, T=hdc, F=dc, FA=dc dec, TA=hdc dec, CH=chain\n\nBODY (in the round):\nRnd 1: 7 sc in MR (7)\nRnd 2: sc inc in each st (14)\nRnd 3: *sc inc, 3 sc* ×3, sc inc, sc (18)\nRnd 4–5: sc in each st (18)\nRnd 6: 2 sc inc, 4×(sc, 3 sc inc) — verify stitch count\nRnd 7: sc inc, 30 sc, sc inc — verify count\nRnd 8: sc inc, 32 sc, sc inc — verify count\nRnd 9: sc inc, 34 sc, sc inc — verify count\nRnd 10: ch 2, dc dec, 26 sc, sc dec, hdc dec, dc dec\n\nBEAK: Using contrasting color, ch 2, fasten off. Insert at Rnd 4 between sts 9 and 10.\n\nTAIL: Ch 7, starting from 3rd ch from hook: hdc, sc, sl st ×3. Fasten off. Sew into first and last st of Rnd 9.\n\nCLOSING:\nRnd 11: *sc, sc dec, sc* ×8 — stuff before this round (attach beak & tail first)\nRnd 12: *sc, sc dec* ×8\nRnd 13: hdc dec ×8\nFasten off, weave in ends.\n\nWINGS (make 2, flat):\nLeave long starting tail for sewing.\nRow 1: Ch 5, sc in 2nd ch from hook, 3 sc, sc inc — change color\nRow 2: Ch 1, turn, 4 sc, sc inc — change color\nRow 3: Ch 1, turn, 6 sc\nRow 4: Ch 1, turn, skip 1 st, 4 sc, (hdc, dc inc) in same st, ch 1 — fasten off leaving long tail\nAttach left wing: insert at 5 sts left of beak, one row below. Right wing symmetrically.",
+        "chineseText": "小山雀图解（全套）。身体：环起,R1:7X,R2:7V,R3:*(V,3X),V,X(18),R4-5:18X,R6:2V,4*(X,3V),R7:V,30X,V,R8:V,32X,V,R9:V,34X,V,R10:2CH,FA,26X,A,TA,FA。嘴巴：取色线钩2CH断线，在R4第9和第10针入针。尾巴：7CH倒三钩T,X,3SL断线，缝入R9首尾针。R11:8*(X,A,X)塞棉（建议先缝嘴尾），R12:8*(X,A)，R13:8*TA，断线藏线。翅膀×2（片钩）：R1:5CH倒二钩3X,V换线；R2:1CH翻4X,V换线；R3:1CH翻6X；R4:1CH翻空一针4X(T,FV),1CH断线。左翅从嘴左第5针下一行同位置入针缝合。",
+        "notes": "Rnd 6–9 stitch counts need verification — formula likely follows amigurumi standard increases. The body shaping creates the round bird form. Stuff firmly before closing."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "granny-square-chart",
+    "title": "💙300个钩针花片配色方案｜131 附图解",
+    "description": "",
+    "author": "小仙女的毛线团",
+    "tags": [
+      "amigurumi",
+      "stardew-valley"
+    ],
+    "createdAt": "2026-03-30 14:35:35",
+    "productPhotos": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/01_thumb.webp",
+        "medium": "/images/granny-square-chart/01_medium.webp",
+        "full": "/images/granny-square-chart/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/02_thumb.webp",
+        "medium": "/images/granny-square-chart/02_medium.webp",
+        "full": "/images/granny-square-chart/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/03_thumb.webp",
+        "medium": "/images/granny-square-chart/03_medium.webp",
+        "full": "/images/granny-square-chart/03_full.webp"
+      },
+      {
+        "filename": "04.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/04_thumb.webp",
+        "medium": "/images/granny-square-chart/04_medium.webp",
+        "full": "/images/granny-square-chart/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/05_thumb.webp",
+        "medium": "/images/granny-square-chart/05_medium.webp",
+        "full": "/images/granny-square-chart/05_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/granny-square-chart/06_thumb.webp",
+        "medium": "/images/granny-square-chart/06_medium.webp",
+        "full": "/images/granny-square-chart/06_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/01_thumb.webp",
+        "medium": "/images/granny-square-chart/01_medium.webp",
+        "full": "/images/granny-square-chart/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/02_thumb.webp",
+        "medium": "/images/granny-square-chart/02_medium.webp",
+        "full": "/images/granny-square-chart/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/03_thumb.webp",
+        "medium": "/images/granny-square-chart/03_medium.webp",
+        "full": "/images/granny-square-chart/03_full.webp"
+      },
+      {
+        "filename": "04.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/04_thumb.webp",
+        "medium": "/images/granny-square-chart/04_medium.webp",
+        "full": "/images/granny-square-chart/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "product_photo",
+        "thumb": "/images/granny-square-chart/05_thumb.webp",
+        "medium": "/images/granny-square-chart/05_medium.webp",
+        "full": "/images/granny-square-chart/05_full.webp"
+      },
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/granny-square-chart/06_thumb.webp",
+        "medium": "/images/granny-square-chart/06_medium.webp",
+        "full": "/images/granny-square-chart/06_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Granny Square Chart — 'Ooh Holiday' motif by Little Mic (@小仙女的毛线圈). Symbol chart for a circular-to-square granny square worked from center outward. Features multiple rounds of bobble stitches and shell/fan clusters forming a square motif. Read counterclockwise from center. Finished size approx. 20×20cm. Full written pattern not transcribable from chart image alone — follow the chart symbols using the stitch reference (post 4, images 1–2).",
+        "chineseText": "方形花片（Ooh Holiday by Little Mic/@小仙女的毛线圈）符号钩织图解。由圆形中心向四角扩展，多圈蕾丝花样含枣形针和扇形花纹，最终为正方形。",
+        "notes": "Complex granny square chart; requires symbol reference to read. Color scheme: blue, light blue, yellow, peach (see post images 1–5 for colorway guidance)."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "lizard-tom-pattern",
+    "title": "小蜥蜴汤姆🦎图解整理好啦",
+    "description": "",
+    "author": "陎弘",
+    "tags": [
+      "amigurumi",
+      "stardew-valley"
+    ],
+    "createdAt": "2026-03-30 14:35:34",
+    "productPhotos": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/01_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/01_medium.webp",
+        "full": "/images/lizard-tom-pattern/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/02_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/02_medium.webp",
+        "full": "/images/lizard-tom-pattern/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/03_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/03_medium.webp",
+        "full": "/images/lizard-tom-pattern/03_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "04.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/04_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/04_medium.webp",
+        "full": "/images/lizard-tom-pattern/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/05_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/05_medium.webp",
+        "full": "/images/lizard-tom-pattern/05_full.webp"
+      },
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/06_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/06_medium.webp",
+        "full": "/images/lizard-tom-pattern/06_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "01.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/01_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/01_medium.webp",
+        "full": "/images/lizard-tom-pattern/01_full.webp"
+      },
+      {
+        "filename": "02.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/02_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/02_medium.webp",
+        "full": "/images/lizard-tom-pattern/02_full.webp"
+      },
+      {
+        "filename": "03.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lizard-tom-pattern/03_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/03_medium.webp",
+        "full": "/images/lizard-tom-pattern/03_full.webp"
+      },
+      {
+        "filename": "04.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/04_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/04_medium.webp",
+        "full": "/images/lizard-tom-pattern/04_full.webp"
+      },
+      {
+        "filename": "05.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/05_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/05_medium.webp",
+        "full": "/images/lizard-tom-pattern/05_full.webp"
+      },
+      {
+        "filename": "06.jpg",
+        "type": "crochet_diagram",
+        "thumb": "/images/lizard-tom-pattern/06_thumb.webp",
+        "medium": "/images/lizard-tom-pattern/06_medium.webp",
+        "full": "/images/lizard-tom-pattern/06_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Lizard Tom Pattern — Body + Inner Mouth + Tongue\nKey: x=sc, f=dc, t=hdc, fv=dc inc, fa=dc dec, tv=hdc inc, ta=hdc dec, a=sc dec, w=sc 3-in-1\n\nBODY (worked in rounds, main stitch: dc):\nRnd 1: 4 dc in MR (4)\nRnd 2: (dc, dc inc) ×2 (6)\nRnd 3: 6 dc (6)\nRnd 4: (dc, dc inc, dc) ×2 (8)\nRnd 5: (3 dc, dc inc) ×2 (10)\nRnd 6: 10 dc (10)\nRnd 7: 2 sc, hdc, 4 dc inc, hdc, 2 sc (14)\nRnd 8: sc dec, hdc inc, 8 dc, hdc inc, sc dec (14)\nRnd 9–11: sc dec, hdc inc, 8 dc, hdc inc, sc dec (14)\nRnd 12: hdc dec, 10 dc, hdc dec (12)\nRnd 13: dc inc, 2 dc, 6 hdc, 2 dc, dc inc (16)\nRnd 14: 2 dc, 3 hdc, 4 sc, 3 hdc, 2 dc (14)\nFasten off, invisible join, pull tight.\n\nINNER MOUTH (oval, in sc):\nRnd 1: Ch 10, work oval around: 8 sc, sc 3-in-1 at tip, 7 sc back, sc inc at start-end\nRnd 2: sc inc, 7 sc, sc inc ×3 at tip, 7 sc, sc inc ×2 at other end\nRnd 3: (sc, sc inc) ×1, 7 sc, (sc, sc inc) ×3, 7 sc, (sc, sc inc) ×2\nFasten off, invisible weave.\n\nTONGUE:\nCh 10, starting from 3rd ch from hook: 8 hdc. Fasten off.",
+        "chineseText": "小蜥蜴汤姆图解（主体+嘴巴里面部分+舌头）。符号：x=短针,f=长针,t=中长针,fv=长针加针,fa=长针减针,tv=中长针加针,ta=中长针减针,a=短针减针,w=短针1放3。\n主体：R1:环起4f; R2:2(f,fv); R3:6f; R4:2(f,fv,f); R5:2(3f,fv); R6:10f; R7:2x,t,4fv,t,2x; R8:a,tv,8f,tv,a; R9-R11:同R8; R12:ta,10f,at; R13:fv,2f,6t,2f,fv; R14:2f,3t,4x,3t,2f。断线藏线。\n嘴巴里面：R1:起10ch椭圆形：8x,w,7x,v; R2:v,7x,3v,7x,2v; R3:(x,v),7x,3(x,v),7x,2(x,v)。断线。\n舌头：起10ch,倒3织8t。",
+        "notes": "Main body uses dc (long stitch) as primary stitch — unusual for amigurumi. Stitch counts for Rnds 8–12 should be verified by crafter."
+      },
+      {
+        "englishText": "Lizard Tom — Upper Jaw + Lower Jaw + Assembly\n\nUPPER JAW (flat piece, in dc):\nRow 1: dc inc, 6 dc, dc inc (10)\nRow 2: dc dec, 8 dc, dc dec (8)\nRow 3: dc dec, 4 dc, dc dec (6)\nRow 4: dc dec, 2 dc, dc dec (4)\nFasten off.\n\nLOWER JAW (flat piece, in hdc):\nRow 1: 6 hdc (from a chain start) (6)\nRow 2: hdc dec, 2 hdc, hdc dec (4)\n\nASSEMBLY: Join Inner Mouth to Lower Jaw and crochet together; work one round of sc around entire mouth edge. Upper jaw picks up 8 sts; lower jaw picks up 6 sts (see photo for reference).",
+        "chineseText": "小蜥蜴汤姆图解（上嘴+下嘴+组合）。上嘴-片织：R1:fv,6f,fv(10); R2:fa,8f,fa(8); R3:fa,4f,fa(6); R4:fa,2f,fa(4)。断线。下嘴-片织：R1:6t; R2:ta,2t,ta(4)。把嘴巴里面部分跟着一起织，沿着嘴巴织一圈。组合时参考实物图：上嘴8针目入针，下嘴6针目入针。",
+        "notes": "Upper jaw in dc, lower jaw in hdc. Assembly photo shows final mouth orientation."
+      },
+      {
+        "englishText": "Lizard Tom — Eyes + Hands + Feet\n\nEYES (make 2):\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 sc (6)\nFasten off and sew to body.\n\nHANDS (make 2) — attach directly to body:\nInsert hook at appropriate position between Rnds 12–13 on body, working in BLO.\nCh 7, sl st in 2nd ch from hook ×2, ch 2, sl st ×2, ch 2, sl st ×2, then 4 sc back at base.\n(Creates 3 finger-like extensions.)\n\nFEET (make 2) — attach directly to body:\nInsert hook at appropriate position between Rnds 7–8 on body, working in BLO.\nCh 8, sl st in 2nd ch from hook ×2, ch 2, sl st ×2, then 5 sc back at base.\n(Creates 2 toe-like extensions.)",
+        "chineseText": "小蜥蜴汤姆图解（眼睛+手+脚）。眼睛×2：R1:环起6x; R2:6x。手×2：主体R12-R13处入针，都织里山，起7ch倒2织2sl,起2ch倒2织2sl,起2ch倒2织2sl,4x。脚×2：主体R7-R8处入针，都织里山，起8ch倒2织2sl,起2ch倒2织2sl,5x。",
+        "notes": "Hands and feet are worked directly into the body, not made separately. BLO = back loop only throughout."
+      }
+    ]
+  }
+]
