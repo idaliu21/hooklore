@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   },
   description:
     "Free crochet patterns translated from Chinese to English. Amigurumi, bags, coasters, and more with clear US-standard instructions.",
+  other: {
+    "p:domain_verify": "8da838c314294fdc9d069a3a17bea28f",
+  },
 };
 
 export default function RootLayout({
