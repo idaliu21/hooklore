@@ -2,22 +2,23 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Crochet Pattern Gallery — free translated crochet patterns.",
+  description: "About Hooklore — a curated library of crochet patterns.",
 };
 
 export default function AboutPage() {
   return (
     <div className="max-w-2xl mx-auto px-4 py-12">
-      <h1 className="text-3xl font-bold text-stone-900 mb-6">About</h1>
+      <h1 className="font-serif text-4xl text-stone-900 mb-2">About</h1>
+      <p className="font-serif italic text-brand-700 mb-8">Stitching stories, one loop at a time.</p>
       <div className="prose prose-stone">
         <p>
-          Crochet Pattern Gallery is a collection of free crochet patterns
-          translated from Chinese to English. We find beautiful designs shared
-          by talented crochet artists on Chinese social media and translate the
-          instructions into clear, US-standard crochet notation.
+          <strong>Hooklore</strong> — from <em>hook</em>, the tool, and <em>lore</em>,
+          the quiet knowledge passed between makers — is a curated library of
+          crochet patterns written in clear, US-standard notation so you can
+          follow each design stitch by stitch.
         </p>
         <p>
-          Every pattern includes credit to the original designer. If you&apos;re
+          Every pattern includes credit to its original designer. If you&apos;re
           an original creator and would like your pattern removed or credited
           differently, please reach out.
         </p>

@@ -26,22 +26,57 @@ export function TagBadge({
   tag,
   size = "md",
   count,
+  active = false,
 }: {
   tag: string;
   size?: "sm" | "md";
   count?: number;
+  active?: boolean;
 }) {
   const cls =
     size === "sm"
       ? "text-[10px] px-1.5 py-0.5 rounded"
       : "text-xs px-2.5 py-1 rounded-md font-medium";
 
+  const color = active
+    ? "bg-brand-500 text-white"
+    : getColor(tag);
+
   return (
     <Link
       href={`/tag/${tag}`}
-      className={`inline-block ${getColor(tag)} ${cls} hover:opacity-80 transition-opacity`}
+      className={`inline-block ${color} ${cls} hover:opacity-80 transition-opacity`}
     >
       {formatLabel(tag)}
+      {count !== undefined && <span className="ml-1 opacity-60">{count}</span>}
+    </Link>
+  );
+}
+
+export function AllTagBadge({
+  count,
+  active = false,
+  size = "md",
+}: {
+  count?: number;
+  active?: boolean;
+  size?: "sm" | "md";
+}) {
+  const cls =
+    size === "sm"
+      ? "text-[10px] px-1.5 py-0.5 rounded"
+      : "text-xs px-2.5 py-1 rounded-md font-medium";
+
+  const color = active
+    ? "bg-brand-500 text-white"
+    : "bg-stone-100 text-stone-700";
+
+  return (
+    <Link
+      href="/"
+      className={`inline-block ${color} ${cls} hover:opacity-80 transition-opacity`}
+    >
+      All
       {count !== undefined && <span className="ml-1 opacity-60">{count}</span>}
     </Link>
   );

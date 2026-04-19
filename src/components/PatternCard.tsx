@@ -41,9 +41,6 @@ export function PatternCard({ pattern }: { pattern: Pattern }) {
         <h3 className="font-medium text-sm text-stone-900 line-clamp-2 leading-snug">
           {pattern.title}
         </h3>
-        {pattern.author && (
-          <p className="text-xs text-stone-400 mt-1">by @{pattern.author}</p>
-        )}
         {pattern.tags.length > 0 && (
           <div className="flex flex-wrap gap-1 mt-2">
             {pattern.tags.slice(0, 3).map((tag) => (

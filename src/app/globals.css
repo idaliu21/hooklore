@@ -2,5 +2,17 @@
 
 @theme inline {
   --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
   --font-mono: var(--font-mono);
+
+  --color-brand-50: #faf3ee;
+  --color-brand-100: #f3e2d6;
+  --color-brand-200: #e6c2ac;
+  --color-brand-300: #d59c7d;
+  --color-brand-400: #c27958;
+  --color-brand-500: #b85c3c;
+  --color-brand-600: #a14a2e;
+  --color-brand-700: #823a26;
+  --color-brand-800: #5f2a1c;
+  --color-brand-900: #3f1c13;
 }

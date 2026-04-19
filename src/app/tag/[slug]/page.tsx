@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getAllTags, getPatternsByTag } from "@/lib/data";
+import { getAllPatterns, getAllTags, getPatternsByTag } from "@/lib/data";
 import { PatternCard } from "@/components/PatternCard";
-import { TagBadge } from "@/components/TagBadge";
+import { TagBadge, AllTagBadge } from "@/components/TagBadge";
 
 export async function generateStaticParams() {
   return getAllTags().map((tag) => ({ slug: tag.slug }));
@@ -32,6 +32,7 @@ export default async function TagPage({
   const { slug } = await params;
   const patterns = getPatternsByTag(slug);
   const allTags = getAllTags();
+  const totalPatterns = getAllPatterns().length;
 
   if (!patterns.length) notFound();
 
@@ -51,8 +52,14 @@ export default async function TagPage({
 
       {/* Other tags */}
       <div className="flex flex-wrap gap-2 mb-8">
+        <AllTagBadge count={totalPatterns} />
         {allTags.map((tag) => (
-          <TagBadge key={tag.slug} tag={tag.slug} count={tag.count} />
+          <TagBadge
+            key={tag.slug}
+            tag={tag.slug}
+            count={tag.count}
+            active={tag.slug === slug}
+          />
         ))}
       </div>
 
