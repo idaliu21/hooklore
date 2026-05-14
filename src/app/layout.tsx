@@ -2,6 +2,10 @@ import type { Metadata } from "next";
 import { Inter, JetBrains_Mono, Fraunces } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/Navigation";
+import {
+  GoogleTagManager,
+  GoogleTagManagerNoscript,
+} from "@/components/GoogleTagManager";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -57,7 +61,9 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${fraunces.variable} ${jetbrainsMono.variable} h-full antialiased`}
     >
+      <GoogleTagManager />
       <body className="min-h-full flex flex-col bg-stone-50 text-stone-900">
+        <GoogleTagManagerNoscript />
         <Navigation />
         <main className="flex-1">{children}</main>
         <footer className="border-t border-stone-200 py-8 text-center text-sm text-stone-400">
