@@ -37,3 +37,34 @@ export function getAllTags(): TagInfo[] {
 export function getAllSlugs(): string[] {
   return patterns.map((p) => p.slug);
 }
+
+/**
+ * Patterns most related to the given one, ranked by number of shared tags.
+ * Falls back to most-recent patterns when the source has no tags, so the
+ * "Related patterns" internal-linking block is never empty.
+ */
+export function getRelatedPatterns(slug: string, limit = 6): Pattern[] {
+  const source = getPatternBySlug(slug);
+  if (!source) return [];
+
+  const sourceTags = new Set(source.tags);
+  const scored = patterns
+    .filter((p) => p.slug !== slug)
+    .map((p) => ({
+      pattern: p,
+      shared: p.tags.filter((t) => sourceTags.has(t)).length,
+    }));
+
+  const related = scored
+    .filter((s) => s.shared > 0)
+    .sort((a, b) => b.shared - a.shared)
+    .map((s) => s.pattern);
+
+  if (related.length >= limit) return related.slice(0, limit);
+
+  // Top up with other patterns so the section always has content.
+  const fillers = patterns.filter(
+    (p) => p.slug !== slug && !related.includes(p)
+  );
+  return [...related, ...fillers].slice(0, limit);
+}

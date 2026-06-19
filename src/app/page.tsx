@@ -11,10 +11,12 @@ export default function HomePage() {
       {/* Hero */}
       <section className="text-center mb-8">
         <h1 className="font-serif text-3xl sm:text-4xl text-stone-900 mb-2 tracking-tight">
-          Hooklore
+          Free Crochet Patterns
         </h1>
-        <p className="text-stone-500 text-sm sm:text-base max-w-md mx-auto">
-          A curated library of crochet patterns, written in clear US-standard notation.
+        <p className="text-stone-500 text-sm sm:text-base max-w-xl mx-auto">
+          A curated library of free crochet patterns — amigurumi, bags, coasters and
+          gaming characters — each written in clear, US-standard notation with photos,
+          diagrams and stitch-by-stitch counts.
         </p>
       </section>
 

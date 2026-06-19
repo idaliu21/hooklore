@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About",
   description: "About Hooklore — a curated library of crochet patterns.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {
@@ -20,7 +21,11 @@ export default function AboutPage() {
         <p>
           Every pattern includes credit to its original designer. If you&apos;re
           an original creator and would like your pattern removed or credited
-          differently, please reach out.
+          differently, please reach out at{" "}
+          <a href="mailto:hello@hooklore.com" className="text-brand-700 underline">
+            hello@hooklore.com
+          </a>{" "}
+          and we&apos;ll respond promptly.
         </p>
         <h2>How to read the patterns</h2>
         <p>

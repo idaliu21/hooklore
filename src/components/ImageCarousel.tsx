@@ -4,7 +4,28 @@ import { useState } from "react";
 import Image from "next/image";
 import type { PatternImage } from "@/lib/types";
 
-export function ImageCarousel({ images }: { images: PatternImage[] }) {
+/** Descriptive, keyword-rich alt text per image type (image SEO + accessibility). */
+function imageAlt(title: string, image: PatternImage): string {
+  switch (image.type) {
+    case "product_photo":
+      return `${title} — finished crochet project photo`;
+    case "crochet_diagram":
+    case "symbol_diagram":
+      return `${title} crochet symbol diagram`;
+    case "text_diagram":
+      return `${title} crochet pattern chart`;
+    default:
+      return `${title} free crochet pattern`;
+  }
+}
+
+export function ImageCarousel({
+  images,
+  title,
+}: {
+  images: PatternImage[];
+  title: string;
+}) {
   const [current, setCurrent] = useState(0);
 
   if (!images.length) return null;
@@ -17,7 +38,7 @@ export function ImageCarousel({ images }: { images: PatternImage[] }) {
       <div className="relative aspect-[3/4] sm:aspect-[4/3] rounded-2xl overflow-hidden bg-stone-100">
         <Image
           src={img.medium}
-          alt={`Image ${current + 1} of ${images.length}`}
+          alt={imageAlt(title, img)}
           fill
           sizes="(max-width: 640px) 100vw, 600px"
           className="object-contain"
@@ -46,7 +67,7 @@ export function ImageCarousel({ images }: { images: PatternImage[] }) {
             >
               <Image
                 src={thumb.thumb}
-                alt={`Thumbnail ${i + 1}`}
+                alt={`${title} — view ${i + 1}`}
                 fill
                 sizes="64px"
                 className="object-cover"

@@ -6,6 +6,13 @@ import {
   GoogleTagManager,
   GoogleTagManagerNoscript,
 } from "@/components/GoogleTagManager";
+import {
+  SITE_URL,
+  SITE_NAME,
+  SITE_DESCRIPTION,
+  SITE_SAME_AS,
+  absoluteUrl,
+} from "@/lib/site";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -22,33 +29,57 @@ const fraunces = Fraunces({
   subsets: ["latin"],
 });
 
-const siteUrl = process.env.SITE_URL || "https://hooklore.example.com";
+const SITE_TITLE = `${SITE_NAME} — A Curated Library of Crochet Patterns`;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
-  title: {
-    default: "Hooklore — A Curated Library of Crochet Patterns",
-    template: "%s | Hooklore",
+  metadataBase: new URL(SITE_URL),
+  alternates: {
+    canonical: "/",
   },
-  description:
-    "A curated library of crochet patterns — amigurumi, bags, coasters, and more — written in clear US-standard notation.",
+  title: {
+    default: SITE_TITLE,
+    template: `%s | ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
   openGraph: {
     type: "website",
-    siteName: "Hooklore",
-    title: "Hooklore — A Curated Library of Crochet Patterns",
-    description:
-      "A curated library of crochet patterns, written in clear US-standard notation.",
-    url: siteUrl,
+    siteName: SITE_NAME,
+    locale: "en_US",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hooklore — A Curated Library of Crochet Patterns",
-    description:
-      "A curated library of crochet patterns, written in clear US-standard notation.",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
   },
   other: {
     "p:domain_verify": "8da838c314294fdc9d069a3a17bea28f",
   },
+};
+
+/** Brand entity graph injected on every page for E-E-A-T / AI entity recognition. */
+const orgWebsiteJsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${SITE_URL}/#organization`,
+      name: SITE_NAME,
+      url: SITE_URL,
+      logo: absoluteUrl("/icon.svg"),
+      sameAs: SITE_SAME_AS,
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${SITE_URL}/#website`,
+      name: SITE_NAME,
+      url: SITE_URL,
+      description: SITE_DESCRIPTION,
+      publisher: { "@id": `${SITE_URL}/#organization` },
+    },
+  ],
 };
 
 export default function RootLayout({
@@ -63,6 +94,10 @@ export default function RootLayout({
     >
       <GoogleTagManager />
       <body className="min-h-full flex flex-col bg-stone-50 text-stone-900">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgWebsiteJsonLd) }}
+        />
         <GoogleTagManagerNoscript />
         <Navigation />
         <main className="flex-1">{children}</main>

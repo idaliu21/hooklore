@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "hooklore.com" }],
+      "destination": "https://www.hooklore.com/$1",
+      "statusCode": 301
+    }
+  ]
+}

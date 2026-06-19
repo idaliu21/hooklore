@@ -19,8 +19,9 @@ export async function generateMetadata({
     .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
     .join(" ");
   return {
-    title: `${label} Patterns`,
-    description: `Browse free ${label.toLowerCase()} crochet patterns with US-standard instructions.`,
+    title: `Free ${label} Crochet Patterns`,
+    description: `Browse free ${label.toLowerCase()} crochet patterns with clear, US-standard instructions — diagrams, photos and step-by-step stitch counts.`,
+    alternates: { canonical: `/tag/${slug}` },
   };
 }
 
@@ -44,9 +45,14 @@ export default async function TagPage({
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold text-stone-900 mb-2">
-        {label} Patterns
+        Free {label} Crochet Patterns
       </h1>
-      <p className="text-stone-500 mb-6">
+      <p className="text-stone-600 mb-2 max-w-2xl">
+        A curated collection of {label.toLowerCase()} crochet patterns, each written in
+        clear US-standard notation with photos, diagrams and stitch-by-stitch counts so
+        you can follow along from your first chain to fasten off.
+      </p>
+      <p className="text-stone-400 text-sm mb-6">
         {patterns.length} pattern{patterns.length !== 1 ? "s" : ""} tagged with &ldquo;{label}&rdquo;
       </p>
 

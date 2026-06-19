@@ -1,36 +1,54 @@
 import type { MetadataRoute } from "next";
-import { getAllPatterns, getAllTags } from "@/lib/data";
+import { getAllPatterns, getAllTags, getPatternsByTag } from "@/lib/data";
+import { SITE_URL, absoluteUrl } from "@/lib/site";
 
-const BASE_URL = process.env.SITE_URL || "https://crochet-patterns.example.com";
+/** A stable reference date so home/tag lastmod doesn't churn on every build. */
+function latestCreatedAt(patterns: ReturnType<typeof getAllPatterns>): Date {
+  let max = 0;
+  for (const p of patterns) {
+    const t = p.createdAt ? Date.parse(p.createdAt) : 0;
+    if (!Number.isNaN(t) && t > max) max = t;
+  }
+  return max ? new Date(max) : new Date(0);
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const patterns = getAllPatterns();
   const tags = getAllTags();
+  const siteLastMod = latestCreatedAt(patterns);
 
-  const patternUrls = patterns.map((p) => ({
-    url: `${BASE_URL}/pattern/${p.slug}`,
-    lastModified: p.createdAt ? new Date(p.createdAt) : new Date(),
-    changeFrequency: "monthly" as const,
-    priority: 0.8,
-  }));
+  const patternUrls: MetadataRoute.Sitemap = patterns.map((p) => {
+    // Feed product photos to Google Images (visual-traffic goal).
+    const images = (p.productPhotos.length ? p.productPhotos : p.allImages)
+      .slice(0, 8)
+      .map((img) => absoluteUrl(img.full || img.medium));
 
-  const tagUrls = tags.map((t) => ({
-    url: `${BASE_URL}/tag/${t.slug}`,
-    lastModified: new Date(),
+    return {
+      url: absoluteUrl(`/pattern/${p.slug}`),
+      lastModified: p.createdAt ? new Date(p.createdAt) : siteLastMod,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+      ...(images.length ? { images } : {}),
+    };
+  });
+
+  const tagUrls: MetadataRoute.Sitemap = tags.map((t) => ({
+    url: absoluteUrl(`/tag/${t.slug}`),
+    lastModified: latestCreatedAt(getPatternsByTag(t.slug)),
     changeFrequency: "weekly" as const,
     priority: 0.6,
   }));
 
   return [
     {
-      url: BASE_URL,
-      lastModified: new Date(),
+      url: SITE_URL,
+      lastModified: siteLastMod,
       changeFrequency: "weekly",
       priority: 1,
     },
     {
-      url: `${BASE_URL}/about`,
-      lastModified: new Date(),
+      url: absoluteUrl("/about"),
+      lastModified: siteLastMod,
       changeFrequency: "monthly",
       priority: 0.3,
     },
