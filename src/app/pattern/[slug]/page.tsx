@@ -8,6 +8,7 @@ import {
 import type { Pattern } from "@/lib/types";
 import { ImageCarousel } from "@/components/ImageCarousel";
 import { PatternText } from "@/components/PatternText";
+import { PatternDiagrams } from "@/components/PatternDiagrams";
 import { PatternInfo } from "@/components/PatternInfo";
 import { PatternFaq } from "@/components/PatternFaq";
 import { PatternCard } from "@/components/PatternCard";
@@ -212,6 +213,9 @@ export default async function PatternPage({
 
       {/* Pattern Text */}
       <PatternText patterns={pattern.patterns} />
+
+      {/* Symbol charts only — Chinese text diagrams are excluded inside the component */}
+      <PatternDiagrams diagrams={pattern.diagrams} title={pattern.title} />
 
       {/* FAQ */}
       <PatternFaq items={pattern.meta?.faq} />

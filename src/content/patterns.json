@@ -51,7 +51,7 @@
     "diagrams": [
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/airy-openwork-scrunchie/image_5_thumb.webp",
         "medium": "/images/airy-openwork-scrunchie/image_5_medium.webp",
         "full": "/images/airy-openwork-scrunchie/image_5_full.webp"
@@ -95,7 +95,7 @@
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/airy-openwork-scrunchie/image_5_thumb.webp",
         "medium": "/images/airy-openwork-scrunchie/image_5_medium.webp",
         "full": "/images/airy-openwork-scrunchie/image_5_full.webp"
@@ -164,28 +164,28 @@
     "diagrams": [
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_1_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_1_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_1_full.webp"
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_2_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_2_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_3_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_3_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_3_full.webp"
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_4_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_4_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_4_full.webp"
@@ -201,28 +201,28 @@
       },
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_1_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_1_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_1_full.webp"
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_2_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_2_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_3_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_3_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_3_full.webp"
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coll-crochet-net-hat/image_4_thumb.webp",
         "medium": "/images/coll-crochet-net-hat/image_4_medium.webp",
         "full": "/images/coll-crochet-net-hat/image_4_full.webp"
@@ -339,7 +339,7 @@
     "diagrams": [
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/misty-blue-star-headband/image_5_thumb.webp",
         "medium": "/images/misty-blue-star-headband/image_5_medium.webp",
         "full": "/images/misty-blue-star-headband/image_5_full.webp"
@@ -383,7 +383,7 @@
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/misty-blue-star-headband/image_5_thumb.webp",
         "medium": "/images/misty-blue-star-headband/image_5_medium.webp",
         "full": "/images/misty-blue-star-headband/image_5_full.webp"
@@ -468,7 +468,7 @@
     "diagrams": [
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/strawberry-triangle-shawl/image_3_thumb.webp",
         "medium": "/images/strawberry-triangle-shawl/image_3_medium.webp",
         "full": "/images/strawberry-triangle-shawl/image_3_full.webp"
@@ -498,7 +498,7 @@
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/strawberry-triangle-shawl/image_3_thumb.webp",
         "medium": "/images/strawberry-triangle-shawl/image_3_medium.webp",
         "full": "/images/strawberry-triangle-shawl/image_3_full.webp"
@@ -595,7 +595,7 @@
     "diagrams": [
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sunglasses-pouch/image_6_thumb.webp",
         "medium": "/images/sunglasses-pouch/image_6_medium.webp",
         "full": "/images/sunglasses-pouch/image_6_full.webp"
@@ -646,7 +646,7 @@
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sunglasses-pouch/image_6_thumb.webp",
         "medium": "/images/sunglasses-pouch/image_6_medium.webp",
         "full": "/images/sunglasses-pouch/image_6_full.webp"
@@ -740,7 +740,7 @@
     "diagrams": [
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/granny-square-motif-no-375/image_4_thumb.webp",
         "medium": "/images/granny-square-motif-no-375/image_4_medium.webp",
         "full": "/images/granny-square-motif-no-375/image_4_full.webp"
@@ -777,7 +777,7 @@
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/granny-square-motif-no-375/image_4_thumb.webp",
         "medium": "/images/granny-square-motif-no-375/image_4_medium.webp",
         "full": "/images/granny-square-motif-no-375/image_4_full.webp"
@@ -850,7 +850,7 @@
     "diagrams": [
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/crochet-earth-globe/image_1_thumb.webp",
         "medium": "/images/crochet-earth-globe/image_1_medium.webp",
         "full": "/images/crochet-earth-globe/image_1_full.webp"
@@ -866,7 +866,7 @@
       },
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/crochet-earth-globe/image_1_thumb.webp",
         "medium": "/images/crochet-earth-globe/image_1_medium.webp",
         "full": "/images/crochet-earth-globe/image_1_full.webp"
@@ -959,28 +959,28 @@
     "diagrams": [
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_4_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_4_medium.webp",
         "full": "/images/lace-polo-shirt/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_5_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_5_medium.webp",
         "full": "/images/lace-polo-shirt/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_6_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_6_medium.webp",
         "full": "/images/lace-polo-shirt/image_6_full.webp"
       },
       {
         "filename": "image_7.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_7_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_7_medium.webp",
         "full": "/images/lace-polo-shirt/image_7_full.webp"
@@ -1017,28 +1017,28 @@
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_4_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_4_medium.webp",
         "full": "/images/lace-polo-shirt/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_5_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_5_medium.webp",
         "full": "/images/lace-polo-shirt/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_6_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_6_medium.webp",
         "full": "/images/lace-polo-shirt/image_6_full.webp"
       },
       {
         "filename": "image_7.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/lace-polo-shirt/image_7_thumb.webp",
         "medium": "/images/lace-polo-shirt/image_7_medium.webp",
         "full": "/images/lace-polo-shirt/image_7_full.webp"
@@ -1131,7 +1131,7 @@
     "diagrams": [
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/zongzi-dumpling-bag/image_2_thumb.webp",
         "medium": "/images/zongzi-dumpling-bag/image_2_medium.webp",
         "full": "/images/zongzi-dumpling-bag/image_2_full.webp"
@@ -1154,7 +1154,7 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/zongzi-dumpling-bag/image_2_thumb.webp",
         "medium": "/images/zongzi-dumpling-bag/image_2_medium.webp",
         "full": "/images/zongzi-dumpling-bag/image_2_full.webp"
@@ -1310,7 +1310,7 @@
     "diagrams": [
       {
         "filename": "image_13.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/hexagon-star-mesh-tote/image_13_thumb.webp",
         "medium": "/images/hexagon-star-mesh-tote/image_13_medium.webp",
         "full": "/images/hexagon-star-mesh-tote/image_13_full.webp"
@@ -1410,7 +1410,7 @@
       },
       {
         "filename": "image_13.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/hexagon-star-mesh-tote/image_13_thumb.webp",
         "medium": "/images/hexagon-star-mesh-tote/image_13_medium.webp",
         "full": "/images/hexagon-star-mesh-tote/image_13_full.webp"
@@ -1487,7 +1487,7 @@
     "diagrams": [
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/star-pet-collar-faux-bib/image_2_thumb.webp",
         "medium": "/images/star-pet-collar-faux-bib/image_2_medium.webp",
         "full": "/images/star-pet-collar-faux-bib/image_2_full.webp"
@@ -1510,7 +1510,7 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/star-pet-collar-faux-bib/image_2_thumb.webp",
         "medium": "/images/star-pet-collar-faux-bib/image_2_medium.webp",
         "full": "/images/star-pet-collar-faux-bib/image_2_full.webp"
@@ -1596,7 +1596,7 @@
     "diagrams": [
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/grogu-doll/image_3_thumb.webp",
         "medium": "/images/grogu-doll/image_3_medium.webp",
         "full": "/images/grogu-doll/image_3_full.webp"
@@ -1626,7 +1626,7 @@
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/grogu-doll/image_3_thumb.webp",
         "medium": "/images/grogu-doll/image_3_medium.webp",
         "full": "/images/grogu-doll/image_3_full.webp"
@@ -1712,7 +1712,7 @@
     "diagrams": [
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/walking-mushroom/image_2_thumb.webp",
         "medium": "/images/walking-mushroom/image_2_medium.webp",
         "full": "/images/walking-mushroom/image_2_full.webp"
@@ -1735,7 +1735,7 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/walking-mushroom/image_2_thumb.webp",
         "medium": "/images/walking-mushroom/image_2_medium.webp",
         "full": "/images/walking-mushroom/image_2_full.webp"
@@ -1810,7 +1810,7 @@
     "diagrams": [
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/stardew-valley-chick/image_1_thumb.webp",
         "medium": "/images/stardew-valley-chick/image_1_medium.webp",
         "full": "/images/stardew-valley-chick/image_1_full.webp"
@@ -1826,7 +1826,7 @@
       },
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/stardew-valley-chick/image_1_thumb.webp",
         "medium": "/images/stardew-valley-chick/image_1_medium.webp",
         "full": "/images/stardew-valley-chick/image_1_full.webp"
@@ -1899,35 +1899,35 @@
     "diagrams": [
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_2_thumb.webp",
         "medium": "/images/red-toadstool/image_2_medium.webp",
         "full": "/images/red-toadstool/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_3_thumb.webp",
         "medium": "/images/red-toadstool/image_3_medium.webp",
         "full": "/images/red-toadstool/image_3_full.webp"
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_4_thumb.webp",
         "medium": "/images/red-toadstool/image_4_medium.webp",
         "full": "/images/red-toadstool/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_5_thumb.webp",
         "medium": "/images/red-toadstool/image_5_medium.webp",
         "full": "/images/red-toadstool/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_6_thumb.webp",
         "medium": "/images/red-toadstool/image_6_medium.webp",
         "full": "/images/red-toadstool/image_6_full.webp"
@@ -1950,35 +1950,35 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_2_thumb.webp",
         "medium": "/images/red-toadstool/image_2_medium.webp",
         "full": "/images/red-toadstool/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_3_thumb.webp",
         "medium": "/images/red-toadstool/image_3_medium.webp",
         "full": "/images/red-toadstool/image_3_full.webp"
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_4_thumb.webp",
         "medium": "/images/red-toadstool/image_4_medium.webp",
         "full": "/images/red-toadstool/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_5_thumb.webp",
         "medium": "/images/red-toadstool/image_5_medium.webp",
         "full": "/images/red-toadstool/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/red-toadstool/image_6_thumb.webp",
         "medium": "/images/red-toadstool/image_6_medium.webp",
         "full": "/images/red-toadstool/image_6_full.webp"
@@ -2095,21 +2095,21 @@
     "diagrams": [
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_4_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_4_medium.webp",
         "full": "/images/3d-apple-coaster/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_5_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_5_medium.webp",
         "full": "/images/3d-apple-coaster/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_6_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_6_medium.webp",
         "full": "/images/3d-apple-coaster/image_6_full.webp"
@@ -2146,21 +2146,21 @@
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_4_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_4_medium.webp",
         "full": "/images/3d-apple-coaster/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_5_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_5_medium.webp",
         "full": "/images/3d-apple-coaster/image_5_full.webp"
       },
       {
         "filename": "image_6.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/3d-apple-coaster/image_6_thumb.webp",
         "medium": "/images/3d-apple-coaster/image_6_medium.webp",
         "full": "/images/3d-apple-coaster/image_6_full.webp"
@@ -2262,14 +2262,14 @@
     "diagrams": [
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/yoshi-brooch/image_2_thumb.webp",
         "medium": "/images/yoshi-brooch/image_2_medium.webp",
         "full": "/images/yoshi-brooch/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/yoshi-brooch/image_3_thumb.webp",
         "medium": "/images/yoshi-brooch/image_3_medium.webp",
         "full": "/images/yoshi-brooch/image_3_full.webp"
@@ -2292,14 +2292,14 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/yoshi-brooch/image_2_thumb.webp",
         "medium": "/images/yoshi-brooch/image_2_medium.webp",
         "full": "/images/yoshi-brooch/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/yoshi-brooch/image_3_thumb.webp",
         "medium": "/images/yoshi-brooch/image_3_medium.webp",
         "full": "/images/yoshi-brooch/image_3_full.webp"
@@ -2398,14 +2398,14 @@
     "diagrams": [
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-vest/image_4_thumb.webp",
         "medium": "/images/summer-vest/image_4_medium.webp",
         "full": "/images/summer-vest/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-vest/image_5_thumb.webp",
         "medium": "/images/summer-vest/image_5_medium.webp",
         "full": "/images/summer-vest/image_5_full.webp"
@@ -2442,14 +2442,14 @@
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-vest/image_4_thumb.webp",
         "medium": "/images/summer-vest/image_4_medium.webp",
         "full": "/images/summer-vest/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-vest/image_5_thumb.webp",
         "medium": "/images/summer-vest/image_5_medium.webp",
         "full": "/images/summer-vest/image_5_full.webp"
@@ -2527,7 +2527,7 @@
     "diagrams": [
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/chubby-chick/image_1_thumb.webp",
         "medium": "/images/chubby-chick/image_1_medium.webp",
         "full": "/images/chubby-chick/image_1_full.webp"
@@ -2543,7 +2543,7 @@
       },
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/chubby-chick/image_1_thumb.webp",
         "medium": "/images/chubby-chick/image_1_medium.webp",
         "full": "/images/chubby-chick/image_1_full.webp"
@@ -2624,7 +2624,7 @@
     "diagrams": [
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bikini-bottom-character/image_1_thumb.webp",
         "medium": "/images/bikini-bottom-character/image_1_medium.webp",
         "full": "/images/bikini-bottom-character/image_1_full.webp"
@@ -2640,7 +2640,7 @@
       },
       {
         "filename": "image_1.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bikini-bottom-character/image_1_thumb.webp",
         "medium": "/images/bikini-bottom-character/image_1_medium.webp",
         "full": "/images/bikini-bottom-character/image_1_full.webp"
@@ -2739,7 +2739,7 @@
     "diagrams": [
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/little-cockroach/image_4_thumb.webp",
         "medium": "/images/little-cockroach/image_4_medium.webp",
         "full": "/images/little-cockroach/image_4_full.webp"
@@ -2776,7 +2776,7 @@
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/little-cockroach/image_4_thumb.webp",
         "medium": "/images/little-cockroach/image_4_medium.webp",
         "full": "/images/little-cockroach/image_4_full.webp"
@@ -2873,7 +2873,7 @@
     "diagrams": [
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/horse-pendant/image_5_thumb.webp",
         "medium": "/images/horse-pendant/image_5_medium.webp",
         "full": "/images/horse-pendant/image_5_full.webp"
@@ -2917,7 +2917,7 @@
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/horse-pendant/image_5_thumb.webp",
         "medium": "/images/horse-pendant/image_5_medium.webp",
         "full": "/images/horse-pendant/image_5_full.webp"
@@ -3001,29 +3001,8 @@
     ],
     "diagrams": [
       {
-        "filename": "image_2.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_thumb.webp",
-        "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_medium.webp",
-        "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_full.webp"
-      },
-      {
-        "filename": "image_3.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_thumb.webp",
-        "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_medium.webp",
-        "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_full.webp"
-      },
-      {
-        "filename": "image_4.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_thumb.webp",
-        "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_medium.webp",
-        "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_full.webp"
-      },
-      {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_thumb.webp",
         "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_medium.webp",
         "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_full.webp"
@@ -3046,28 +3025,28 @@
       },
       {
         "filename": "image_2.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_thumb.webp",
         "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_medium.webp",
         "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_2_full.webp"
       },
       {
         "filename": "image_3.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_thumb.webp",
         "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_medium.webp",
         "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_3_full.webp"
       },
       {
         "filename": "image_4.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_thumb.webp",
         "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_medium.webp",
         "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_4_full.webp"
       },
       {
         "filename": "image_5.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_thumb.webp",
         "medium": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_medium.webp",
         "full": "/images/cherry-blossom-lily-of-the-valley-pendant/image_5_full.webp"
@@ -3164,85 +3143,8 @@
     ],
     "diagrams": [
       {
-        "filename": "image_2.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_2_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_2_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_2_full.webp"
-      },
-      {
-        "filename": "image_3.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_3_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_3_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_3_full.webp"
-      },
-      {
-        "filename": "image_4.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_4_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_4_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_4_full.webp"
-      },
-      {
-        "filename": "image_5.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_5_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_5_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_5_full.webp"
-      },
-      {
-        "filename": "image_6.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_6_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_6_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_6_full.webp"
-      },
-      {
-        "filename": "image_7.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_7_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_7_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_7_full.webp"
-      },
-      {
-        "filename": "image_8.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_8_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_8_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_8_full.webp"
-      },
-      {
-        "filename": "image_9.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_9_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_9_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_9_full.webp"
-      },
-      {
-        "filename": "image_10.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_10_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_10_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_10_full.webp"
-      },
-      {
-        "filename": "image_11.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_11_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_11_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_11_full.webp"
-      },
-      {
-        "filename": "image_12.webp",
-        "type": "crochet_diagram",
-        "thumb": "/images/cherry-blossom-pendant/image_12_thumb.webp",
-        "medium": "/images/cherry-blossom-pendant/image_12_medium.webp",
-        "full": "/images/cherry-blossom-pendant/image_12_full.webp"
-      },
-      {
         "filename": "image_13.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-blossom-pendant/image_13_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_13_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_13_full.webp"
@@ -3265,84 +3167,84 @@
       },
       {
         "filename": "image_2.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_2_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_2_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_2_full.webp"
       },
       {
         "filename": "image_3.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_3_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_3_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_3_full.webp"
       },
       {
         "filename": "image_4.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_4_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_4_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_4_full.webp"
       },
       {
         "filename": "image_5.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_5_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_5_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_5_full.webp"
       },
       {
         "filename": "image_6.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_6_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_6_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_6_full.webp"
       },
       {
         "filename": "image_7.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_7_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_7_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_7_full.webp"
       },
       {
         "filename": "image_8.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_8_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_8_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_8_full.webp"
       },
       {
         "filename": "image_9.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_9_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_9_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_9_full.webp"
       },
       {
         "filename": "image_10.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_10_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_10_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_10_full.webp"
       },
       {
         "filename": "image_11.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_11_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_11_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_11_full.webp"
       },
       {
         "filename": "image_12.webp",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/cherry-blossom-pendant/image_12_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_12_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_12_full.webp"
       },
       {
         "filename": "image_13.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-blossom-pendant/image_13_thumb.webp",
         "medium": "/images/cherry-blossom-pendant/image_13_medium.webp",
         "full": "/images/cherry-blossom-pendant/image_13_full.webp"
@@ -3476,7 +3378,7 @@
     "diagrams": [
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/stardew-valley-chicken/03_thumb.webp",
         "medium": "/images/stardew-valley-chicken/03_medium.webp",
         "full": "/images/stardew-valley-chicken/03_full.webp"
@@ -3499,7 +3401,7 @@
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/stardew-valley-chicken/03_thumb.webp",
         "medium": "/images/stardew-valley-chicken/03_medium.webp",
         "full": "/images/stardew-valley-chicken/03_full.webp"
@@ -3608,7 +3510,7 @@
     "diagrams": [
       {
         "filename": "07.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/star-piece-x2/07_thumb.webp",
         "medium": "/images/star-piece-x2/07_medium.webp",
         "full": "/images/star-piece-x2/07_full.webp"
@@ -3659,7 +3561,7 @@
       },
       {
         "filename": "07.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/star-piece-x2/07_thumb.webp",
         "medium": "/images/star-piece-x2/07_medium.webp",
         "full": "/images/star-piece-x2/07_full.webp"
@@ -3743,7 +3645,7 @@
     "diagrams": [
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cute-watch-pattern/04_thumb.webp",
         "medium": "/images/cute-watch-pattern/04_medium.webp",
         "full": "/images/cute-watch-pattern/04_full.webp"
@@ -3773,7 +3675,7 @@
       },
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cute-watch-pattern/04_thumb.webp",
         "medium": "/images/cute-watch-pattern/04_medium.webp",
         "full": "/images/cute-watch-pattern/04_full.webp"
@@ -3850,14 +3752,14 @@
     "diagrams": [
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/6942540d000000001e0004c2/03_thumb.webp",
         "medium": "/images/6942540d000000001e0004c2/03_medium.webp",
         "full": "/images/6942540d000000001e0004c2/03_full.webp"
       },
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/6942540d000000001e0004c2/04_thumb.webp",
         "medium": "/images/6942540d000000001e0004c2/04_medium.webp",
         "full": "/images/6942540d000000001e0004c2/04_full.webp"
@@ -3880,14 +3782,14 @@
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/6942540d000000001e0004c2/03_thumb.webp",
         "medium": "/images/6942540d000000001e0004c2/03_medium.webp",
         "full": "/images/6942540d000000001e0004c2/03_full.webp"
       },
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/6942540d000000001e0004c2/04_thumb.webp",
         "medium": "/images/6942540d000000001e0004c2/04_medium.webp",
         "full": "/images/6942540d000000001e0004c2/04_full.webp"
@@ -3961,7 +3863,7 @@
     "diagrams": [
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/awoo-pattern/02_thumb.webp",
         "medium": "/images/awoo-pattern/02_medium.webp",
         "full": "/images/awoo-pattern/02_full.webp"
@@ -3977,7 +3879,7 @@
       },
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/awoo-pattern/02_thumb.webp",
         "medium": "/images/awoo-pattern/02_medium.webp",
         "full": "/images/awoo-pattern/02_full.webp"
@@ -4054,7 +3956,7 @@
     "diagrams": [
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/piplup-earphone-bag/02_thumb.webp",
         "medium": "/images/piplup-earphone-bag/02_medium.webp",
         "full": "/images/piplup-earphone-bag/02_full.webp"
@@ -4070,7 +3972,7 @@
       },
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/piplup-earphone-bag/02_thumb.webp",
         "medium": "/images/piplup-earphone-bag/02_medium.webp",
         "full": "/images/piplup-earphone-bag/02_full.webp"
@@ -4147,28 +4049,28 @@
     "diagrams": [
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/02_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/02_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/02_full.webp"
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/03_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/03_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/03_full.webp"
       },
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/04_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/04_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/04_full.webp"
       },
       {
         "filename": "05.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/05_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/05_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/05_full.webp"
@@ -4184,28 +4086,28 @@
       },
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/02_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/02_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/02_full.webp"
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/03_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/03_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/03_full.webp"
       },
       {
         "filename": "04.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/04_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/04_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/04_full.webp"
       },
       {
         "filename": "05.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-crochet-pattern-color-annotated-version/05_thumb.webp",
         "medium": "/images/earth-crochet-pattern-color-annotated-version/05_medium.webp",
         "full": "/images/earth-crochet-pattern-color-annotated-version/05_full.webp"
@@ -4300,7 +4202,7 @@
     "diagrams": [
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/apple-coaster/02_thumb.webp",
         "medium": "/images/apple-coaster/02_medium.webp",
         "full": "/images/apple-coaster/02_full.webp"
@@ -4316,7 +4218,7 @@
       },
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/apple-coaster/02_thumb.webp",
         "medium": "/images/apple-coaster/02_medium.webp",
         "full": "/images/apple-coaster/02_full.webp"
@@ -4386,14 +4288,14 @@
     "diagrams": [
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coffee-cup-pattern/02_thumb.webp",
         "medium": "/images/coffee-cup-pattern/02_medium.webp",
         "full": "/images/coffee-cup-pattern/02_full.webp"
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coffee-cup-pattern/03_thumb.webp",
         "medium": "/images/coffee-cup-pattern/03_medium.webp",
         "full": "/images/coffee-cup-pattern/03_full.webp"
@@ -4409,14 +4311,14 @@
       },
       {
         "filename": "02.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coffee-cup-pattern/02_thumb.webp",
         "medium": "/images/coffee-cup-pattern/02_medium.webp",
         "full": "/images/coffee-cup-pattern/02_full.webp"
       },
       {
         "filename": "03.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coffee-cup-pattern/03_thumb.webp",
         "medium": "/images/coffee-cup-pattern/03_medium.webp",
         "full": "/images/coffee-cup-pattern/03_full.webp"
@@ -4526,7 +4428,7 @@
     "diagrams": [
       {
         "filename": "07.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/69c6284800000000230110f0/07_thumb.webp",
         "medium": "/images/69c6284800000000230110f0/07_medium.webp",
         "full": "/images/69c6284800000000230110f0/07_full.webp"
@@ -4577,7 +4479,7 @@
       },
       {
         "filename": "07.webp",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/69c6284800000000230110f0/07_thumb.webp",
         "medium": "/images/69c6284800000000230110f0/07_medium.webp",
         "full": "/images/69c6284800000000230110f0/07_full.webp"
@@ -4702,7 +4604,7 @@
     "diagrams": [
       {
         "filename": "11.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/67df9db2000000001b038af8/11_thumb.webp",
         "medium": "/images/67df9db2000000001b038af8/11_medium.webp",
         "full": "/images/67df9db2000000001b038af8/11_full.webp"
@@ -4781,7 +4683,7 @@
       },
       {
         "filename": "11.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/67df9db2000000001b038af8/11_thumb.webp",
         "medium": "/images/67df9db2000000001b038af8/11_medium.webp",
         "full": "/images/67df9db2000000001b038af8/11_full.webp"
@@ -4866,7 +4768,7 @@
     "diagrams": [
       {
         "filename": "06.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/firework-scarf/06_thumb.webp",
         "medium": "/images/firework-scarf/06_medium.webp",
         "full": "/images/firework-scarf/06_full.webp"
@@ -4910,7 +4812,7 @@
       },
       {
         "filename": "06.webp",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/firework-scarf/06_thumb.webp",
         "medium": "/images/firework-scarf/06_medium.webp",
         "full": "/images/firework-scarf/06_full.webp"
@@ -4970,35 +4872,35 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_full.webp"
@@ -5007,35 +4909,35 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_thumb.webp",
         "medium": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_medium.webp",
         "full": "/images/flower-1-in-mr-ch-2-2-dc-ch-2-x5-sl-st/05_full.webp"
@@ -5155,24 +5057,10 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-bag/02_thumb.webp",
         "medium": "/images/summer-bag/02_medium.webp",
         "full": "/images/summer-bag/02_full.webp"
-      },
-      {
-        "filename": "03.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/summer-bag/03_thumb.webp",
-        "medium": "/images/summer-bag/03_medium.webp",
-        "full": "/images/summer-bag/03_full.webp"
-      },
-      {
-        "filename": "05.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/summer-bag/05_thumb.webp",
-        "medium": "/images/summer-bag/05_medium.webp",
-        "full": "/images/summer-bag/05_full.webp"
       }
     ],
     "allImages": [
@@ -5185,14 +5073,14 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/summer-bag/02_thumb.webp",
         "medium": "/images/summer-bag/02_medium.webp",
         "full": "/images/summer-bag/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/summer-bag/03_thumb.webp",
         "medium": "/images/summer-bag/03_medium.webp",
         "full": "/images/summer-bag/03_full.webp"
@@ -5206,7 +5094,7 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/summer-bag/05_thumb.webp",
         "medium": "/images/summer-bag/05_medium.webp",
         "full": "/images/summer-bag/05_full.webp"
@@ -5308,35 +5196,21 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/02_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/02_medium.webp",
         "full": "/images/69ce55af000000002301144a/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/03_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/03_medium.webp",
         "full": "/images/69ce55af000000002301144a/03_full.webp"
       },
       {
-        "filename": "04.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/69ce55af000000002301144a/04_thumb.webp",
-        "medium": "/images/69ce55af000000002301144a/04_medium.webp",
-        "full": "/images/69ce55af000000002301144a/04_full.webp"
-      },
-      {
-        "filename": "05.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/69ce55af000000002301144a/05_thumb.webp",
-        "medium": "/images/69ce55af000000002301144a/05_medium.webp",
-        "full": "/images/69ce55af000000002301144a/05_full.webp"
-      },
-      {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/07_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/07_medium.webp",
         "full": "/images/69ce55af000000002301144a/07_full.webp"
@@ -5352,28 +5226,28 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/02_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/02_medium.webp",
         "full": "/images/69ce55af000000002301144a/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/03_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/03_medium.webp",
         "full": "/images/69ce55af000000002301144a/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/69ce55af000000002301144a/04_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/04_medium.webp",
         "full": "/images/69ce55af000000002301144a/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/69ce55af000000002301144a/05_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/05_medium.webp",
         "full": "/images/69ce55af000000002301144a/05_full.webp"
@@ -5387,7 +5261,7 @@
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ce55af000000002301144a/07_thumb.webp",
         "medium": "/images/69ce55af000000002301144a/07_medium.webp",
         "full": "/images/69ce55af000000002301144a/07_full.webp"
@@ -5503,7 +5377,7 @@
     "diagrams": [
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sparkle-silver-earphone-bag-pattern/07_thumb.webp",
         "medium": "/images/sparkle-silver-earphone-bag-pattern/07_medium.webp",
         "full": "/images/sparkle-silver-earphone-bag-pattern/07_full.webp"
@@ -5554,7 +5428,7 @@
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sparkle-silver-earphone-bag-pattern/07_thumb.webp",
         "medium": "/images/sparkle-silver-earphone-bag-pattern/07_medium.webp",
         "full": "/images/sparkle-silver-earphone-bag-pattern/07_full.webp"
@@ -5683,14 +5557,14 @@
     "diagrams": [
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/baby-afghan-japanese-pattern/11_thumb.webp",
         "medium": "/images/baby-afghan-japanese-pattern/11_medium.webp",
         "full": "/images/baby-afghan-japanese-pattern/11_full.webp"
       },
       {
         "filename": "12.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/baby-afghan-japanese-pattern/12_thumb.webp",
         "medium": "/images/baby-afghan-japanese-pattern/12_medium.webp",
         "full": "/images/baby-afghan-japanese-pattern/12_full.webp"
@@ -5769,14 +5643,14 @@
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/baby-afghan-japanese-pattern/11_thumb.webp",
         "medium": "/images/baby-afghan-japanese-pattern/11_medium.webp",
         "full": "/images/baby-afghan-japanese-pattern/11_full.webp"
       },
       {
         "filename": "12.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/baby-afghan-japanese-pattern/12_thumb.webp",
         "medium": "/images/baby-afghan-japanese-pattern/12_medium.webp",
         "full": "/images/baby-afghan-japanese-pattern/12_full.webp"
@@ -5856,7 +5730,7 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coco-cat-soft-candy-crochet-pattern/02_thumb.webp",
         "medium": "/images/coco-cat-soft-candy-crochet-pattern/02_medium.webp",
         "full": "/images/coco-cat-soft-candy-crochet-pattern/02_full.webp"
@@ -5872,7 +5746,7 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/coco-cat-soft-candy-crochet-pattern/02_thumb.webp",
         "medium": "/images/coco-cat-soft-candy-crochet-pattern/02_medium.webp",
         "full": "/images/coco-cat-soft-candy-crochet-pattern/02_full.webp"
@@ -5970,22 +5844,15 @@
     ],
     "diagrams": [
       {
-        "filename": "05.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/product-display-photo-mars-cake-20-version/05_thumb.webp",
-        "medium": "/images/product-display-photo-mars-cake-20-version/05_medium.webp",
-        "full": "/images/product-display-photo-mars-cake-20-version/05_full.webp"
-      },
-      {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-mars-cake-20-version/06_thumb.webp",
         "medium": "/images/product-display-photo-mars-cake-20-version/06_medium.webp",
         "full": "/images/product-display-photo-mars-cake-20-version/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-mars-cake-20-version/07_thumb.webp",
         "medium": "/images/product-display-photo-mars-cake-20-version/07_medium.webp",
         "full": "/images/product-display-photo-mars-cake-20-version/07_full.webp"
@@ -6022,21 +5889,21 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/product-display-photo-mars-cake-20-version/05_thumb.webp",
         "medium": "/images/product-display-photo-mars-cake-20-version/05_medium.webp",
         "full": "/images/product-display-photo-mars-cake-20-version/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-mars-cake-20-version/06_thumb.webp",
         "medium": "/images/product-display-photo-mars-cake-20-version/06_medium.webp",
         "full": "/images/product-display-photo-mars-cake-20-version/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-mars-cake-20-version/07_thumb.webp",
         "medium": "/images/product-display-photo-mars-cake-20-version/07_medium.webp",
         "full": "/images/product-display-photo-mars-cake-20-version/07_full.webp"
@@ -6126,7 +5993,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/694c1160000000001e009871/04_thumb.webp",
         "medium": "/images/694c1160000000001e009871/04_medium.webp",
         "full": "/images/694c1160000000001e009871/04_full.webp"
@@ -6156,7 +6023,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/694c1160000000001e009871/04_thumb.webp",
         "medium": "/images/694c1160000000001e009871/04_medium.webp",
         "full": "/images/694c1160000000001e009871/04_full.webp"
@@ -6234,7 +6101,7 @@
     "diagrams": [
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/siamese-cat-charm/05_thumb.webp",
         "medium": "/images/siamese-cat-charm/05_medium.webp",
         "full": "/images/siamese-cat-charm/05_full.webp"
@@ -6271,7 +6138,7 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/siamese-cat-charm/05_thumb.webp",
         "medium": "/images/siamese-cat-charm/05_medium.webp",
         "full": "/images/siamese-cat-charm/05_full.webp"
@@ -6349,7 +6216,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/rose-cup-holder-pattern/04_thumb.webp",
         "medium": "/images/rose-cup-holder-pattern/04_medium.webp",
         "full": "/images/rose-cup-holder-pattern/04_full.webp"
@@ -6379,7 +6246,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/rose-cup-holder-pattern/04_thumb.webp",
         "medium": "/images/rose-cup-holder-pattern/04_medium.webp",
         "full": "/images/rose-cup-holder-pattern/04_full.webp"
@@ -6443,21 +6310,21 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/01_thumb.webp",
         "medium": "/images/69131d80000000000302da99/01_medium.webp",
         "full": "/images/69131d80000000000302da99/01_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/03_thumb.webp",
         "medium": "/images/69131d80000000000302da99/03_medium.webp",
         "full": "/images/69131d80000000000302da99/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/04_thumb.webp",
         "medium": "/images/69131d80000000000302da99/04_medium.webp",
         "full": "/images/69131d80000000000302da99/04_full.webp"
@@ -6466,7 +6333,7 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/01_thumb.webp",
         "medium": "/images/69131d80000000000302da99/01_medium.webp",
         "full": "/images/69131d80000000000302da99/01_full.webp"
@@ -6480,14 +6347,14 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/03_thumb.webp",
         "medium": "/images/69131d80000000000302da99/03_medium.webp",
         "full": "/images/69131d80000000000302da99/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69131d80000000000302da99/04_thumb.webp",
         "medium": "/images/69131d80000000000302da99/04_medium.webp",
         "full": "/images/69131d80000000000302da99/04_full.webp"
@@ -6566,7 +6433,7 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-horse-pair/03_thumb.webp",
         "medium": "/images/cherry-horse-pair/03_medium.webp",
         "full": "/images/cherry-horse-pair/03_full.webp"
@@ -6589,7 +6456,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/cherry-horse-pair/03_thumb.webp",
         "medium": "/images/cherry-horse-pair/03_medium.webp",
         "full": "/images/cherry-horse-pair/03_full.webp"
@@ -6632,7 +6499,7 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/heart-symbol-chart-meet-in-march/01_thumb.webp",
         "medium": "/images/heart-symbol-chart-meet-in-march/01_medium.webp",
         "full": "/images/heart-symbol-chart-meet-in-march/01_full.webp"
@@ -6641,7 +6508,7 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/heart-symbol-chart-meet-in-march/01_thumb.webp",
         "medium": "/images/heart-symbol-chart-meet-in-march/01_medium.webp",
         "full": "/images/heart-symbol-chart-meet-in-march/01_full.webp"
@@ -6707,14 +6574,14 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ccaa970000000023025702/03_thumb.webp",
         "medium": "/images/69ccaa970000000023025702/03_medium.webp",
         "full": "/images/69ccaa970000000023025702/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/69ccaa970000000023025702/04_thumb.webp",
         "medium": "/images/69ccaa970000000023025702/04_medium.webp",
         "full": "/images/69ccaa970000000023025702/04_full.webp"
@@ -6737,14 +6604,14 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/69ccaa970000000023025702/03_thumb.webp",
         "medium": "/images/69ccaa970000000023025702/03_medium.webp",
         "full": "/images/69ccaa970000000023025702/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/69ccaa970000000023025702/04_thumb.webp",
         "medium": "/images/69ccaa970000000023025702/04_medium.webp",
         "full": "/images/69ccaa970000000023025702/04_full.webp"
@@ -6820,7 +6687,7 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/bird-symbol-chart-by-gribatch-la-2022/03_thumb.webp",
         "medium": "/images/bird-symbol-chart-by-gribatch-la-2022/03_medium.webp",
         "full": "/images/bird-symbol-chart-by-gribatch-la-2022/03_full.webp"
@@ -6843,7 +6710,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/bird-symbol-chart-by-gribatch-la-2022/03_thumb.webp",
         "medium": "/images/bird-symbol-chart-by-gribatch-la-2022/03_medium.webp",
         "full": "/images/bird-symbol-chart-by-gribatch-la-2022/03_full.webp"
@@ -6914,7 +6781,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/labubu-outfit-pattern/04_thumb.webp",
         "medium": "/images/labubu-outfit-pattern/04_medium.webp",
         "full": "/images/labubu-outfit-pattern/04_full.webp"
@@ -6944,7 +6811,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/labubu-outfit-pattern/04_thumb.webp",
         "medium": "/images/labubu-outfit-pattern/04_medium.webp",
         "full": "/images/labubu-outfit-pattern/04_full.webp"
@@ -7042,14 +6909,14 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/42-st-ball-head/06_thumb.webp",
         "medium": "/images/42-st-ball-head/06_medium.webp",
         "full": "/images/42-st-ball-head/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/42-st-ball-head/07_thumb.webp",
         "medium": "/images/42-st-ball-head/07_medium.webp",
         "full": "/images/42-st-ball-head/07_full.webp"
@@ -7093,14 +6960,14 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/42-st-ball-head/06_thumb.webp",
         "medium": "/images/42-st-ball-head/06_medium.webp",
         "full": "/images/42-st-ball-head/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/42-st-ball-head/07_thumb.webp",
         "medium": "/images/42-st-ball-head/07_medium.webp",
         "full": "/images/42-st-ball-head/07_full.webp"
@@ -7175,7 +7042,7 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sunny-doll-coco-pattern/03_thumb.webp",
         "medium": "/images/sunny-doll-coco-pattern/03_medium.webp",
         "full": "/images/sunny-doll-coco-pattern/03_full.webp"
@@ -7198,7 +7065,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sunny-doll-coco-pattern/03_thumb.webp",
         "medium": "/images/sunny-doll-coco-pattern/03_medium.webp",
         "full": "/images/sunny-doll-coco-pattern/03_full.webp"
@@ -7272,21 +7139,21 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_full.webp"
@@ -7295,21 +7162,21 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_thumb.webp",
         "medium": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_medium.webp",
         "full": "/images/dolphin-brooch-finished-photo-small-symbol-chart/03_full.webp"
@@ -7412,7 +7279,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/ice-cream-duck/04_thumb.webp",
         "medium": "/images/ice-cream-duck/04_medium.webp",
         "full": "/images/ice-cream-duck/04_full.webp"
@@ -7442,7 +7309,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/ice-cream-duck/04_thumb.webp",
         "medium": "/images/ice-cream-duck/04_medium.webp",
         "full": "/images/ice-cream-duck/04_full.webp"
@@ -7518,7 +7385,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bubble-princess-dress-labubu/04_thumb.webp",
         "medium": "/images/bubble-princess-dress-labubu/04_medium.webp",
         "full": "/images/bubble-princess-dress-labubu/04_full.webp"
@@ -7548,7 +7415,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bubble-princess-dress-labubu/04_thumb.webp",
         "medium": "/images/bubble-princess-dress-labubu/04_medium.webp",
         "full": "/images/bubble-princess-dress-labubu/04_full.webp"
@@ -7630,25 +7497,11 @@
     ],
     "diagrams": [
       {
-        "filename": "05.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/product-display-photo-popcorn-cup-sleeve/05_thumb.webp",
-        "medium": "/images/product-display-photo-popcorn-cup-sleeve/05_medium.webp",
-        "full": "/images/product-display-photo-popcorn-cup-sleeve/05_full.webp"
-      },
-      {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-popcorn-cup-sleeve/06_thumb.webp",
         "medium": "/images/product-display-photo-popcorn-cup-sleeve/06_medium.webp",
         "full": "/images/product-display-photo-popcorn-cup-sleeve/06_full.webp"
-      },
-      {
-        "filename": "07.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/product-display-photo-popcorn-cup-sleeve/07_thumb.webp",
-        "medium": "/images/product-display-photo-popcorn-cup-sleeve/07_medium.webp",
-        "full": "/images/product-display-photo-popcorn-cup-sleeve/07_full.webp"
       }
     ],
     "allImages": [
@@ -7682,21 +7535,21 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/product-display-photo-popcorn-cup-sleeve/05_thumb.webp",
         "medium": "/images/product-display-photo-popcorn-cup-sleeve/05_medium.webp",
         "full": "/images/product-display-photo-popcorn-cup-sleeve/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/product-display-photo-popcorn-cup-sleeve/06_thumb.webp",
         "medium": "/images/product-display-photo-popcorn-cup-sleeve/06_medium.webp",
         "full": "/images/product-display-photo-popcorn-cup-sleeve/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/product-display-photo-popcorn-cup-sleeve/07_thumb.webp",
         "medium": "/images/product-display-photo-popcorn-cup-sleeve/07_medium.webp",
         "full": "/images/product-display-photo-popcorn-cup-sleeve/07_full.webp"
@@ -7807,56 +7660,56 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/06_thumb.webp",
         "medium": "/images/page-1-body/06_medium.webp",
         "full": "/images/page-1-body/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/07_thumb.webp",
         "medium": "/images/page-1-body/07_medium.webp",
         "full": "/images/page-1-body/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/08_thumb.webp",
         "medium": "/images/page-1-body/08_medium.webp",
         "full": "/images/page-1-body/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/09_thumb.webp",
         "medium": "/images/page-1-body/09_medium.webp",
         "full": "/images/page-1-body/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/10_thumb.webp",
         "medium": "/images/page-1-body/10_medium.webp",
         "full": "/images/page-1-body/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/11_thumb.webp",
         "medium": "/images/page-1-body/11_medium.webp",
         "full": "/images/page-1-body/11_full.webp"
       },
       {
         "filename": "12.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/12_thumb.webp",
         "medium": "/images/page-1-body/12_medium.webp",
         "full": "/images/page-1-body/12_full.webp"
       },
       {
         "filename": "13.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/13_thumb.webp",
         "medium": "/images/page-1-body/13_medium.webp",
         "full": "/images/page-1-body/13_full.webp"
@@ -7900,56 +7753,56 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/06_thumb.webp",
         "medium": "/images/page-1-body/06_medium.webp",
         "full": "/images/page-1-body/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/07_thumb.webp",
         "medium": "/images/page-1-body/07_medium.webp",
         "full": "/images/page-1-body/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/08_thumb.webp",
         "medium": "/images/page-1-body/08_medium.webp",
         "full": "/images/page-1-body/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/09_thumb.webp",
         "medium": "/images/page-1-body/09_medium.webp",
         "full": "/images/page-1-body/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/10_thumb.webp",
         "medium": "/images/page-1-body/10_medium.webp",
         "full": "/images/page-1-body/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/11_thumb.webp",
         "medium": "/images/page-1-body/11_medium.webp",
         "full": "/images/page-1-body/11_full.webp"
       },
       {
         "filename": "12.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/12_thumb.webp",
         "medium": "/images/page-1-body/12_medium.webp",
         "full": "/images/page-1-body/12_full.webp"
       },
       {
         "filename": "13.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/page-1-body/13_thumb.webp",
         "medium": "/images/page-1-body/13_medium.webp",
         "full": "/images/page-1-body/13_full.webp"
@@ -8075,7 +7928,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jellycat-pencil-pattern/04_thumb.webp",
         "medium": "/images/jellycat-pencil-pattern/04_medium.webp",
         "full": "/images/jellycat-pencil-pattern/04_full.webp"
@@ -8105,7 +7958,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jellycat-pencil-pattern/04_thumb.webp",
         "medium": "/images/jellycat-pencil-pattern/04_medium.webp",
         "full": "/images/jellycat-pencil-pattern/04_full.webp"
@@ -8189,7 +8042,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_thumb.webp",
         "medium": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_medium.webp",
         "full": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_full.webp"
@@ -8219,7 +8072,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_thumb.webp",
         "medium": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_medium.webp",
         "full": "/images/zhou-shen-biao-yang-mini-sheep-charm/04_full.webp"
@@ -8278,7 +8131,7 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/openwork-phone-bag-pattern/03_thumb.webp",
         "medium": "/images/openwork-phone-bag-pattern/03_medium.webp",
         "full": "/images/openwork-phone-bag-pattern/03_full.webp"
@@ -8301,7 +8154,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/openwork-phone-bag-pattern/03_thumb.webp",
         "medium": "/images/openwork-phone-bag-pattern/03_medium.webp",
         "full": "/images/openwork-phone-bag-pattern/03_full.webp"
@@ -8352,7 +8205,7 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_thumb.webp",
         "medium": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_medium.webp",
         "full": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_full.webp"
@@ -8361,7 +8214,7 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_thumb.webp",
         "medium": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_medium.webp",
         "full": "/images/luo-xiaohei-princess-dress-crochet-pattern/01_full.webp"
@@ -8433,7 +8286,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/warm-finger-puppet/04_thumb.webp",
         "medium": "/images/warm-finger-puppet/04_medium.webp",
         "full": "/images/warm-finger-puppet/04_full.webp"
@@ -8463,7 +8316,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/warm-finger-puppet/04_thumb.webp",
         "medium": "/images/warm-finger-puppet/04_medium.webp",
         "full": "/images/warm-finger-puppet/04_full.webp"
@@ -8521,7 +8374,7 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bono-dragon-stone-head-cover/03_thumb.webp",
         "medium": "/images/bono-dragon-stone-head-cover/03_medium.webp",
         "full": "/images/bono-dragon-stone-head-cover/03_full.webp"
@@ -8544,7 +8397,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bono-dragon-stone-head-cover/03_thumb.webp",
         "medium": "/images/bono-dragon-stone-head-cover/03_medium.webp",
         "full": "/images/bono-dragon-stone-head-cover/03_full.webp"
@@ -8595,63 +8448,49 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/camellia-flower-pattern/02_thumb.webp",
         "medium": "/images/camellia-flower-pattern/02_medium.webp",
         "full": "/images/camellia-flower-pattern/02_full.webp"
       },
       {
-        "filename": "03.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/camellia-flower-pattern/03_thumb.webp",
-        "medium": "/images/camellia-flower-pattern/03_medium.webp",
-        "full": "/images/camellia-flower-pattern/03_full.webp"
-      },
-      {
-        "filename": "04.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/camellia-flower-pattern/04_thumb.webp",
-        "medium": "/images/camellia-flower-pattern/04_medium.webp",
-        "full": "/images/camellia-flower-pattern/04_full.webp"
-      },
-      {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/05_thumb.webp",
         "medium": "/images/camellia-flower-pattern/05_medium.webp",
         "full": "/images/camellia-flower-pattern/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/06_thumb.webp",
         "medium": "/images/camellia-flower-pattern/06_medium.webp",
         "full": "/images/camellia-flower-pattern/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/camellia-flower-pattern/07_thumb.webp",
         "medium": "/images/camellia-flower-pattern/07_medium.webp",
         "full": "/images/camellia-flower-pattern/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/08_thumb.webp",
         "medium": "/images/camellia-flower-pattern/08_medium.webp",
         "full": "/images/camellia-flower-pattern/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/09_thumb.webp",
         "medium": "/images/camellia-flower-pattern/09_medium.webp",
         "full": "/images/camellia-flower-pattern/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/10_thumb.webp",
         "medium": "/images/camellia-flower-pattern/10_medium.webp",
         "full": "/images/camellia-flower-pattern/10_full.webp"
@@ -8667,63 +8506,63 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/camellia-flower-pattern/02_thumb.webp",
         "medium": "/images/camellia-flower-pattern/02_medium.webp",
         "full": "/images/camellia-flower-pattern/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/camellia-flower-pattern/03_thumb.webp",
         "medium": "/images/camellia-flower-pattern/03_medium.webp",
         "full": "/images/camellia-flower-pattern/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/camellia-flower-pattern/04_thumb.webp",
         "medium": "/images/camellia-flower-pattern/04_medium.webp",
         "full": "/images/camellia-flower-pattern/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/05_thumb.webp",
         "medium": "/images/camellia-flower-pattern/05_medium.webp",
         "full": "/images/camellia-flower-pattern/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/06_thumb.webp",
         "medium": "/images/camellia-flower-pattern/06_medium.webp",
         "full": "/images/camellia-flower-pattern/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/camellia-flower-pattern/07_thumb.webp",
         "medium": "/images/camellia-flower-pattern/07_medium.webp",
         "full": "/images/camellia-flower-pattern/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/08_thumb.webp",
         "medium": "/images/camellia-flower-pattern/08_medium.webp",
         "full": "/images/camellia-flower-pattern/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/09_thumb.webp",
         "medium": "/images/camellia-flower-pattern/09_medium.webp",
         "full": "/images/camellia-flower-pattern/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/camellia-flower-pattern/10_thumb.webp",
         "medium": "/images/camellia-flower-pattern/10_medium.webp",
         "full": "/images/camellia-flower-pattern/10_full.webp"
@@ -8854,14 +8693,14 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/gloriosa-lily-petal-symbol-chart/06_thumb.webp",
         "medium": "/images/gloriosa-lily-petal-symbol-chart/06_medium.webp",
         "full": "/images/gloriosa-lily-petal-symbol-chart/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/gloriosa-lily-petal-symbol-chart/07_thumb.webp",
         "medium": "/images/gloriosa-lily-petal-symbol-chart/07_medium.webp",
         "full": "/images/gloriosa-lily-petal-symbol-chart/07_full.webp"
@@ -8905,14 +8744,14 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/gloriosa-lily-petal-symbol-chart/06_thumb.webp",
         "medium": "/images/gloriosa-lily-petal-symbol-chart/06_medium.webp",
         "full": "/images/gloriosa-lily-petal-symbol-chart/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/gloriosa-lily-petal-symbol-chart/07_thumb.webp",
         "medium": "/images/gloriosa-lily-petal-symbol-chart/07_medium.webp",
         "full": "/images/gloriosa-lily-petal-symbol-chart/07_full.webp"
@@ -8976,71 +8815,50 @@
     "productPhotos": [],
     "diagrams": [
       {
-        "filename": "01.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/jessie-amigurumi-doll/01_thumb.webp",
-        "medium": "/images/jessie-amigurumi-doll/01_medium.webp",
-        "full": "/images/jessie-amigurumi-doll/01_full.webp"
-      },
-      {
-        "filename": "02.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/jessie-amigurumi-doll/02_thumb.webp",
-        "medium": "/images/jessie-amigurumi-doll/02_medium.webp",
-        "full": "/images/jessie-amigurumi-doll/02_full.webp"
-      },
-      {
-        "filename": "03.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/jessie-amigurumi-doll/03_thumb.webp",
-        "medium": "/images/jessie-amigurumi-doll/03_medium.webp",
-        "full": "/images/jessie-amigurumi-doll/03_full.webp"
-      },
-      {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/04_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/04_medium.webp",
         "full": "/images/jessie-amigurumi-doll/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/05_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/05_medium.webp",
         "full": "/images/jessie-amigurumi-doll/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/06_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/06_medium.webp",
         "full": "/images/jessie-amigurumi-doll/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/07_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/07_medium.webp",
         "full": "/images/jessie-amigurumi-doll/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/08_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/08_medium.webp",
         "full": "/images/jessie-amigurumi-doll/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/09_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/09_medium.webp",
         "full": "/images/jessie-amigurumi-doll/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/10_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/10_medium.webp",
         "full": "/images/jessie-amigurumi-doll/10_full.webp"
@@ -9049,70 +8867,70 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/jessie-amigurumi-doll/01_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/01_medium.webp",
         "full": "/images/jessie-amigurumi-doll/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/jessie-amigurumi-doll/02_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/02_medium.webp",
         "full": "/images/jessie-amigurumi-doll/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/jessie-amigurumi-doll/03_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/03_medium.webp",
         "full": "/images/jessie-amigurumi-doll/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/04_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/04_medium.webp",
         "full": "/images/jessie-amigurumi-doll/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/05_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/05_medium.webp",
         "full": "/images/jessie-amigurumi-doll/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/06_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/06_medium.webp",
         "full": "/images/jessie-amigurumi-doll/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/07_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/07_medium.webp",
         "full": "/images/jessie-amigurumi-doll/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/08_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/08_medium.webp",
         "full": "/images/jessie-amigurumi-doll/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/09_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/09_medium.webp",
         "full": "/images/jessie-amigurumi-doll/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/jessie-amigurumi-doll/10_thumb.webp",
         "medium": "/images/jessie-amigurumi-doll/10_medium.webp",
         "full": "/images/jessie-amigurumi-doll/10_full.webp"
@@ -9222,14 +9040,14 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/office-worn-out-fish/01_thumb.webp",
         "medium": "/images/office-worn-out-fish/01_medium.webp",
         "full": "/images/office-worn-out-fish/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/office-worn-out-fish/02_thumb.webp",
         "medium": "/images/office-worn-out-fish/02_medium.webp",
         "full": "/images/office-worn-out-fish/02_full.webp"
@@ -9238,14 +9056,14 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/office-worn-out-fish/01_thumb.webp",
         "medium": "/images/office-worn-out-fish/01_medium.webp",
         "full": "/images/office-worn-out-fish/01_full.webp"
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/office-worn-out-fish/02_thumb.webp",
         "medium": "/images/office-worn-out-fish/02_medium.webp",
         "full": "/images/office-worn-out-fish/02_full.webp"
@@ -9336,15 +9154,8 @@
     ],
     "diagrams": [
       {
-        "filename": "04.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/686300370000000010013181/04_thumb.webp",
-        "medium": "/images/686300370000000010013181/04_medium.webp",
-        "full": "/images/686300370000000010013181/04_full.webp"
-      },
-      {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/686300370000000010013181/05_thumb.webp",
         "medium": "/images/686300370000000010013181/05_medium.webp",
         "full": "/images/686300370000000010013181/05_full.webp"
@@ -9374,14 +9185,14 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/686300370000000010013181/04_thumb.webp",
         "medium": "/images/686300370000000010013181/04_medium.webp",
         "full": "/images/686300370000000010013181/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/686300370000000010013181/05_thumb.webp",
         "medium": "/images/686300370000000010013181/05_medium.webp",
         "full": "/images/686300370000000010013181/05_full.webp"
@@ -9430,7 +9241,7 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/pear-pattern/01_thumb.webp",
         "medium": "/images/pear-pattern/01_medium.webp",
         "full": "/images/pear-pattern/01_full.webp"
@@ -9439,7 +9250,7 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/pear-pattern/01_thumb.webp",
         "medium": "/images/pear-pattern/01_medium.webp",
         "full": "/images/pear-pattern/01_full.webp"
@@ -9565,14 +9376,14 @@
     "diagrams": [
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/witch-doll-dress/10_thumb.webp",
         "medium": "/images/witch-doll-dress/10_medium.webp",
         "full": "/images/witch-doll-dress/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/witch-doll-dress/11_thumb.webp",
         "medium": "/images/witch-doll-dress/11_medium.webp",
         "full": "/images/witch-doll-dress/11_full.webp"
@@ -9644,14 +9455,14 @@
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/witch-doll-dress/10_thumb.webp",
         "medium": "/images/witch-doll-dress/10_medium.webp",
         "full": "/images/witch-doll-dress/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/witch-doll-dress/11_thumb.webp",
         "medium": "/images/witch-doll-dress/11_medium.webp",
         "full": "/images/witch-doll-dress/11_full.webp"
@@ -9722,7 +9533,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/kitty-cat/04_thumb.webp",
         "medium": "/images/kitty-cat/04_medium.webp",
         "full": "/images/kitty-cat/04_full.webp"
@@ -9752,7 +9563,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/kitty-cat/04_thumb.webp",
         "medium": "/images/kitty-cat/04_medium.webp",
         "full": "/images/kitty-cat/04_full.webp"
@@ -9841,14 +9652,14 @@
     "diagrams": [
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/crochet-star-cup-cozy/03_thumb.webp",
         "medium": "/images/crochet-star-cup-cozy/03_medium.webp",
         "full": "/images/crochet-star-cup-cozy/03_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/crochet-star-cup-cozy/06_thumb.webp",
         "medium": "/images/crochet-star-cup-cozy/06_medium.webp",
         "full": "/images/crochet-star-cup-cozy/06_full.webp"
@@ -9871,7 +9682,7 @@
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/crochet-star-cup-cozy/03_thumb.webp",
         "medium": "/images/crochet-star-cup-cozy/03_medium.webp",
         "full": "/images/crochet-star-cup-cozy/03_full.webp"
@@ -9892,7 +9703,7 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/crochet-star-cup-cozy/06_thumb.webp",
         "medium": "/images/crochet-star-cup-cozy/06_medium.webp",
         "full": "/images/crochet-star-cup-cozy/06_full.webp"
@@ -9956,91 +9767,84 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/02_thumb.webp",
         "medium": "/images/vaporeon/02_medium.webp",
         "full": "/images/vaporeon/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/03_thumb.webp",
         "medium": "/images/vaporeon/03_medium.webp",
         "full": "/images/vaporeon/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/04_thumb.webp",
         "medium": "/images/vaporeon/04_medium.webp",
         "full": "/images/vaporeon/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/05_thumb.webp",
         "medium": "/images/vaporeon/05_medium.webp",
         "full": "/images/vaporeon/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/06_thumb.webp",
         "medium": "/images/vaporeon/06_medium.webp",
         "full": "/images/vaporeon/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/07_thumb.webp",
         "medium": "/images/vaporeon/07_medium.webp",
         "full": "/images/vaporeon/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/08_thumb.webp",
         "medium": "/images/vaporeon/08_medium.webp",
         "full": "/images/vaporeon/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/09_thumb.webp",
         "medium": "/images/vaporeon/09_medium.webp",
         "full": "/images/vaporeon/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/10_thumb.webp",
         "medium": "/images/vaporeon/10_medium.webp",
         "full": "/images/vaporeon/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/11_thumb.webp",
         "medium": "/images/vaporeon/11_medium.webp",
         "full": "/images/vaporeon/11_full.webp"
       },
       {
-        "filename": "13.jpg",
-        "type": "crochet_diagram",
-        "thumb": "/images/vaporeon/13_thumb.webp",
-        "medium": "/images/vaporeon/13_medium.webp",
-        "full": "/images/vaporeon/13_full.webp"
-      },
-      {
         "filename": "14.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/14_thumb.webp",
         "medium": "/images/vaporeon/14_medium.webp",
         "full": "/images/vaporeon/14_full.webp"
       },
       {
         "filename": "15.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/15_thumb.webp",
         "medium": "/images/vaporeon/15_medium.webp",
         "full": "/images/vaporeon/15_full.webp"
@@ -10056,70 +9860,70 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/02_thumb.webp",
         "medium": "/images/vaporeon/02_medium.webp",
         "full": "/images/vaporeon/02_full.webp"
       },
       {
         "filename": "03.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/03_thumb.webp",
         "medium": "/images/vaporeon/03_medium.webp",
         "full": "/images/vaporeon/03_full.webp"
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/04_thumb.webp",
         "medium": "/images/vaporeon/04_medium.webp",
         "full": "/images/vaporeon/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/05_thumb.webp",
         "medium": "/images/vaporeon/05_medium.webp",
         "full": "/images/vaporeon/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/06_thumb.webp",
         "medium": "/images/vaporeon/06_medium.webp",
         "full": "/images/vaporeon/06_full.webp"
       },
       {
         "filename": "07.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/07_thumb.webp",
         "medium": "/images/vaporeon/07_medium.webp",
         "full": "/images/vaporeon/07_full.webp"
       },
       {
         "filename": "08.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/08_thumb.webp",
         "medium": "/images/vaporeon/08_medium.webp",
         "full": "/images/vaporeon/08_full.webp"
       },
       {
         "filename": "09.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/09_thumb.webp",
         "medium": "/images/vaporeon/09_medium.webp",
         "full": "/images/vaporeon/09_full.webp"
       },
       {
         "filename": "10.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/10_thumb.webp",
         "medium": "/images/vaporeon/10_medium.webp",
         "full": "/images/vaporeon/10_full.webp"
       },
       {
         "filename": "11.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/11_thumb.webp",
         "medium": "/images/vaporeon/11_medium.webp",
         "full": "/images/vaporeon/11_full.webp"
@@ -10133,21 +9937,21 @@
       },
       {
         "filename": "13.jpg",
-        "type": "crochet_diagram",
+        "type": "other",
         "thumb": "/images/vaporeon/13_thumb.webp",
         "medium": "/images/vaporeon/13_medium.webp",
         "full": "/images/vaporeon/13_full.webp"
       },
       {
         "filename": "14.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/14_thumb.webp",
         "medium": "/images/vaporeon/14_medium.webp",
         "full": "/images/vaporeon/14_full.webp"
       },
       {
         "filename": "15.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/vaporeon/15_thumb.webp",
         "medium": "/images/vaporeon/15_medium.webp",
         "full": "/images/vaporeon/15_full.webp"
@@ -10286,7 +10090,7 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bag-bottom/06_thumb.webp",
         "medium": "/images/bag-bottom/06_medium.webp",
         "full": "/images/bag-bottom/06_full.webp"
@@ -10330,7 +10134,7 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/bag-bottom/06_thumb.webp",
         "medium": "/images/bag-bottom/06_medium.webp",
         "full": "/images/bag-bottom/06_full.webp"
@@ -10422,7 +10226,7 @@
     "diagrams": [
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/starting-ch-ch-20/05_thumb.webp",
         "medium": "/images/starting-ch-ch-20/05_medium.webp",
         "full": "/images/starting-ch-ch-20/05_full.webp"
@@ -10459,7 +10263,7 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/starting-ch-ch-20/05_thumb.webp",
         "medium": "/images/starting-ch-ch-20/05_medium.webp",
         "full": "/images/starting-ch-ch-20/05_full.webp"
@@ -10556,7 +10360,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/pineapple-body-chick-yellow/04_thumb.webp",
         "medium": "/images/pineapple-body-chick-yellow/04_medium.webp",
         "full": "/images/pineapple-body-chick-yellow/04_full.webp"
@@ -10586,7 +10390,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/pineapple-body-chick-yellow/04_thumb.webp",
         "medium": "/images/pineapple-body-chick-yellow/04_medium.webp",
         "full": "/images/pineapple-body-chick-yellow/04_full.webp"
@@ -10793,7 +10597,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/mandala-coaster/04_thumb.webp",
         "medium": "/images/mandala-coaster/04_medium.webp",
         "full": "/images/mandala-coaster/04_full.webp"
@@ -10830,7 +10634,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/mandala-coaster/04_thumb.webp",
         "medium": "/images/mandala-coaster/04_medium.webp",
         "full": "/images/mandala-coaster/04_full.webp"
@@ -11067,7 +10871,7 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/triomphe-arch-pendant/06_thumb.webp",
         "medium": "/images/triomphe-arch-pendant/06_medium.webp",
         "full": "/images/triomphe-arch-pendant/06_full.webp"
@@ -11111,7 +10915,7 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/triomphe-arch-pendant/06_thumb.webp",
         "medium": "/images/triomphe-arch-pendant/06_medium.webp",
         "full": "/images/triomphe-arch-pendant/06_full.webp"
@@ -11307,7 +11111,7 @@
     "diagrams": [
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/rice-ball-make-2-identical-pieces/02_thumb.webp",
         "medium": "/images/rice-ball-make-2-identical-pieces/02_medium.webp",
         "full": "/images/rice-ball-make-2-identical-pieces/02_full.webp"
@@ -11323,7 +11127,7 @@
       },
       {
         "filename": "02.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/rice-ball-make-2-identical-pieces/02_thumb.webp",
         "medium": "/images/rice-ball-make-2-identical-pieces/02_medium.webp",
         "full": "/images/rice-ball-make-2-identical-pieces/02_full.webp"
@@ -11416,7 +11220,7 @@
     "diagrams": [
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-globe-pattern/05_thumb.webp",
         "medium": "/images/earth-globe-pattern/05_medium.webp",
         "full": "/images/earth-globe-pattern/05_full.webp"
@@ -11453,7 +11257,7 @@
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/earth-globe-pattern/05_thumb.webp",
         "medium": "/images/earth-globe-pattern/05_medium.webp",
         "full": "/images/earth-globe-pattern/05_full.webp"
@@ -11538,7 +11342,7 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/mini-net-earphone-bag/04_thumb.webp",
         "medium": "/images/mini-net-earphone-bag/04_medium.webp",
         "full": "/images/mini-net-earphone-bag/04_full.webp"
@@ -11568,7 +11372,7 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/mini-net-earphone-bag/04_thumb.webp",
         "medium": "/images/mini-net-earphone-bag/04_medium.webp",
         "full": "/images/mini-net-earphone-bag/04_full.webp"
@@ -11638,7 +11442,7 @@
     "diagrams": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/flower-bird-scarf/01_thumb.webp",
         "medium": "/images/flower-bird-scarf/01_medium.webp",
         "full": "/images/flower-bird-scarf/01_full.webp"
@@ -11661,7 +11465,7 @@
     "allImages": [
       {
         "filename": "01.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/flower-bird-scarf/01_thumb.webp",
         "medium": "/images/flower-bird-scarf/01_medium.webp",
         "full": "/images/flower-bird-scarf/01_full.webp"
@@ -11789,7 +11593,7 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sparrow/06_thumb.webp",
         "medium": "/images/sparrow/06_medium.webp",
         "full": "/images/sparrow/06_full.webp"
@@ -11833,7 +11637,7 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/sparrow/06_thumb.webp",
         "medium": "/images/sparrow/06_medium.webp",
         "full": "/images/sparrow/06_full.webp"
@@ -11932,7 +11736,7 @@
     "diagrams": [
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/granny-square-chart/06_thumb.webp",
         "medium": "/images/granny-square-chart/06_medium.webp",
         "full": "/images/granny-square-chart/06_full.webp"
@@ -11976,7 +11780,7 @@
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "symbol_diagram",
         "thumb": "/images/granny-square-chart/06_thumb.webp",
         "medium": "/images/granny-square-chart/06_medium.webp",
         "full": "/images/granny-square-chart/06_full.webp"
@@ -12047,21 +11851,21 @@
     "diagrams": [
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/04_thumb.webp",
         "medium": "/images/lizard-tom-pattern/04_medium.webp",
         "full": "/images/lizard-tom-pattern/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/05_thumb.webp",
         "medium": "/images/lizard-tom-pattern/05_medium.webp",
         "full": "/images/lizard-tom-pattern/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/06_thumb.webp",
         "medium": "/images/lizard-tom-pattern/06_medium.webp",
         "full": "/images/lizard-tom-pattern/06_full.webp"
@@ -12091,21 +11895,21 @@
       },
       {
         "filename": "04.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/04_thumb.webp",
         "medium": "/images/lizard-tom-pattern/04_medium.webp",
         "full": "/images/lizard-tom-pattern/04_full.webp"
       },
       {
         "filename": "05.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/05_thumb.webp",
         "medium": "/images/lizard-tom-pattern/05_medium.webp",
         "full": "/images/lizard-tom-pattern/05_full.webp"
       },
       {
         "filename": "06.jpg",
-        "type": "crochet_diagram",
+        "type": "text_diagram",
         "thumb": "/images/lizard-tom-pattern/06_thumb.webp",
         "medium": "/images/lizard-tom-pattern/06_medium.webp",
         "full": "/images/lizard-tom-pattern/06_full.webp"
