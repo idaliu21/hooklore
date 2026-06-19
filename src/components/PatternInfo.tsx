@@ -1,4 +1,5 @@
 import type { PatternMeta } from "@/lib/types";
+import { AFFILIATE_ENABLED, amazonSearchUrl } from "@/lib/affiliate";
 
 function hasSpecs(meta: PatternMeta): boolean {
   return Boolean(
@@ -50,9 +51,28 @@ export function PatternInfo({ meta }: { meta?: PatternMeta }) {
           </p>
           <ul className="list-disc list-inside text-sm text-stone-700 space-y-0.5">
             {meta.materials.map((m, i) => (
-              <li key={i}>{m}</li>
+              <li key={i}>
+                {AFFILIATE_ENABLED ? (
+                  <a
+                    href={amazonSearchUrl(m)}
+                    target="_blank"
+                    rel="sponsored nofollow noopener noreferrer"
+                    className="text-stone-700 underline decoration-stone-300 underline-offset-2 hover:text-amber-700 hover:decoration-amber-400"
+                  >
+                    {m}
+                  </a>
+                ) : (
+                  m
+                )}
+              </li>
             ))}
           </ul>
+          {AFFILIATE_ENABLED && (
+            <p className="mt-2 text-[11px] leading-snug text-stone-400">
+              As an Amazon Associate, Hooklore earns from qualifying purchases.
+              Material links open a search on Amazon.
+            </p>
+          )}
         </div>
       )}
 
