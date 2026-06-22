@@ -1,5 +1,5 @@
 import type { PatternMeta } from "@/lib/types";
-import { AFFILIATE_ENABLED, amazonSearchUrl } from "@/lib/affiliate";
+import { AFFILIATE_ENABLED, affiliateUrl } from "@/lib/affiliate";
 
 function hasSpecs(meta: PatternMeta): boolean {
   return Boolean(
@@ -54,7 +54,7 @@ export function PatternInfo({ meta }: { meta?: PatternMeta }) {
               <li key={i}>
                 {AFFILIATE_ENABLED ? (
                   <a
-                    href={amazonSearchUrl(m)}
+                    href={affiliateUrl(m)}
                     target="_blank"
                     rel="sponsored nofollow noopener noreferrer"
                     className="text-stone-700 underline decoration-stone-300 underline-offset-2 hover:text-amber-700 hover:decoration-amber-400"
