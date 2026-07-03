@@ -61,13 +61,18 @@ export async function generateMetadata({
   const ogImage = cover ? absoluteUrl(cover.full || cover.medium) : undefined;
   const description = metaDescription(pattern);
 
+  // SEO title override (see PatternMeta.seoTitle) lets near-duplicate pages
+  // differentiate their SERP title and concede the head term to one flagship.
+  const seoTitle = pattern.meta?.seoTitle?.trim();
+  const displayTitle = seoTitle || `${pattern.title} — Free Crochet Pattern`;
+
   return {
-    title: `${pattern.title} Crochet Pattern`,
+    title: displayTitle,
     description,
     alternates: { canonical: `/pattern/${pattern.slug}` },
     openGraph: {
       type: "article",
-      title: `${pattern.title} — Free Crochet Pattern`,
+      title: displayTitle,
       description,
       url: absoluteUrl(`/pattern/${pattern.slug}`),
       images: ogImage ? [{ url: ogImage, alt: `${pattern.title} crochet pattern` }] : [],
@@ -78,7 +83,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${pattern.title} — Free Crochet Pattern`,
+      title: displayTitle,
       description,
       images: ogImage ? [ogImage] : undefined,
     },
@@ -103,6 +108,9 @@ function getStructuredData(pattern: Pattern, crumbs: Crumb[]) {
       image: images.length ? images : undefined,
       datePublished: pattern.createdAt
         ? new Date(pattern.createdAt).toISOString()
+        : undefined,
+      dateModified: (pattern.updatedAt || pattern.createdAt)
+        ? new Date(pattern.updatedAt || pattern.createdAt).toISOString()
         : undefined,
       author: {
         "@type": "Person",

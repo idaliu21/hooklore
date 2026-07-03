@@ -174,6 +174,7 @@ def export():
             "author": post.get("author") or "",
             "tags": tags,
             "createdAt": post.get("created_at") or "",
+            "updatedAt": post.get("updated_at") or post.get("created_at") or "",
             "productPhotos": product_photos,
             "diagrams": diagrams,
             "allImages": image_entries,

@@ -23,6 +23,14 @@ export interface PatternFaq {
  * them render and rank fine, they just miss the richer info block / schema.
  */
 export interface PatternMeta {
+  /**
+   * Optional SEO override for the SERP <title> (and OG/Twitter title). When set,
+   * it replaces the default `${title} Crochet Pattern`. Keep it ≤ ~50 chars — the
+   * site template appends " | Hooklore". Used to differentiate near-duplicate
+   * pages (e.g. multiple Earth-globe patterns) and lift click-through. Does NOT
+   * affect the on-page H1 or the URL slug.
+   */
+  seoTitle?: string;
   /** 1–2 sentence English summary — feeds meta description + schema + AI answers. */
   intro?: string;
   materials?: string[];
@@ -44,6 +52,8 @@ export interface Pattern {
   author: string;
   tags: string[];
   createdAt: string;
+  /** Last content edit (translation/enrichment). Falls back to createdAt when absent. */
+  updatedAt?: string;
   productPhotos: PatternImage[];
   diagrams: PatternImage[];
   allImages: PatternImage[];

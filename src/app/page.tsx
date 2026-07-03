@@ -1,6 +1,32 @@
 import { getAllPatterns, getAllTags } from "@/lib/data";
 import { PatternCard } from "@/components/PatternCard";
 import { TagBadge, AllTagBadge } from "@/components/TagBadge";
+import { SITE_NAME, SITE_DESCRIPTION, absoluteUrl } from "@/lib/site";
+import type { Pattern } from "@/lib/types";
+
+/** CollectionPage + ItemList so search engines read the home page as the library index. */
+function getStructuredData(patterns: Pattern[]) {
+  const home = absoluteUrl("/");
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": `${home}#collection`,
+    url: home,
+    name: `${SITE_NAME} — Free Crochet Patterns`,
+    description: SITE_DESCRIPTION,
+    isPartOf: { "@id": `${home}#website` },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: patterns.length,
+      itemListElement: patterns.map((p, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: absoluteUrl(`/pattern/${p.slug}`),
+        name: p.title,
+      })),
+    },
+  };
+}
 
 export default function HomePage() {
   const patterns = getAllPatterns();
@@ -8,6 +34,10 @@ export default function HomePage() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(getStructuredData(patterns)) }}
+      />
       {/* Hero */}
       <section className="text-center mb-8">
         <h1 className="font-serif text-3xl sm:text-4xl text-stone-900 mb-2 tracking-tight">
