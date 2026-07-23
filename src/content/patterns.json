@@ -153,7 +153,7 @@
       "lace"
     ],
     "createdAt": "2026-06-19 02:52:51",
-    "updatedAt": "2026-06-19 02:52:51",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "image_0.jpg",
@@ -286,6 +286,11 @@
           "question": "The chart uses Korean terms. What do they mean?",
           "answer": "Key terms: 단 = round, 한길긴뜨기 = dc, 짧은뜨기 = sc, 사슬 = ch, 빼뜨기 = sl st, 매직링 = magic ring, and 기둥코/코수포함 = the turning chain counts as a stitch. Cross-check the symbol chart's stitch counts against the written rounds as you go."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -919,8 +924,7 @@
           "question": "How do I read the chart symbols?",
           "answer": "On the rebuilt grid chart, X = sc, V = inc, and A = dec. The rightmost column gives the round number and running stitch count, which peaks at 48 stitches for Rnds 8-18."
         }
-      ],
-      "seoTitle": "Easy Stuffed Earth Globe Crochet Amigurumi"
+      ]
     }
   },
   {
@@ -2727,7 +2731,7 @@
       "toy"
     ],
     "createdAt": "2026-04-13 00:42:51",
-    "updatedAt": "2026-04-13 00:42:51",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "image_0.jpg",
@@ -2840,6 +2844,12 @@
           "question": "Does the pattern specify yarn or hook size?",
           "answer": "No yarn brand or hook size is stated in the pattern, so choose a yarn and a hook one size smaller than the ball band recommends to keep the amigurumi fabric tight and the stuffing hidden."
         }
+      ],
+      "materials": [
+        "Yarn in 2 colors (body + wings)",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -4175,7 +4185,7 @@
       }
     ],
     "meta": {
-      "intro": "Free crochet pattern for the Project Hail Mary Earth globe — a tabletop world map worked in per-stitch color changes, with a full color chart in US-standard terms.",
+      "intro": "A crocheted Earth globe inspired by Project Hail Mary, with per-stitch color mapping for continents, oceans, deserts, and ice caps. It works as a decorative desk piece or a thoughtful gift for science and book lovers.",
       "materials": [
         "Yarn in Royal Blue, Willow Green, Wheat, and Pure White",
         "Crochet hook suited to your yarn",
@@ -4207,8 +4217,7 @@
           "question": "What is the difference between the two versions in this pattern?",
           "answer": "Both make the same Earth globe. The color-annotated version spells out the exact color for each stitch, while the table version shows the underlying increase/decrease structure (6 sts up to 48, then back down) alongside the colors."
         }
-      ],
-      "seoTitle": "Project Hail Mary Earth Globe Crochet Pattern"
+      ]
     }
   },
   {
@@ -4550,8 +4559,7 @@
           "question": "Is this beginner-friendly?",
           "answer": "The shaping is straightforward, but the round-by-round, stitch-by-stitch color map demands careful counting and color management, so it suits crocheters comfortable with colorwork."
         }
-      ],
-      "seoTitle": "Mini Earth Globe Pendant Crochet Pattern"
+      ]
     }
   },
   {
@@ -4566,7 +4574,7 @@
       "stardew-valley"
     ],
     "createdAt": "2026-04-03 09:22:46",
-    "updatedAt": "2026-07-03 14:04:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.webp",
@@ -4751,6 +4759,11 @@
           "question": "How do I keep the piece square at 24x24?",
           "answer": "Tapestry crochet in single crochet naturally reads close to square, but check your gauge on a small swatch first. If the fabric comes out tall and narrow, go up a hook size or work in half double crochet to widen each cell."
         }
+      ],
+      "materials": [
+        "Yarn in multiple colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -4907,7 +4920,7 @@
       "collection"
     ],
     "createdAt": "2026-04-03 05:33:14",
-    "updatedAt": "2026-04-03 05:33:14",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [],
     "diagrams": [
       {
@@ -5042,6 +5055,11 @@
           "question": "What does \"3-dc cluster\" mean in Flower 14 and 16?",
           "answer": "A cluster joins several incomplete double crochets together at the top into one stitch. For a 3-dc cluster, work three double crochets but stop before the final yarn-over on each, then pull through all loops at once to draw them into a single textured point."
         }
+      ],
+      "materials": [
+        "Cotton yarn scraps in assorted colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -5372,7 +5390,7 @@
       "accessory"
     ],
     "createdAt": "2026-04-03 05:33:04",
-    "updatedAt": "2026-04-03 05:33:04",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -5510,6 +5528,11 @@
           "question": "How does the bag stay closed?",
           "answer": "The opening is shaped on Rnd 12 (skip 3, ch 4) and edged on Rnd 13 with a *ch 3, skip 1, sl st* pull-down border. There's no zipper or button; the snug single/half double crochet fabric and small opening hold the earphones in place."
         }
+      ],
+      "materials": [
+        "Sparkle / metallic yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -5857,7 +5880,7 @@
       "food"
     ],
     "createdAt": "2026-04-03 05:32:59",
-    "updatedAt": "2026-04-03 05:32:59",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -5999,6 +6022,12 @@
           "question": "Can I make just one of the two cakes?",
           "answer": "Yes. The Mars cake (with cat topper) and the Sunrise cake (with strawberry topper) are independent patterns, so you can crochet either one on its own."
         }
+      ],
+      "materials": [
+        "Yarn in multiple colors",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -6013,7 +6042,7 @@
       "tapestry"
     ],
     "createdAt": "2026-04-03 05:32:58",
-    "updatedAt": "2026-07-03 14:04:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6100,6 +6129,11 @@
           "question": "How big will the finished piece be?",
           "answer": "That depends on your yarn weight and hook, since the chart only specifies stitch counts (138 wide by 77 tall). Make a small gauge swatch first, then multiply to estimate the finished dimensions."
         }
+      ],
+      "materials": [
+        "Yarn in 2 contrasting colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6115,7 +6149,7 @@
       "cat"
     ],
     "createdAt": "2026-04-03 05:32:56",
-    "updatedAt": "2026-04-03 05:32:56",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6223,6 +6257,13 @@
           "question": "How do I finish the charm?",
           "answer": "On the final round, pick up the back loops only (BLO) and cinch/sew the opening closed with the long tail, then attach a bow and a charm ring."
         }
+      ],
+      "materials": [
+        "Yarn in cream, light gray + accent colors",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle",
+        "Keychain hardware"
       ]
     }
   },
@@ -6238,7 +6279,7 @@
       "flower"
     ],
     "createdAt": "2026-04-03 05:32:55",
-    "updatedAt": "2026-04-03 05:32:55",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6331,6 +6372,11 @@
           "question": "Will it fit any bottle?",
           "answer": "The net stretches, so it adapts to many cup and bottle sizes. For a snugger or looser fit, adjust your hook size or yarn thickness rather than changing the chain counts."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6347,7 +6393,7 @@
       "cat"
     ],
     "createdAt": "2026-04-03 05:32:53",
-    "updatedAt": "2026-07-03 14:04:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "02.jpg",
@@ -6450,6 +6496,11 @@
           "question": "How do I make the scarf longer or shorter?",
           "answer": "Because the scarf is a row of identical joined motifs, you simply add or remove cat-face units to adjust the finished length."
         }
+      ],
+      "materials": [
+        "Yarn in 2-3 colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6464,7 +6515,7 @@
       "animal"
     ],
     "createdAt": "2026-04-03 05:32:52",
-    "updatedAt": "2026-04-03 05:32:52",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6532,7 +6583,14 @@
           "question": "Is this a beginner project?",
           "answer": "Amigurumi animals involve shaping in the round and assembling separate pieces, so a little experience with stuffed-toy crochet will help."
         }
-      ]
+      ],
+      "materials": [
+        "4-ply cotton yarn (black, cream, grey, red, chestnut, green, yellow)",
+        "1.8 mm crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
+      ],
+      "hookSize": "1.8mm"
     }
   },
   {
@@ -6546,7 +6604,7 @@
       "heart"
     ],
     "createdAt": "2026-04-03 05:32:51",
-    "updatedAt": "2026-04-03 05:32:51",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [],
     "diagrams": [
       {
@@ -6592,6 +6650,11 @@
           "question": "What can I use this heart appliqué for?",
           "answer": "Being small and flat, it works well sewn or glued onto bags, blankets, clothing, hair clips, or greeting cards as a decorative accent."
         }
+      ],
+      "materials": [
+        "Yarn scraps",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6607,7 +6670,7 @@
       "flower"
     ],
     "createdAt": "2026-04-03 05:32:51",
-    "updatedAt": "2026-07-03 14:04:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6706,6 +6769,11 @@
           "question": "What does the center look like?",
           "answer": "Round 1 starts with 24 dc in a ring, and the following rounds add chain loops and clustered tr stitches that radiate out to form a flower at the heart of the square."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6721,7 +6789,7 @@
       "bird"
     ],
     "createdAt": "2026-04-03 05:32:47",
-    "updatedAt": "2026-04-03 05:32:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6795,6 +6863,11 @@
           "question": "What stitches does the motif use?",
           "answer": "The chart combines chains, single crochet, double crochet, and treble crochet to build up the circular bird/owl shape."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6809,7 +6882,7 @@
       "character"
     ],
     "createdAt": "2026-04-03 05:32:45",
-    "updatedAt": "2026-04-03 05:32:45",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -6909,6 +6982,11 @@
           "question": "Will this fit any doll?",
           "answer": "The pattern is sized for a Labubu figure, so for a differently sized doll you may need to adjust stitch counts and chain lengths to get a good fit."
         }
+      ],
+      "materials": [
+        "Yarn in main + accent colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -6924,7 +7002,7 @@
       "hair"
     ],
     "createdAt": "2026-04-03 05:32:45",
-    "updatedAt": "2026-04-03 05:32:45",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -7065,6 +7143,11 @@
           "question": "Do I need to make both sides of the bangs separately?",
           "answer": "No. After working Strands 1, 2, and 3, you repeat Strand 3, 2, 1 in reverse order to mirror the bangs on the other side so the front is symmetrical."
         }
+      ],
+      "materials": [
+        "Yarn for hair + accessories",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -7079,7 +7162,7 @@
       "character"
     ],
     "createdAt": "2026-04-03 05:32:43",
-    "updatedAt": "2026-04-03 05:32:43",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -7162,6 +7245,12 @@
           "question": "How are the skirt and beret shaped?",
           "answer": "Both the skirt and the beret use double crochet increases (dc inc) spaced progressively further apart each round, which flares the fabric outward. The beret then decreases with sc and dec near the brim to pull it back in to hat shape."
         }
+      ],
+      "materials": [
+        "Yarn in chocolate + cream colors",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -7177,7 +7266,7 @@
       "animal"
     ],
     "createdAt": "2026-04-03 05:32:42",
-    "updatedAt": "2026-04-03 05:32:42",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "04.jpg",
@@ -7296,6 +7385,12 @@
           "question": "How do I turn the motif into a brooch?",
           "answer": "These are flat appliqués, so once worked you can sew or glue a pin back onto the wrong side. The dolphin is described as a roughly 10-minute make, making it a great way to use up small color scraps."
         }
+      ],
+      "materials": [
+        "Yarn in light blue + white",
+        "Crochet hook",
+        "Yarn needle",
+        "Brooch pin"
       ]
     }
   },
@@ -7311,7 +7406,7 @@
       "food"
     ],
     "createdAt": "2026-04-03 05:32:42",
-    "updatedAt": "2026-04-03 05:32:42",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -7404,6 +7499,12 @@
           "question": "Should I stuff the pieces?",
           "answer": "The duck body and cone are worked in continuous rounds of sc, so stuff them firmly before closing the final decrease rounds to keep the shapes rounded and upright."
         }
+      ],
+      "materials": [
+        "Yarn in white + yellow",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -7418,7 +7519,7 @@
       "knitting"
     ],
     "createdAt": "2026-04-03 05:32:38",
-    "updatedAt": "2026-04-03 05:32:38",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -7504,6 +7605,12 @@
           "question": "How do I make the bubble effect at the hem?",
           "answer": "The body is increased dramatically (up to 210 stitches around Round 25) and then sharply decreased with paired K2tog clusters in Round 27, which gathers the fabric into the puffed bubble shape that gives the dress its name."
         }
+      ],
+      "materials": [
+        "Fine-weight yarn",
+        "Knitting needles",
+        "Stitch holder",
+        "Yarn needle"
       ]
     }
   },
@@ -7518,7 +7625,7 @@
       "home"
     ],
     "createdAt": "2026-04-03 05:32:37",
-    "updatedAt": "2026-04-03 05:32:37",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -7666,6 +7773,11 @@
           "question": "How are the vertical red and white stripes made?",
           "answer": "The striped bucket body uses front post double crochet (FPdc) with color changes, which creates raised vertical lines rather than horizontal rounds, giving the classic popcorn-bucket striped look."
         }
+      ],
+      "materials": [
+        "Yarn in white, red + yellow",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -8079,7 +8191,7 @@
       "keychain"
     ],
     "createdAt": "2026-04-03 05:32:31",
-    "updatedAt": "2026-04-03 05:32:31",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -8161,7 +8273,13 @@
           "question": "What size hook works best for a mini amigurumi like this?",
           "answer": "Mini amigurumi are usually worked with a hook one or two sizes smaller than the yarn label suggests, so the stitches stay tight and the stuffing does not show through."
         }
-      ]
+      ],
+      "materials": [
+        "Yarn in off-white, black, yellow, dark gray, red + brown",
+        "1.8 mm crochet hook",
+        "Yarn needle"
+      ],
+      "hookSize": "1.8mm"
     }
   },
   {
@@ -8176,7 +8294,7 @@
       "phone"
     ],
     "createdAt": "2026-04-03 05:32:29",
-    "updatedAt": "2026-04-03 05:32:29",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -8244,6 +8362,11 @@
           "question": "Why choose an openwork stitch for a phone bag?",
           "answer": "An openwork mesh stretches to fit different phone sizes and stays lightweight, but because it is see-through you may want to add a fabric lining if you also want to carry small items like cards or keys."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -8258,7 +8381,7 @@
       "character"
     ],
     "createdAt": "2026-04-03 05:32:28",
-    "updatedAt": "2026-04-03 05:32:28",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "02.jpg",
@@ -8312,6 +8435,11 @@
           "question": "Will this dress fit any doll?",
           "answer": "It is shaped specifically for the Luo Xiaohei character doll. For a different doll you may need to adjust the number of stitches or rows so the dress fits that body's measurements."
         }
+      ],
+      "materials": [
+        "Fine yarn",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -8326,7 +8454,7 @@
       "toy"
     ],
     "createdAt": "2026-04-03 05:32:22",
-    "updatedAt": "2026-04-03 05:32:22",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -8408,7 +8536,14 @@
           "question": "Are finger puppets safe for young children?",
           "answer": "Use embroidered or yarn-based features rather than small safety eyes or loose beads for very young children, and weave in all ends securely so nothing can be pulled off."
         }
-      ]
+      ],
+      "materials": [
+        "Yarn in main, white + red",
+        "1.8 mm and 2.3 mm crochet hooks",
+        "Fiberfill stuffing",
+        "Yarn needle"
+      ],
+      "hookSize": "1.8mm / 2.3mm"
     }
   },
   {
@@ -8422,7 +8557,7 @@
       "character"
     ],
     "createdAt": "2026-04-03 05:32:20",
-    "updatedAt": "2026-04-03 05:32:20",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -8490,6 +8625,11 @@
           "question": "How do I keep the stitches tight enough?",
           "answer": "Work in continuous rounds and go down a hook size from the yarn's recommendation. Tight, even stitches keep the fabric dense so any stuffing or base object stays hidden."
         }
+      ],
+      "materials": [
+        "Yarn in main + white/brown accents",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -8867,8 +9007,7 @@
           "question": "What hook and thread suit this micro-crochet lily?",
           "answer": "The pattern calls for fine thread and a small hook. A steel hook matched to the thread weight keeps the tiny stitches crisp and the finished lily delicate."
         }
-      ],
-      "seoTitle": "Gloriosa Lily — Free Micro-Crochet Pattern & Chart"
+      ]
     }
   },
   {
@@ -8883,7 +9022,7 @@
       "doll"
     ],
     "createdAt": "2026-04-03 05:32:13",
-    "updatedAt": "2026-04-03 05:32:13",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [],
     "diagrams": [
       {
@@ -9072,7 +9211,16 @@
           "question": "How do I stop stuffing from showing through the doll?",
           "answer": "Use a hook a size or two smaller than your yarn's label recommends. The tighter fabric keeps the stuffing hidden and gives the doll a firm, even shape."
         }
-      ]
+      ],
+      "materials": [
+        "Worsted / sport cotton yarn in multiple colors",
+        "2.2 mm crochet hook",
+        "8 mm safety eyes",
+        "Fiberfill stuffing",
+        "Stitch marker",
+        "Tapestry needle"
+      ],
+      "hookSize": "2.2mm"
     }
   },
   {
@@ -9086,7 +9234,7 @@
       "animal"
     ],
     "createdAt": "2026-04-03 05:32:12",
-    "updatedAt": "2026-04-03 05:32:12",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "03.jpg",
@@ -9187,7 +9335,16 @@
           "question": "What yarn and hook should I use?",
           "answer": "The pattern does not specify materials. A worsted or DK acrylic with a slightly smaller hook than the label suggests gives a tight, stuffing-proof fabric typical of amigurumi."
         }
-      ]
+      ],
+      "materials": [
+        "Yarn in indigo + amber yellow",
+        "1.8 mm crochet hook",
+        "Fiberfill stuffing",
+        "Pipe cleaners (leg armature)",
+        "Hot glue gun",
+        "Yarn needle"
+      ],
+      "hookSize": "1.8mm"
     }
   },
   {
@@ -9202,7 +9359,7 @@
       "elephant"
     ],
     "createdAt": "2026-04-03 05:32:09",
-    "updatedAt": "2026-07-03 14:04:47",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -9296,6 +9453,12 @@
           "question": "What materials do I need?",
           "answer": "The pattern does not list materials. A worsted or DK acrylic yarn with a hook a size smaller than recommended, plus fiberfill stuffing and safety eyes, is a standard setup for a small amigurumi like this."
         }
+      ],
+      "materials": [
+        "Plush / velvet yarn",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -9383,7 +9546,7 @@
       "character"
     ],
     "createdAt": "2026-04-03 05:32:07",
-    "updatedAt": "2026-04-03 05:32:07",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -9568,7 +9731,13 @@
           "question": "Does the set include the cat?",
           "answer": "Yes, the project pairs the witch dress with a small companion cat to complete the look."
         }
-      ]
+      ],
+      "materials": [
+        "Size 8 lace thread",
+        "1.0 mm crochet hook",
+        "Yarn needle"
+      ],
+      "hookSize": "1.0mm"
     }
   },
   {
@@ -9696,7 +9865,7 @@
       "home"
     ],
     "createdAt": "2026-04-03 05:32:02",
-    "updatedAt": "2026-04-03 05:32:02",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -9811,7 +9980,13 @@
           "question": "What yarn works best for a cup sleeve?",
           "answer": "Cotton or a cotton blend is a good choice because it holds its shape, handles warmth from hot drinks well, and washes easily."
         }
-      ]
+      ],
+      "materials": [
+        "Milk cotton yarn, light yellow",
+        "2.0 mm crochet hook",
+        "Yarn needle"
+      ],
+      "hookSize": "2.0mm"
     }
   },
   {
@@ -9826,7 +10001,7 @@
       "pokemon"
     ],
     "createdAt": "2026-04-03 05:31:58",
-    "updatedAt": "2026-04-03 05:31:58",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -10115,6 +10290,13 @@
           "question": "What yarn weight suits mini amigurumi?",
           "answer": "Smaller characters look crispest in a thinner yarn worked at a tight gauge; choose a lighter weight and a correspondingly small hook so the stuffing does not show through the stitches."
         }
+      ],
+      "materials": [
+        "Chenille / velvet yarn in blue, light blue + white",
+        "Crochet hook",
+        "Safety eyes",
+        "Fiberfill stuffing",
+        "Yarn needle"
       ]
     }
   },
@@ -10545,7 +10727,7 @@
       "letter"
     ],
     "createdAt": "2026-04-02 23:40:14",
-    "updatedAt": "2026-04-02 23:40:14",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -10639,6 +10821,12 @@
           "question": "In what order is the letter built?",
           "answer": "Work the vertical spine first, then add the top, middle, and bottom horizontal bars, finishing with the decorative shell/fan edging."
         }
+      ],
+      "materials": [
+        "Cotton yarn",
+        "Crochet hook",
+        "Fabric stiffener or starch spray",
+        "Yarn needle"
       ]
     }
   },
@@ -10786,7 +10974,7 @@
       "home"
     ],
     "createdAt": "2026-04-02 23:40:11",
-    "updatedAt": "2026-04-02 23:40:11",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -10909,6 +11097,11 @@
           "question": "What creates the decorative edge?",
           "answer": "The final round forms a scalloped flower border by working 7-dc fan shells into the ch-2 spaces, separated by single crochets between the dc groups of the previous round."
         }
+      ],
+      "materials": [
+        "Cotton yarn in 3-5 colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -11391,8 +11584,7 @@
           "question": "How do I get a nicely round shape?",
           "answer": "Stuff firmly around the sides as you close the decrease section so the globe holds a smooth, round form rather than collapsing flat."
         }
-      ],
-      "seoTitle": "Crochet Earth Globe Amigurumi (Free Pattern)"
+      ]
     }
   },
   {
@@ -11521,7 +11713,7 @@
       "wearable"
     ],
     "createdAt": "2026-04-02 23:40:00",
-    "updatedAt": "2026-04-02 23:40:00",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "02.jpg",
@@ -11630,6 +11822,11 @@
           "question": "Why do my stitch counts not match exactly?",
           "answer": "The written flower counts capture the general structure only; the notes recommend verifying exact stitch counts against the symbol chart, which is the authoritative reference for this pattern."
         }
+      ],
+      "materials": [
+        "Yarn in gradient colors",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -11789,7 +11986,7 @@
       "motif"
     ],
     "createdAt": "2026-03-30 14:35:35",
-    "updatedAt": "2026-03-30 14:35:35",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -11905,6 +12102,11 @@
           "question": "Can I join several of these into a blanket?",
           "answer": "Yes. At roughly 20x20cm each, these motifs join edge-to-edge with slip stitch or whip stitch to build blankets, cushion covers, or bags."
         }
+      ],
+      "materials": [
+        "Yarn in blue, light blue, yellow + peach",
+        "Crochet hook",
+        "Yarn needle"
       ]
     }
   },
@@ -11919,7 +12121,7 @@
       "animal"
     ],
     "createdAt": "2026-03-30 14:35:34",
-    "updatedAt": "2026-03-30 14:35:34",
+    "updatedAt": "2026-07-23 02:52:14",
     "productPhotos": [
       {
         "filename": "01.jpg",
@@ -12060,7 +12262,12 @@
           "answer": "Yes. The designer notes that the counts for Rnds 8-12 should be verified as you go, since these rounds mix sc, hdc, and dc with increases and decreases. Count after each round and compare to the bracketed total."
         }
       ],
-      "seoTitle": "Tom the Lizard — Free Crochet Amigurumi"
+      "materials": [
+        "Yarn in 2 colors",
+        "Crochet hook",
+        "Fiberfill stuffing",
+        "Yarn needle"
+      ]
     }
   }
 ]
