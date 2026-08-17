@@ -21,17 +21,40 @@ const AMAZON_DOMAIN = (
 /** True once an Associates tag is configured — gates the links + disclosure. */
 export const AFFILIATE_ENABLED = AMAZON_TAG.length > 0;
 
+/** Words that describe our pattern's colour scheme, not the product on Amazon. */
+const NOISE_WORDS = /\b(colou?rways?|approx\.?|optional|preferred|your choice)\b/gi;
+
+/** Fibres that imply the material is yarn even when the word "yarn" is absent. */
+const FIBRE_WORDS =
+  /\b(cotton|mohair|wool|acrylic|chenille|velvet|angora|alpaca|bamboo|milk fiber)\b/i;
+
 /**
  * Clean a material string into a sensible Amazon search query:
- * drop parenthetical notes ("(colorways 70/06)"), normalise separators, collapse
- * whitespace. "4-ply cotton yarn (colorways 70 / 06)" -> "4-ply cotton yarn".
+ * drop parenthetical notes ("(colorways 70/06)"), normalise separators, strip
+ * colour-scheme noise, and cap the length — long descriptor tails ("dark green
+ * body, light green flap") tank search relevance.
+ * Also make sure yarn searches actually say "yarn": "4-ply sport-weight cotton"
+ * would surface clothing, "4-ply sport-weight cotton yarn" surfaces yarn.
  */
 export function materialToQuery(raw: string): string {
-  return raw
+  let q = raw
     .replace(/\([^)]*\)/g, " ") // strip "( ... )"
     .replace(/[,/|]+/g, " ") // commas / slashes -> space
+    .replace(NOISE_WORDS, " ")
     .replace(/\s+/g, " ")
     .trim();
+
+  // Keep queries short: the first words carry the signal.
+  const words = q.split(" ");
+  if (words.length > 8) q = words.slice(0, 8).join(" ");
+
+  // Trim dangling connectives left by the cap or the noise strip
+  // ("Yarn in Royal Blue Willow Green Wheat and" -> "... Wheat").
+  q = q.replace(/(\s*\b(and|or|in|for|with|the|a|an)\b)+$/i, "").trim();
+
+  if (!/\byarn\b/i.test(q) && FIBRE_WORDS.test(q)) q += " yarn";
+
+  return q;
 }
 
 /** Build an Amazon search URL for a material, with the Associates tag if set. */
@@ -64,7 +87,7 @@ const PRODUCT_CATALOG: { test: RegExp; asin: string }[] = [
   // Stitch markers
   { test: /stitch\s*marker|\bmarkers?\b|记号/i, asin: "B0F28Z5BZK" },
   // Safety eyes (amigurumi)
-  { test: /safety\s*eyes?|安全眼|玩偶眼/i, asin: "B0CRYZTN3K" },
+  { test: /safety\s*eyes?|(black|plastic|doll|amigurumi|toy)\s+eyes\b|安全眼|玩偶眼/i, asin: "B0CRYZTN3K" },
   // Fiberfill / stuffing
   { test: /fiber\s*fill|fibre\s*fill|fiberfill|poly-?fil|stuffing|填充|填充棉/i, asin: "B004ALQ0M2" },
   // Crochet hook (kit also includes markers/needles) — keep last of the tools

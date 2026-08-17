@@ -46,20 +46,28 @@ export function PatternInfo({ meta }: { meta?: PatternMeta }) {
 
       {meta.materials && meta.materials.length > 0 && (
         <div className="mt-4">
-          <p className="text-[11px] uppercase tracking-wider text-stone-400 mb-1">
+          <p className="text-[11px] uppercase tracking-wider text-stone-400 mb-1.5">
             Materials
           </p>
-          <ul className="list-disc list-inside text-sm text-stone-700 space-y-0.5">
+          <ul className="text-sm text-stone-700 space-y-1.5">
             {meta.materials.map((m, i) => (
-              <li key={i}>
+              <li key={i} className="flex items-baseline gap-2">
+                <span aria-hidden="true" className="select-none text-stone-300">
+                  •
+                </span>
                 {AFFILIATE_ENABLED ? (
                   <a
                     href={affiliateUrl(m)}
                     target="_blank"
                     rel="sponsored nofollow noopener noreferrer"
-                    className="text-stone-700 underline decoration-stone-300 underline-offset-2 hover:text-amber-700 hover:decoration-amber-400"
+                    className="group inline-flex flex-wrap items-baseline gap-x-2 gap-y-0.5"
                   >
-                    {m}
+                    <span className="underline decoration-amber-300 underline-offset-2 group-hover:text-amber-800 group-hover:decoration-amber-500">
+                      {m}
+                    </span>
+                    <span className="whitespace-nowrap rounded-full border border-amber-200 bg-amber-50 px-1.5 py-px text-[10px] font-medium text-amber-700 group-hover:bg-amber-100">
+                      Amazon&nbsp;↗
+                    </span>
                   </a>
                 ) : (
                   m
@@ -70,7 +78,7 @@ export function PatternInfo({ meta }: { meta?: PatternMeta }) {
           {AFFILIATE_ENABLED && (
             <p className="mt-2 text-[11px] leading-snug text-stone-400">
               As an Amazon Associate, Hooklore earns from qualifying purchases.
-              Material links open a search on Amazon.
+              Links open Amazon — a matching product or search results.
             </p>
           )}
         </div>
