@@ -1,5 +1,2456 @@
 [
   {
+    "id": 288,
+    "slug": "scoop-the-pelican-amigurumi",
+    "title": "Scoop the Pelican",
+    "description": "🪶 手作巨萌「鹈鹕Scoop」来咯！ | 附保姆级教程\n🐦 「自带零食袋的呆萌水鸟」\n谁还没个会卖萌的捕鱼达人朋友了！\n手工钩织的治愈系大嘴鹈鹕，圆滚滚肚子暗藏玄机——\n✨ 超仿真喉囊设计，真的可以塞小鱼饼干当零食罐！\n\n**标签**: 钩针图解 手工diy 翻译图解 图解分享 钩织教程 我的手工日常 治愈系礼物 鹈鹕",
+    "author": "布咕手艺",
+    "tags": [
+      "amigurumi",
+      "bird",
+      "animal",
+      "toy"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_0_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_0_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_1_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_1_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_1_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_2_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_2_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_3_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_3_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_4_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_4_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_5_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_5_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_0_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_0_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_1_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_1_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_2_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_2_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_3_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_3_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_4_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_4_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/scoop-the-pelican-amigurumi/image_5_thumb.webp",
+        "medium": "/images/scoop-the-pelican-amigurumi/image_5_medium.webp",
+        "full": "/images/scoop-the-pelican-amigurumi/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Scoop the Pelican — Head and Body\n\nHead and Body (white)\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *inc, sc*, repeat 6 times (18)\nRnd 4: *inc, 2 sc*, repeat 6 times (24)\nRnd 5: *inc, 3 sc*, repeat 6 times (30)\nRnd 6: *inc, 4 sc*, repeat 6 times (36)\nRnd 7-30: 36 sc (36)\nThe next round forms the pelican's back ridge.\nRnd 31: Ch 13, starting in the 2nd ch: 12 sc, 36 sc around the body, then 12 sc back along the other side of the chain (60)\nRnd 32: 3 sc in one st, 58 sc, 3 sc in one st (64)\nRnd 33: sc, inc, 61 sc, inc (66)\nInsert the safety eyes between Rnd 13 and Rnd 14, about 12 sts apart.\nRnd 34-50: 66 sc (66)\nRnd 51: *9 sc, dec*, repeat 6 times (60)\nRnd 52: *4 sc, dec, 4 sc*, repeat 6 times (54)\nRnd 53: *7 sc, dec*, repeat 6 times (48)\nRnd 54: *3 sc, dec, 3 sc*, repeat 6 times (42)\nRnd 55: *5 sc, dec*, repeat 6 times (36)\nRnd 56: *2 sc, dec, 2 sc*, repeat 6 times (30)\nRnd 57: *3 sc, dec*, repeat 6 times (24)\nRnd 58: *sc, dec, sc*, repeat 6 times (18)\nRnd 59: *sc, dec*, repeat 6 times (12)\nRnd 60: 6 dec (6)\nFasten off leaving a long tail. Run the tail through the front loops of the remaining stitches and pull closed. Weave in the ends.",
+        "chineseText": "Scoop The Pelican 鹈鹕 — 头部和身体（用白色线）R1: MR,6X=6 R2:6V=12 ... R60:6A=6",
+        "notes": "Part 1 of 4 of the Scoop the Pelican amigurumi. Original design from the book Colorful Crochet Birds; this is a Chinese translation sheet. Shorthand: X = sc, V = inc, A = dec, W = 3 sc in one st, T = tr."
+      },
+      {
+        "englishText": "Scoop the Pelican — Beak\n\nThe beak has two parts: an upper beak (an outer piece and an inner piece sewn together) and a lower beak. All worked in yellow.\n\nUpper Beak — Inner Piece\nRnd 1: Ch 13, starting in the 2nd ch: 11 sc, 5 sc in the last ch, then 11 sc along the other side (27)\nRnd 2: 2 sc, (3 sc in one st, 12 sc), 3 sc in one st (33)\nRnd 3: sc, 2× (3 sc in one st, 14 sc), 3 sc in one st, sc (39)\nRnd 4: 2 sc, 2× (3 sc in one st, 16 sc), 3 sc in one st, 2 sc (45)\nFasten off and weave in the ends.\n\nUpper Beak — Outer Piece\nRnd 1: Ch 13, starting in the 2nd ch: 11 sc, 5 sc in the last ch, then 11 sc along the other side (27)\nRnd 2: 2 sc, (3 sc in one st, 12 sc), 3 sc in one st (33)\nRnd 3: sc, 2× (3 sc in one st, 14 sc), 3 sc in one st, sc (39)\nRnd 4: 2 sc, 2× (3 sc in one st, 16 sc), 3 sc in one st, 2 sc (45)\nRnd 5: 3 sc, 2× (3 sc in one st, 18 sc), 3 sc in one st, 3 sc (51)\n\nJoining the Upper Beak\nDo not fasten off the outer piece; the next round joins the two layers.\nRnd 1: 3 sl st along the outer piece, skip 3 sts, sl st. Lay the inner piece under the outer piece with wrong sides together. Mark the centre stitch at the tip of each piece. Work the next stitches through both layers to join them, 38 sl st, removing the markers as you go and keeping the pieces aligned. Then continue in the outer piece only, skip 3 sts, 3 sl st (44). Fasten off leaving a long tail for sewing.\n\nLower Beak (yellow)\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *inc, sc*, repeat 6 times (18)\nRnd 4: *inc, 2 sc*, repeat 6 times (24)\nRnd 5: 11 sc, 2 inc, 11 sc (26)\nRnd 6: 12 sc, 2 inc, 12 sc (28)\nRnd 7: 13 sc, 2 inc, 13 sc (30)\nRnd 8: 15 sc, 2 inc, 13 sc (32)\nRnd 9: 16 sc, 2 inc, 14 sc (34)\nRnd 10: 17 sc, 2 inc, 15 sc (36)\nRnd 11: 19 sc, 2 inc, 15 sc (38)\nRnd 12: 20 sc, 2 inc, 16 sc (40)\nRnd 13: 21 sc, 2 inc, 17 sc (42)\nRnd 14-27: 42 sc (42)\nRnd 28: 8 sc, 34 sl st (42)\nFasten off leaving a long tail for sewing.",
+        "chineseText": "鸟嘴（用黄色线）上喙-内层 / 上喙-外层 / 组装鸟喙 / 下喙",
+        "notes": "Part 2 of 4 of Scoop the Pelican. The upper beak is double-layered so the pouch holds its shape and can be used as a little pocket. W = 3 sc in one st."
+      },
+      {
+        "englishText": "Scoop the Pelican — Head Feathers, Wings and Tail\n\nHead Feathers (white)\nRow 1: *Ch 8, starting in the 3rd ch: 5 tr, tr, ch 3, sl st*, repeat 3 times — three feathers joined at the base.\nFasten off leaving a long tail for sewing.\n\nWings (make 2, start in white)\nRnd 1: Ch 10, starting in the 2nd ch: 8 sc, 5 sc in the last ch; along the other side 7 sc, 4 sc in the last st (24)\nRnd 2: 2× (9 sc, 3 inc) (30)\nRnd 3: 9 sc, 3× (sc, inc), 9 sc, 3× (sc, inc) (36)\nRnd 4: 9 sc, 3× (inc, 2 sc), 9 sc, 3× (inc, 2 sc) (42)\nRnd 5: 9 sc, 3× (3 sc, inc), 9 sc, 3× (3 sc, inc) (48)\nRnd 6: 9 sc, 3× (inc, 4 sc), 9 sc, 3× (inc, 4 sc) (54)\nRnd 7: 9 sc, 3× (5 sc, inc), 9 sc, 3× (5 sc, inc) (60)\nWork 6 sc to reach the centre of the side. Do not stuff the wing. Fold it in half using the last stitch of the side as the fold point.\nClosing row: 30 sc through both layers (30). Fasten off leaving a long tail for sewing.\n\nRight Wing Feathers\nJoin dark brown yarn in the first stitch of the closing row: *(ch 2, 3 tr, ch 2, sl st)*, repeat 3 times, then ch 2, 3 tr, ch 2, sl st = 4 feathers.\n\nLeft Wing Feathers\nJoin dark brown yarn in the 19th stitch of the closing row: *(ch 2, 3 tr, ch 2, sl st)*, repeat 3 times, then ch 2, 3 tr, ch 2, sl st = 4 feathers. Fasten off and weave in the ends.\n\nTail (start in dark brown)\nRnd 1: Ch 7, starting in the 2nd ch: 5 sc, 3 sc in one st; along the other side 4 sc, inc (14)\nRnd 2: 2× (6 sc, inc) (16)\nRnd 3-4: 16 sc (16)\nRnd 5: 2× (dec, 6 sc) (14)\nRnd 6: 14 sc (14)\nChange to white.\nRnd 7: 14 sc (14)\nFasten off leaving a long tail for sewing. Do not stuff the tail.",
+        "chineseText": "头部羽毛 / 翅膀（制作2个）/ 右翅羽毛 / 左翅羽毛 / 尾巴",
+        "notes": "Part 3 of 4 of Scoop the Pelican. The wings are closed flat and left unstuffed; the brown feather trim is added afterwards into the closing row."
+      },
+      {
+        "englishText": "Scoop the Pelican — Feet, Legs and Assembly\n\nFeet (make 2, dark yellow)\nRnd 1: 6 sc in MR (6)\nRnd 2: 3× (inc, sc) (9). The next round leaves a gap for the leg.\nRnd 3: 3 sc, ch 3, skip 3 sts, 3 sc (6 sts plus 3 ch)\nRnd 4: inc, 2 sc, inc worked into the chain, 2 sc, inc, 2 sc (12)\nRnd 5: 12 sc (12)\nRnd 6: 3× (inc, 3 sc) (15)\nRnd 7: 15 sc (15)\nRnd 8: 3× (inc, 4 sc) (18)\nRnd 9: 18 sc (18)\nDo not stuff. Flatten the foot with the last stitch at the side and close it through both layers.\nClosing row: 9 sc, turn (9)\nToes: Ch 2, dc in the first st, sl st in each of the next 2 sts, ch 2, dc, sl st, sc, sl st in each of the next 2 sts, sl st, ch 2, dc, sl st in the last st = 3 toes. Fasten off and weave in the ends.\n\nLegs (dark yellow)\nJoin the yarn in the corner stitch of the Rnd 3 gap in the foot.\nRnd 1: sc in the corner st, 3 sc, sc in the corner st, 3 sc (8)\nRnd 2-7: 8 sc (8)\nFasten off leaving a long tail for sewing. The legs can be lightly stuffed; stuffing is optional.\n\nAssembly\nPin every piece in place before you sew anything.\n- Pin the straight pinched edge of the upper beak and sew it to the head between Rnd 11 and Rnd 13, centred between the eyes. Sew through the outer layer only.\n- Pin the lower beak under the upper beak so its last 8 sc line up with the upper beak. Sew along those stitches, then take a few extra stitches at the base of the beak into the neck to hold it steady.\n- Pin the head feathers to the top of the head in overlapping layers and sew them down with a few small stitches on each side.\n- Pin the wings between Rnd 35 and Rnd 36 of the body. Sew only the straight edge down, with the feathers pointing toward the back.\n- Sew the tail to the back of the body at Rnd 14-15.\n- Sew the tops of the legs to the underside of the body between Rnd 55 and Rnd 56, roughly 6 sts apart at the front. Set the feet so the pelican stands, with the toes pointing up.",
+        "chineseText": "脚（制作2个，用深黄色线）/ 腿 / 组装",
+        "notes": "Part 4 of 4 of Scoop the Pelican: feet, legs and the full assembly order."
+      }
+    ],
+    "meta": {
+      "intro": "Scoop the Pelican is a standing amigurumi bird with a two-layer beak that opens into a real pouch, so it can hold small treats or notions. The pattern covers the body, beak, wings, tail, feet and full assembly.",
+      "materials": [
+        "White, yellow, dark yellow and dark brown yarn",
+        "Safety eyes",
+        "Fibrefill stuffing",
+        "Yarn needle",
+        "Stitch markers"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "6-10 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "inc",
+        "dec",
+        "MR",
+        "sl st",
+        "BLO"
+      ],
+      "faq": [
+        {
+          "question": "Why is the upper beak made from two pieces?",
+          "answer": "The outer and inner pieces are joined with a round of slip stitches through both layers, which makes the pouch hold its shape and stay open."
+        },
+        {
+          "question": "Do the wings need stuffing?",
+          "answer": "No. The wings are folded in half and closed with sc through both layers, then the brown feather trim is added into that closing row."
+        },
+        {
+          "question": "How do I make the pelican stand up?",
+          "answer": "Sew the tops of the legs to the underside of the body between Rnd 55 and Rnd 56, about 6 stitches apart at the front, with the toes pointing up."
+        },
+        {
+          "question": "Where do the eyes go?",
+          "answer": "Insert the safety eyes between Rnd 13 and Rnd 14 of the head, roughly 12 stitches apart, before you close the body."
+        }
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "slug": "mouse-family-amigurumi",
+    "title": "Mouse Family Amigurumi",
+    "description": "是可以扭扭的鼠\n\n**标签**: 钩针分享 图解 钩针宝可梦 一家鼠 宝可梦",
+    "author": "我哦ovo",
+    "tags": [
+      "amigurumi",
+      "animal",
+      "toy",
+      "pokemon"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_0_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_0_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_1_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_1_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_1_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_5_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_5_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_6_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_6_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_7_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_7_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_8_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_8_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_8_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_2_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_2_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_3_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_3_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_4_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_4_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_0_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_0_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_1_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_1_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_2_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_2_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_3_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_3_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mouse-family-amigurumi/image_4_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_4_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_5_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_5_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_6_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_6_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_7_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_7_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mouse-family-amigurumi/image_8_thumb.webp",
+        "medium": "/images/mouse-family-amigurumi/image_8_medium.webp",
+        "full": "/images/mouse-family-amigurumi/image_8_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Mouse Family — Big Mouse Head and Upper Body\n\nHooks: 2.0mm, 1.0mm and 0.7mm. Colours: 4-ply cotton in pale blue, white and black.\n\nBig Mouse Head (white)\nRnd 1: 8 sc (8)\nRnd 2: 8 inc (16)\nRnd 3: 8× (sc, inc) (24)\nRnd 4: 6× (3 sc, inc) (30)\nRnd 5: 6× (2 sc, inc, 2 sc) (36)\nRnd 6: 36 sc (36)\nRnd 7: 6× (5 sc, inc) (42)\nRnd 8: 42 sc (42)\nRnd 9: 6× (3 sc, inc, 3 sc) (48)\nRnd 10-11: 48 sc (48)\nRnd 12: 6× (7 sc, inc) (54)\nRnd 13: 6× (7 sc, dec) (48)\nRnd 14: 48 sc (48)\nRnd 15: 6× (3 sc, dec, 3 sc) (42)\nRnd 16: 42 sc (42)\nRnd 17: 6× (5 sc, dec) (36)\nRnd 18: 6× (2 sc, dec, 2 sc) (30)\nRnd 19: 6× (3 sc, dec) (24)\nLeave a long tail to sew the head to the body. Do not close the opening.\n\nBig Mouse Body with Legs (white and pale blue)\nMake two legs. Fasten off the first leg; keep the yarn attached to the second leg and join it to the first.\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 12 sc in BLO (12)\nRnd 4-5: 12 sc (12)\nRnd 6: Ch 2, then 28 sc (28)\nRnd 7: 2× (5 sc, inc), 2 sc, 2× (inc, 5 sc), 2 sc (32)\nRnd 8-9: 32 sc (32)\nRnd 10-11: 32 sc in pale blue (32)\nRnd 12: 2× (5 sc, dec), 2 sc, (dec, 5 sc), 2 sc (28)\nRnd 13: 28 sc in pale blue (28)\nRnd 14: 9 sc pale blue, 2 sc, 17 sc pale blue (28)\nRnd 15: 9 sc, 2 sc, sc, dec, 12 sc, dec (24)\nUse an invisible colour change. Keep the loops of the final round in white so the seam does not show when you sew the head on.",
+        "chineseText": "钩针:2.0mm 1.0mm 0.7mm 颜色:四股 水蓝/纯白/黑色。大鼠(头) 1:8x 2:8v 3:8(x,v) ... 19:6(3x,a) 留长线与身体缝合(不收口)。身体加腿(上蓝) 1:6x ... 15:9x,2x,x,a,12x,a",
+        "notes": "Two-mouse amigurumi set (Pokemon-inspired). Shorthand: x = sc, v = inc, a = dec, f = hdc, t = dc, w = 3 sc in one st. Red text on the original chart = pale blue yarn, black text = white yarn."
+      },
+      {
+        "englishText": "Mouse Family — Lower Body, Arms, Ears and Tail\n\nBody with Legs, blue on the bottom (pale blue and white)\nMake two legs. Fasten off the first leg; keep the yarn attached to the second leg and join it to the first.\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 12 sc in BLO (12)\nRnd 4-5: 12 sc (12)\nRnd 6: Ch 2, then 28 sc (28)\nRnd 7: 2× (5 sc, inc), 2 sc, (inc, 5 sc), 2 sc (32)\nRnd 8-9: 19 sc, 2 sc, 11 sc (32)\nRnd 10-11: 32 sc in white (32)\nRnd 12: 2× (5 sc, dec), 2 sc, (dec, 5 sc), 2 sc (28)\nRnd 13-14: 28 sc (28)\nRnd 15: 12 sc, dec, 12 sc, dec (24)\n\nArms (white)\nRow 1: Ch 4 (4)\nRow 2: Starting in the 2nd ch from hook: 2 sc, 3 sc in one st, sc, inc (8)\nRnd 3: 3 sc, inc, 3 sc, inc (10)\nRnd 4: 10 sc (10)\nRnd 5 (left arm): 2 sc, (3 dc, ch), 7 sc (10)\nRnd 5 (right arm): 7 sc, (3 dc, ch), 2 sc (10)\nAfter the 3 dc, pull the working loop through the first of those dc to close the little paw.\nRnd 6: 10 sc (10)\nRnd 7: 2× (3 sc, dec) (8)\nRnd 8: 8 sc (8)\nRnd 9: 2× (sc, dec, sc) (6)\nLeave a long tail, close the opening and sew the arm on.\n\nEars (white)\nRow 1: 4 sc, do not join, turn (4)\nRow 2: inc, 2 dc-inc, inc (8)\nRow 3: sc, dc, inc, 2 dc-inc, dc, dc-inc, sc (12)\nRow 4: sc, inc, hdc, 2× (hdc, hdc-inc, hdc), inc, sc (16)\nRow 5: 2 sc, hdc, hdc-inc, 3 hdc, 2 hdc-inc, 3 hdc, hdc-inc, hdc, 2 sc (20)\nLeave a long tail. Sew each ear from between Rows 2-3 to between Rows 12-13 of the head.\n\nTail (split the yarn to 2 strands, 1.0mm hook, white)\nRnd 1: 5 sc (5)\nRnd 2-25: 5 sc (5)\nRnd 26: 5 inc (10)\nRnd 27: 5× (sc, inc) (15)\nRnd 28: 5× (sc, dec) (10)\nRnd 29: 5 dec (5)\nAdd a shaping wire and thread it in through the top of the tail.\n\nFinishing: 6mm safety eyes. Sew the nose at Row 13.",
+        "chineseText": "身体加腿(下蓝) / 手 / 耳朵 / 尾巴（拆俩股 1.0mm）眼睛6mm 鼻子缝在第13行",
+        "notes": "Continuation of the two-mouse set. Red text on the original chart = pale blue yarn, black text = white yarn; use an invisible colour change."
+      },
+      {
+        "englishText": "Mouse Family — Little Mouse\n\nLittle Mouse Head (white)\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 6× (sc, inc) (18)\nRnd 4: 6× (sc, inc, sc) (24)\nRnd 5: 24 sc (24)\nRnd 6: 6× (3 sc, inc) (30)\nRnd 7: 30 sc (30)\nRnd 8: 6× (2 sc, inc, 2 sc) (36)\nRnd 9: 36 sc (36)\nRnd 10: 6× (2 sc, dec, 2 sc) (30)\nRnd 11: 6× (3 sc, dec) (24)\nRnd 12: 6× (sc, dec, sc) (18)\nRnd 13: 6× (sc, dec) (12)\nLeave a long tail to sew the head to the body. Do not close the opening.\n\nArms (make 2, white) — worked in together with the body\nRnd 1: 5 sc (5)\nRnd 2: 5 inc (10)\n\nLegs and Body (white)\nMake two legs. Fasten off the first leg; keep the yarn attached to the second leg and join it to the first.\nRnd 1: 5 sc (5)\nRnd 2: 5 inc (10)\nRnd 3: 10 sc (10)\nRnd 4-5: 20 sc (20)\nRnd 6: 2 dec, dec, 4 dec, dec, 4 dec, dec, 4 dec, dec, 2 dec (20) — the highlighted decreases each join one body stitch to one arm stitch\nRnd 7: 20 sc (20)\n\nEars (white)\nRow 1: 4 sc, turn (4)\nRow 2: (sc, hdc), 2 hdc-inc, (hdc, sc) (8)\nRow 3: sc, (sc, hdc), hdc, 2 hdc-inc, hdc, (hdc, inc), sc (12)\nSew each ear from between Rows 2-3 to between Rows 8-9 of the head.\n\nEyes (black, split to 1 strand, 0.7mm hook)\nRnd 1: 5 sc (5)\n\nTail: wrap two strands of white yarn around a length of wire.",
+        "chineseText": "小鼠(头) 1:6x 2:6v 3:6(x,v) ... 13:6(x,a) / 手*2 / 腿加身体 / 耳朵 / 眼睛 拆一股线 0.7mm 黑色 / 尾巴纯白俩股线缠铁丝上",
+        "notes": "The smaller of the two mice. Three hook sizes are used: 2.0mm for the bodies, 1.0mm for the tail and 0.7mm for the eyes."
+      }
+    ],
+    "meta": {
+      "intro": "A pair of chubby white mice with pale blue trousers — a big one and a little one — worked as separate heads and bodies with wired posable tails. Charted round by round in a table so every stitch count is spelled out.",
+      "materials": [
+        "4-ply cotton in pale blue, white and black",
+        "2.0mm, 1.0mm and 0.7mm hooks",
+        "6mm safety eyes",
+        "Fibrefill stuffing",
+        "Craft wire for the tails"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.0mm (1.0mm and 0.7mm for small parts)",
+      "difficulty": "Intermediate",
+      "estimatedTime": "4-8 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "dec",
+        "BLO",
+        "FLO"
+      ],
+      "faq": [
+        {
+          "question": "What do the red and black rows in the chart mean?",
+          "answer": "Red text is the pale blue yarn and black text is white. Use an invisible colour change so the join does not show."
+        },
+        {
+          "question": "How are the legs and body worked?",
+          "answer": "Both legs are made first: fasten off the first leg, keep the yarn on the second, then join them and carry on around both to form the body in one piece."
+        },
+        {
+          "question": "Why leave the head open?",
+          "answer": "The head is not closed off — you leave a long tail and sew it straight onto the body, which gives a cleaner join than closing and then stitching."
+        },
+        {
+          "question": "How do I make the tail curl?",
+          "answer": "The tail is worked over 29 rounds with a split strand of yarn on a 1.0mm hook, then a wire is threaded in from the top so you can bend it into shape."
+        }
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "slug": "flame-storage-basket",
+    "title": "Flame Storage Basket",
+    "description": "超喜欢《哈尔的移动城堡》里的卡西法❤️\n没想到还能亲手钩出来，可以当摆件\n拿来放记号扣、皮筋等小物也刚刚好～\n\n🧶线材：@趣织社 云小朵\n🎨色号：04/05/32/34\n🪡钩针：2.5mm\n📄图解：@小惠惠手作\n火柴是钩5个用万明胶水粘一起，气味小粘贴牢固\n图为本人亲钩实拍🚫搬运🚫转载🚫商用\n\n**标签**: 手工的夏天 夏日手作howto 手工钩织 织女日常 钩针图解 一起来钩织 钩针小物 针织手作 aha这也是艺术 哈尔的移动城堡",
+    "author": "佳佳爱手作",
+    "tags": [
+      "home",
+      "decor",
+      "character",
+      "amigurumi"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_0_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_0_medium.webp",
+        "full": "/images/flame-storage-basket/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_1_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_1_medium.webp",
+        "full": "/images/flame-storage-basket/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_2_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_2_medium.webp",
+        "full": "/images/flame-storage-basket/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_3_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_3_medium.webp",
+        "full": "/images/flame-storage-basket/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_4_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_4_medium.webp",
+        "full": "/images/flame-storage-basket/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_5_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_5_medium.webp",
+        "full": "/images/flame-storage-basket/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/flame-storage-basket/image_6_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_6_medium.webp",
+        "full": "/images/flame-storage-basket/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_0_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_0_medium.webp",
+        "full": "/images/flame-storage-basket/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_1_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_1_medium.webp",
+        "full": "/images/flame-storage-basket/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_2_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_2_medium.webp",
+        "full": "/images/flame-storage-basket/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_3_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_3_medium.webp",
+        "full": "/images/flame-storage-basket/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_4_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_4_medium.webp",
+        "full": "/images/flame-storage-basket/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flame-storage-basket/image_5_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_5_medium.webp",
+        "full": "/images/flame-storage-basket/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/flame-storage-basket/image_6_thumb.webp",
+        "medium": "/images/flame-storage-basket/image_6_medium.webp",
+        "full": "/images/flame-storage-basket/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Calcifer Flame Basket — Basket, Flames and Firewood\n\nBase and Sides\nRnd 1: 8 sc (8)\nRnd 2: 8 inc (16)\nRnd 3: 8× (sc, inc) (24)\nRnd 4: 8× (sc, inc, sc) (32)\nRnd 5: 8× (3 sc, inc) (40)\nRnd 6: 8× (2 sc, inc, 2 sc) (48)\nRnd 7: Change colour, 8× (5 sc, inc) (56)\nRnd 8-10: 56 sc (56)\nRnd 11-12: Change colour, 56 sc (56)\n\nFlames — worked as short rows off the top edge\nRnd 13: 38 sc\nRow 14: Turn, skip 1, dec, fasten off (Flame 1)\nRejoin on the right side at Row 14: skip 1, 32 sc\nRow 15: Turn, skip 1, dec, sc\nRow 16: Turn, dec, fasten off (Flame 2)\nRejoin on the right side at Row 15: skip 1, 24 sc\nRow 16: Turn, skip 1, dec, 2 sc\nRow 17: Turn, skip 1, dec, fasten off (Flame 3)\nRejoin on the right side at Row 16: skip 1, dec, 14 sc\nRow 17: Turn, skip 1, 12 sc, dec\nRow 18: Turn, skip 1, dec, 8 sc, dec\nRow 19: Turn, dec, sc\nRow 20: Turn, dec, fasten off (Flame 4)\nRejoin on the right side at Row 19: skip 1, dec, 2 sc\nRow 20: Turn, dec, sc\nRow 21: Turn, 2 sc\nRow 22: Turn, dec, fasten off (Flame 5)\nRejoin at Row 13 next to Flame 1: skip 1, 4 sc\nRow 14: Turn, 2 dec\nRow 15: dec, fasten off (Flame 6)\nRejoin at Row 13 next to Flame 6: skip 1, 11 sc\nRow 14: Turn, 5 sc\nRow 15: Turn, dec, 3 sc\nRow 16: Turn, 2 sc, dec\nRow 17: Turn, dec, sc\nRow 18: Turn, dec, fasten off (Flame 7)\nRejoin at Row 14 next to Flame 6: skip 1, 2 sc\nRow 15: Turn, dec, sc\nRow 16: dec (Flame 8) — do not fasten off. Sl st all the way around the flames to finish the edge.\n\nFirewood (make 5)\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 12 sc in BLO (12)\nRnd 4-8: 12 sc (12)\nStuff and close with a whip-stitched seam. Glue or sew the five logs under the basket.",
+        "chineseText": "火焰收纳筐 作者:小惠惠手作 R1:8x R2:8v ... 柴火(5个) R1:6x R2:6v R3:内半针12x R4-8:12x 塞棉，缝合法收口",
+        "notes": "Calcifer-inspired flame basket from Howl's Moving Castle. Worked with a 2.5mm hook in 4-ply cotton, three shades from yellow through orange to pink. Shorthand: x = sc, v = inc, a = dec, k1 = skip 1. Doubles as a holder for stitch markers and small notions."
+      }
+    ],
+    "meta": {
+      "intro": "A flame-shaped storage basket inspired by Calcifer, with eight separately worked flame points rising off the rim and five little crocheted logs underneath. It sits on a desk and holds stitch markers, hair ties and other small bits.",
+      "materials": [
+        "4-ply cotton in yellow, orange and pink",
+        "Brown yarn for the logs",
+        "2.5mm hook",
+        "Fibrefill stuffing",
+        "Craft glue"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "4-6 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "inc",
+        "dec",
+        "BLO",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How are the flames made?",
+          "answer": "Each flame is a short-row triangle. You work part way along the rim, turn and decrease to a point, fasten off, then rejoin the yarn further along and repeat — eight times in total."
+        },
+        {
+          "question": "What does k1 mean in the chart?",
+          "answer": "It is the Chinese shorthand for skipping one stitch at the start of a turned short row."
+        },
+        {
+          "question": "How do the logs attach?",
+          "answer": "The five logs are stuffed and closed with a whip stitch seam, then glued or sewn to the underside of the basket so it sits like a campfire."
+        }
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "slug": "chicken-egg-pouch",
+    "title": "Chicken Egg Pouch",
+    "description": "太可爱啦！咕咕鸡，雪五钩织，正好装下两个蛋\n\n**标签**: 钩针耳机包 钩织的乐趣 钩针包包 手工钩织 针织手作 钩针小物 钩针图解 钩针日常 咕咕鸡 钩织蛋袋",
+    "author": "娇盐花卷🥨",
+    "tags": [
+      "bag",
+      "animal",
+      "accessory",
+      "bird"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/chicken-egg-pouch/image_0_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_0_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/chicken-egg-pouch/image_1_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_1_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_1_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/chicken-egg-pouch/image_2_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_2_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_2_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/chicken-egg-pouch/image_0_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_0_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/chicken-egg-pouch/image_1_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_1_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/chicken-egg-pouch/image_2_thumb.webp",
+        "medium": "/images/chicken-egg-pouch/image_2_medium.webp",
+        "full": "/images/chicken-egg-pouch/image_2_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Gugu Chicken Egg Pouch — Front, Back, Comb and Straps\n\nFront Panel (head on the right)\nRnd 1: 13 hdc in MR (13)\nRnd 2: 13 hdc-inc (26)\nRnd 3: 11× (hdc, hdc-inc), skip 4\nRnd 4: Turn the work and, working into the near half-loops, 8× (3 hdc, hdc-inc), hdc\nRnd 5: Turn, sc, (6 hdc), skip 1, sc, 7× [skip 1, (6 hdc), skip 1, sc], skip 1, 2 inc, skip 1, sc, dc, skip 1, (6 hdc), sc\nRnd 6: sl st around (82 sl st)\nYou can go straight from Row 5 into the hanging cord, then sl st across to join Row 6.\n\nBack Panel (head on the left)\nRnd 1-4 and Rnd 6: the same as the front panel.\nRnd 5: Turn, sc, (6 hdc), skip 1, dc, sc, skip 1, 2 inc, skip 1, sc, 7× [skip 1, (6 hdc), skip 1, sc], skip 1, (6 hdc), sc\n\nComb, Beak and Wattle — all worked into the sl sts of Rnd 6\nComb: leave 5 stitches free at the top of the head, insert the hook, ch 2, 3× (3 hdc), ch 2, sl st, fasten off and weave in.\nBeak: count 3 stitches down from the comb, insert the hook, 3 sc, ch 2, turn the work, sl st in the 2nd ch from hook, sl st into the first sc, fasten off and weave in.\nWattle: leave 6 stitches free below the beak, insert the hook, skip 1, 2 inc, skip 1, sl st, fasten off and weave in.\n\nStraps (worked into the two dc at the centre of the chicken's back)\nCh 120, sl st — neck strap for the egg pouch\nCh 38, sl st — strap for the earphone pouch\nCh 6, sl st — small loop",
+        "chineseText": "前片（鸡头在右）R1:环起13F R2:13FV R3:11(F,FV),k4 ... 后片（鸡头在左）/ 鸡冠、嘴、垂冠 / 挂绳",
+        "notes": "Two flat chicken panels joined into a pouch, sized to hold two eggs (or a pair of earbuds). Shorthand: F = hdc, FV = hdc increase, X = sc, V = inc, T = dc, k = skip, sl = slip stitch."
+      }
+    ],
+    "meta": {
+      "intro": "A flat two-panel chicken pouch, worked in hdc shell rows and joined into a little bag. It fits two eggs, or use the shorter strap version as an earphone case.",
+      "materials": [
+        "4-ply cotton",
+        "2.5mm hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.5mm",
+      "difficulty": "Easy",
+      "estimatedTime": "2-3 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "sl st",
+        "MR"
+      ],
+      "faq": [
+        {
+          "question": "Do the two panels differ?",
+          "answer": "Only in Row 5 — the front panel has the chicken's head facing right and the back panel has it facing left, so the two sides mirror each other."
+        },
+        {
+          "question": "Where do the comb, beak and wattle attach?",
+          "answer": "All three are worked directly into the slip stitches of Rnd 6, so there is nothing to sew on afterwards."
+        },
+        {
+          "question": "How long should the strap be?",
+          "answer": "Ch 120 for a neck strap for the egg pouch, ch 38 for an earphone-pouch strap, or ch 6 for a small hanging loop."
+        }
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "slug": "mini-basket-and-straw-hat-charms",
+    "title": "Mini Basket & Straw Hat Charms",
+    "description": "一物多用 做成项链 mini包挂 钥匙扣\n简单好上手 钩完送闺蜜心意满满❤️\n🧶：@lifeyarn 流夏 奶茶\n🪡：2.5mm\n小草帽的蝴蝶结🎀\n四股棉拆两股1.4mm钩针\n锁针到合适长度系到草帽上\n系紧一点 再用力桑胶固定\n\nmini包参考@唐糖手作.\n\n**标签**: 铁柱玩命钩织 手工友人成长计划 钩织小物 菜篮子 手作项链 夏日配饰 包包挂件",
+    "author": "铁柱玩命钩织",
+    "tags": [
+      "accessory",
+      "keychain",
+      "bag",
+      "flower"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_0_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_0_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_1_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_1_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_2_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_2_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_3_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_3_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_3_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_4_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_4_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_0_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_0_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_1_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_1_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_2_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_2_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_3_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_3_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/mini-basket-and-straw-hat-charms/image_4_thumb.webp",
+        "medium": "/images/mini-basket-and-straw-hat-charms/image_4_medium.webp",
+        "full": "/images/mini-basket-and-straw-hat-charms/image_4_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Mini Market Basket and Straw Hat Charms\n\nMini Basket\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 6× (sc, inc) (18)\nRnd 4: 6× (sc, inc, sc) (24)\nRnd 5-6: work in jasmine stitch (24)\nRnd 7-8: 24 sc (24)\nRnd 9: 4 sc, (ch 10, skip 4), 8 sc, (ch 10, skip 4), 4 sc — the two chain loops become the handles\nRnd 10: sl st around and fasten off\n\nStraw Hat\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 6× (sc, inc) (18)\nRnd 4-7: 18 sc (18)\nRnd 8: 18 hdc-inc (36)\nRnd 9: *ch 2, skip 1 st, sl st*, repeat around, then fasten off\nFor a wider brim, keep increasing after Rnd 3 before you start the straight sides.\n\nFinishing: thread the basket and hat onto a cord with a wooden bead. For the hat bow, split 4-ply cotton to 2 strands and use a 1.4mm hook, chain to length, tie it around the crown and secure with a dab of glue.",
+        "chineseText": "mini包 R1:6x R2:6v R3:6(x,v) R4:6(x,v,x) R5-6:茉莉花花样 R7-8:24x R9:4x,(10ch,k4),8x,(10ch,k4),4x R10:引拔一圈 / 草帽 R1:6x R2:6v R3:6(x,v) R4-7:18x R8:18fv R9:(2ch,隔一针引拔)循环结束 / 想要大一点R3后继续加针",
+        "notes": "A pair of summer charms that can be made up as a necklace, bag charm or keyring. Worked in raffia-look cotton with a 2.5mm hook."
+      }
+    ],
+    "meta": {
+      "intro": "Two summer charms in one pattern: a mini market basket worked in jasmine stitch with chain handles, and a little straw hat with a hdc-increase brim. Wear them on a cord as a necklace or clip them to a bag.",
+      "materials": [
+        "Raffia-look cotton yarn",
+        "2.5mm hook (1.4mm for the bow)",
+        "Wooden beads",
+        "Cord"
+      ],
+      "hookSize": "2.5mm",
+      "difficulty": "Easy",
+      "estimatedTime": "1-2 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "inc",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How are the basket handles made?",
+          "answer": "In Rnd 9 you chain 10 and skip 4 stitches twice, which leaves two chain loops standing up as handles."
+        },
+        {
+          "question": "Can I make the hat brim wider?",
+          "answer": "Yes — keep increasing for another round or two after Rnd 3 before working the straight sides, then carry on as written."
+        },
+        {
+          "question": "How is the hat bow attached?",
+          "answer": "Split 4-ply cotton down to two strands, use a 1.4mm hook to chain a length, tie it around the crown and secure it with a small dab of glue."
+        }
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "slug": "flower-sprout-amigurumi",
+    "title": "Flower Sprout Amigurumi",
+    "description": "很简单的一只小草\n喜欢的宝多的话可能会出一下视频教程\n----------------------------------------\n线材：@趣织社 云小朵 12 16 42\n钩针：3.0\n\n**标签**: 洛克王国世界 洛克创作激励计划 洛克王国S2狂欢怪谈新赛季 钩针图解 钩针玩偶 奇丽草 洛克王国S2新赛季 图解 钩针教程 洛克王国创意大师",
+    "author": "在逃月亮",
+    "tags": [
+      "amigurumi",
+      "character",
+      "gaming",
+      "flower"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_0_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_0_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_1_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_1_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_2_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_2_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_3_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_3_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_3_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/flower-sprout-amigurumi/image_4_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_4_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_0_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_0_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_1_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_1_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_2_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_2_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/flower-sprout-amigurumi/image_3_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_3_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/flower-sprout-amigurumi/image_4_thumb.webp",
+        "medium": "/images/flower-sprout-amigurumi/image_4_medium.webp",
+        "full": "/images/flower-sprout-amigurumi/image_4_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Bellsprout-style Flower Sprout — Flower, Body, Leaves and Antennae\n\nFlower\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: 6× (sc, inc) (18)\nRnd 4: 6× (sc, inc, sc) (24)\nRnd 5: 6× (3 sc, inc) (30)\nRnd 6: 5× (2 sc, inc, 2 sc), 2 sc, inc, 2 sc (36)\nRnd 7-8: 36 sc (36)\nRnd 9: 6× (2 sc, dec, 2 sc) (30)\nRnd 10: 6× (3 sc, dec) (24)\nRnd 11: 8× (sc, dec) (16)\nRnd 12: 8 dec (8)\n\nSmall Leaves (make 2)\nCh 4, starting in the 2nd ch from hook: sl st, dc, sc\n\nFlower Marking\nCh 16, starting in the 2nd ch from hook: 4 sl st, 2 sc, dc, hdc-inc, dc, sc\n\nAntennae (make 4)\nRnd 1: 4 sc (4)\nRnd 2: 3 sc, inc (5)\nRnd 3: 5 sc (5)\nRnd 4: 3 sc, dec (4)\nRnd 5: 4 sc (4)\nRnd 6: sc, dec, sc (3)\nInsert wire so the antennae can be bent into shape.\n\nHead and Body\nRnd 1: 8 sc (8)\nRnd 2: 8 inc (16)\nRnd 3: 8× (sc, inc) (24)\nRnd 4: 6× (3 sc, inc) (30)\nRnd 5: 3× (9 sc, inc) (33)\nRnd 6: 3× (5 sc, inc, 5 sc) (36)\nRnd 7-8: 36 sc (36)\nRnd 9: 6× (2 sc, dec, 2 sc) (30)\nRnd 10: 6× (3 sc, dec) (24)\nRnd 11: 8× (sc, dec) (16)\nRnd 12: 8 dec (8)\n---- the rounds above are the head, the rounds below are the body ----\nRnd 13: 4× (sc, inc) in FLO (12)\nRnd 14: 4× (sc, inc, sc) (16)\nRnd 15: 4× (3 sc, inc) (20)\nRnd 16: 4× (2 sc, inc, 2 sc) (24)\nRnd 17: hdc-inc, hdc, 2 dc, 5 sc, (5-dc bobble), 4 sc, (5-dc bobble), 5 sc, 2 dc, hdc, hdc-inc\nRnd 18: 13 dec in BLO\nRnd 19: 3 dec, sc, 3 dec\n\nAssembly: sew the last three rounds of the flower to the first three rounds of the body. Push the antennae wires in at Row 3.",
+        "chineseText": "奇丽草 花[云小朵12/42] 6x 6v 6(x,v)... 身体[云小朵16] 8x 8v ... 两片小叶子*2 4ch,倒二回钩,sl,t,x 花纹 16ch,倒二回钩,4sl,2x,t,fv,t,x 小触角*4 内置铁丝以实现弯曲",
+        "notes": "Little green sprout character with a yellow flower hat, from the Roco Kingdom game. Worked with a 3.0mm hook in chenille-style yarn; wire inside the antennae lets you pose them."
+      }
+    ],
+    "meta": {
+      "intro": "A little green sprout character with a yellow flower for a hat and four wired antennae you can bend into shape. The head and body are worked in one piece, with a bobble-stitch texture band around the middle.",
+      "materials": [
+        "Chenille-style yarn in green, yellow and cream",
+        "3.0mm hook",
+        "Craft wire",
+        "Fibrefill stuffing"
+      ],
+      "hookSize": "3.0mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "3-5 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "dec",
+        "FLO",
+        "BLO",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How do the flower and body join?",
+          "answer": "The last three rounds of the flower are sewn to the first three rounds of the body, so the flower sits like a cap on the head."
+        },
+        {
+          "question": "What are the bobbles in Rnd 17?",
+          "answer": "They are 5-dc bobble stitches worked into a single stitch, spaced to give the body its raised texture."
+        },
+        {
+          "question": "How do the antennae stay bent?",
+          "answer": "Each antenna has a length of craft wire inside; push the wires into the piece at Row 3 before you finish stuffing."
+        }
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "slug": "filet-crochet-wall-hanging",
+    "title": "Filet Crochet Wall Hanging",
+    "description": "没错\n一眼爱住\n两天完成\n🧵：蕾丝线\n🪡：1.0钩针\n起针169辫子针（不算起立针）\n织片没有定型、只是熨烫了一下、发现有点软塌塌、于是用了捡来的石头\n感谢图解分享：@李小媚\n\n**标签**: 手工的夏天 手工友人成长计划 爱生活爱编织 手工钩织",
+    "author": "TAN大腕儿",
+    "tags": [
+      "lace",
+      "decor",
+      "home",
+      "tapestry"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_0_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_0_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_1_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_1_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_2_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_2_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_3_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_3_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_3_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_4.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/filet-crochet-wall-hanging/image_4_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_4_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_0_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_0_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_1_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_1_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_2_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_2_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/filet-crochet-wall-hanging/image_3_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_3_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/filet-crochet-wall-hanging/image_4_thumb.webp",
+        "medium": "/images/filet-crochet-wall-hanging/image_4_medium.webp",
+        "full": "/images/filet-crochet-wall-hanging/image_4_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Mob (Shigeo Kageyama) Wall Hanging — Filet Crochet Chart\n\nThis is a filet crochet chart, 54 rows tall, worked flat in rows with lace thread and a 1.0mm hook.\n\nHow to read the chart\n- A solid dark square is a filled block: dc in each of the next 2 sts (dc, dc worked over the block below).\n- An open light square is an open block: ch 2, skip 2 sts, dc in the next st.\n- Row numbers run up both edges. Read odd-numbered rows right to left and even-numbered rows left to right, turning at the end of each row.\n- Foundation: ch (3 × number of squares) + 4, then work the first dc into the 4th ch from the hook.\n\nChart layout\nRows 1-32: the long face, hand and shoulder outline.\nRows 33-46: the speech panel with the lettering.\nRows 24-27 and 47-54: mesh bands worked as *ch 5, skip 3 sts, sc*, repeated across, which give the open lace border at the top and bottom.\n\nFinishing: block the finished panel flat, thread it onto a wooden dowel through the top mesh row, and hang weighted beads from the bottom edge so it hangs straight.",
+        "chineseText": "影山茂夫长脸钩织版 方眼编（filet crochet）图纸，54 行，两侧标有行号。深色格=实心块，浅色格=镂空块，顶部和底部为网格花样。",
+        "notes": "Foundation chain is 169 ch (not counting the turning chain). Worked in lace thread on a 1.0mm hook; the piece is not blocked stiff, only pressed, so weights at the bottom keep it hanging flat."
+      }
+    ],
+    "meta": {
+      "intro": "A filet crochet wall hanging worked in fine lace thread, 54 rows tall, mounted on a dowel with weighted beads at the bottom. Filled and open blocks build up the picture from a chart.",
+      "materials": [
+        "Lace weight cotton thread",
+        "1.0mm hook",
+        "Wooden dowel",
+        "Beads or small stones for weights"
+      ],
+      "yarnWeight": "Lace / 10-count thread",
+      "hookSize": "1.0mm",
+      "difficulty": "Advanced",
+      "estimatedTime": "10+ hours",
+      "abbreviationsUsed": [
+        "ch",
+        "dc",
+        "sc",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How do I read a filet crochet chart?",
+          "answer": "A filled square is dc in each of the next 2 sts; an open square is ch 2, skip 2 sts, dc in the next st. Read odd rows right to left and even rows left to right."
+        },
+        {
+          "question": "How many chains do I start with?",
+          "answer": "Chain three times the number of squares in a row, plus four, then work the first dc into the fourth chain from the hook."
+        },
+        {
+          "question": "Does the finished panel need blocking?",
+          "answer": "Press it rather than stiff-blocking it. The maker found the fabric hangs soft, so weights at the bottom edge are what keep it straight."
+        }
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "slug": "monstera-leaf-charm",
+    "title": "Monstera Leaf Charm",
+    "description": "适合夏天包包上的挂件，蓝色用的是棉草线，米色和绿色是拉菲草\n\n**标签**: 钩针小物 手工挂件 拉菲草 挂饰挂件",
+    "author": "Yan织物社",
+    "tags": [
+      "accessory",
+      "keychain",
+      "flower",
+      "applique"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_0_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_0_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_1_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_1_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_2_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_2_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_3_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_3_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_4_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_4_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_5_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_5_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/monstera-leaf-charm/image_6_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_6_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_0_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_0_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_1_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_1_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_2_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_2_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_3_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_3_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_4_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_4_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/monstera-leaf-charm/image_5_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_5_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/monstera-leaf-charm/image_6_thumb.webp",
+        "medium": "/images/monstera-leaf-charm/image_6_medium.webp",
+        "full": "/images/monstera-leaf-charm/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Monstera Leaf Charm — Chart 1\n\nCh 12. Starting in the second-to-last chain:\n① sc, dc, ch 2\n② 2 sc, ch 4, pull the loop long and sl st into the 3rd stitch of ①, ch 1, then work (2 dc, 3 sc) into the large loop\n③ 2 sc, ch 5, pull the loop long and sl st into the 3rd stitch of the large loop of ②, ch 1, then work (dc, 3 hdc, dc, 3 sc) into the large loop\n④ 2 sc, ch 6, pull the loop long and sl st into the 5th stitch of the large loop of ③, ch 1, then work (5 hdc, dc, 3 sc) into the large loop\n⑤ 2 sc, ch 6, pull the loop long and sl st into the 5th stitch of the large loop of ④, ch 1, then work (dc, 5 hdc, dc, 3 sc) into the large loop\n⑥ (sc, ch 1, sc, sc), 10 sc; at the second-to-last sc repeat steps ①-⑤ to make the other half of the leaf.\nFinish the stem with ch 10 and weave in the ends.",
+        "chineseText": "《龟背竹图解1》起12ch,倒数第二辫子针处,①X,T,2ch ②2X,4ch拉长线圈至引拔①的第三个针目,ch,在大圈内钩(2T,3X) ③2X,5ch,拉长线圈至引拔②大圈内的第三个针目,ch,在大圈内钩(T,3F,T,3X) ④2X,6ch拉长线圈至引拔③大圈内的第五个针目,ch,在大圈内钩(5F,T,3X) ⑤2X,6ch拉长线圈至引拔④大圈内的第五个针目,ch,在大圈内钩(T,5F,T,3X) ⑥(X,ch,X,X)10X,倒数第二短针处,重复①-⑤步骤,最后叶柄钩10ch,最后藏线即可",
+        "notes": "Flat lacy monstera leaf charm. The elongated chain loops create the split-leaf holes. Worked in raffia or paper-cord yarn; the sample uses cotton-raffia for the cream and green leaves and raffia for the two-tone ones. Add a bead and a jump ring at the stem for a bag charm."
+      }
+    ],
+    "meta": {
+      "intro": "A flat lacy monstera leaf charm made with elongated chain loops that form the split-leaf holes. Worked in raffia or cotton-raffia so it holds its shape as a bag charm.",
+      "materials": [
+        "Raffia or cotton-raffia yarn in green and cream",
+        "Hook to suit the yarn",
+        "Wooden bead",
+        "Jump ring"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "1-2 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "What makes the holes in the leaf?",
+          "answer": "Each step chains 4 to 6, pulls the loop long and slip-stitches back into an earlier stitch, creating a large loop that is then filled with stitches — that loop is the split in the leaf."
+        },
+        {
+          "question": "Is the leaf worked in one piece?",
+          "answer": "Yes. You work steps 1-5 up one side, then repeat them from the second-to-last sc to build the mirrored half, and finish with a 10-chain stem."
+        },
+        {
+          "question": "Which yarn works best?",
+          "answer": "Raffia and paper-cord yarns keep the leaf flat and crisp; a soft cotton will drape more and lose the shape."
+        }
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "slug": "star-pet-collar",
+    "title": "Star Pet Collar",
+    "description": "线材：@lifeyarn 可可四股棉\n色号：23/28/85/07/22/74\n钩针：2.5\n图解来自@星语手作\n\n**标签**: 猫咪围脖 宠物项圈 猫咪狗狗围兜 宠物口水巾 宠物围脖 娃衣 手工的夏天 夏日手作howto 宠物围脖钩针",
+    "author": "钩韵时光集",
+    "tags": [
+      "accessory",
+      "scarf",
+      "cat",
+      "doll-clothes"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_0_thumb.webp",
+        "medium": "/images/star-pet-collar/image_0_medium.webp",
+        "full": "/images/star-pet-collar/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_1_thumb.webp",
+        "medium": "/images/star-pet-collar/image_1_medium.webp",
+        "full": "/images/star-pet-collar/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_2_thumb.webp",
+        "medium": "/images/star-pet-collar/image_2_medium.webp",
+        "full": "/images/star-pet-collar/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_3_thumb.webp",
+        "medium": "/images/star-pet-collar/image_3_medium.webp",
+        "full": "/images/star-pet-collar/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_4_thumb.webp",
+        "medium": "/images/star-pet-collar/image_4_medium.webp",
+        "full": "/images/star-pet-collar/image_4_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-pet-collar/image_5_thumb.webp",
+        "medium": "/images/star-pet-collar/image_5_medium.webp",
+        "full": "/images/star-pet-collar/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_0_thumb.webp",
+        "medium": "/images/star-pet-collar/image_0_medium.webp",
+        "full": "/images/star-pet-collar/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_1_thumb.webp",
+        "medium": "/images/star-pet-collar/image_1_medium.webp",
+        "full": "/images/star-pet-collar/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_2_thumb.webp",
+        "medium": "/images/star-pet-collar/image_2_medium.webp",
+        "full": "/images/star-pet-collar/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_3_thumb.webp",
+        "medium": "/images/star-pet-collar/image_3_medium.webp",
+        "full": "/images/star-pet-collar/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-pet-collar/image_4_thumb.webp",
+        "medium": "/images/star-pet-collar/image_4_medium.webp",
+        "full": "/images/star-pet-collar/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-pet-collar/image_5_thumb.webp",
+        "medium": "/images/star-pet-collar/image_5_medium.webp",
+        "full": "/images/star-pet-collar/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Star Pet Collar — Ruffled Bandana with Star Charms\n\nCollar\nRnd 1 (white): Ch 53. Starting in the 3rd ch from the hook, work *(hdc, 3 sc in one st), skip 2*, repeating across and finishing with (hdc, 3 sc in one st). The foundation chain is a multiple of 6 plus 5.\nRnd 2 (pale yellow): Turn and join the new colour, sc. From here on everything is worked into the gaps between the hdc groups of the previous round; take two gaps as one repeat and work (3 hdc, ch 3, 3 hdc) and sc into them. After the last gap, work sc directly into the last dc.\nRnd 3: Ch 1, turn, sc, *into the ch-3 space of the previous round work (4 hdc, ch 3, 4 hdc), then sc into the sc of the previous round*, repeat around.\nRnd 4 (chick yellow): Start from the beginning of Rnd 3. Work BPdc into every dc, and work (3 hdc, ch 3, 3 hdc) into each ch-3 space.\nRnd 5: Ch 1, turn, sc around, working (2 sc, ch 1, 2 sc) into each ch-3 space.\n\nTies\nCh 50, sl st all the way around Rnd 1, then ch 50. Fasten off.\n\nStars\nWork in a magic ring: *(sc, ch 1, hdc, ch 2 picot, ch 1)*, repeat 5 times. Make several and sew them around the collar.",
+        "chineseText": "星星宠物围脖 原创:星语手作 R1:（白）53ch倒3钩【（Fw），k2】循环，最后一针钩Fw（起针数为6的倍数+5）R2:（浅黄）翻转另起线... R5:1ch翻转，钩一圈短针，其中3ch洞眼钩（2x，1ch，2x）绑绳 先钩50ch，再在R1引拔一圈，再钩50ch 星星 环起（x，1ch，F，2ch狗牙，1ch）重复5次",
+        "notes": "Ruffled collar for a cat or small dog, also works as a doll collar. Worked in 4-ply cotton with a 2.5mm hook in six colours. Shorthand: F = hdc, W = 3 sc in one st, Fw = hdc followed by 3 sc in one stitch, k2 = skip 2, x = sc."
+      }
+    ],
+    "meta": {
+      "intro": "A ruffled star-shaped collar for a cat or small dog, worked flat in five rounds of shell and post stitches with long chain ties. Little five-point stars are made separately and sewn around the edge.",
+      "materials": [
+        "4-ply cotton in white, pale yellow and chick yellow",
+        "2.5mm hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "BPdc",
+        "inc",
+        "picot",
+        "MR",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How long should the foundation chain be?",
+          "answer": "Any multiple of 6 plus 5 — the sample uses 53 chains, which fits a cat or small dog. Add or subtract 6 chains at a time to resize."
+        },
+        {
+          "question": "What is Fw in the chart?",
+          "answer": "It is Chinese shorthand for an hdc followed by 3 sc worked into one stitch; k2 means skip 2 stitches."
+        },
+        {
+          "question": "How are the ties attached?",
+          "answer": "Chain 50, slip stitch all the way around Rnd 1 of the collar, then chain another 50 so you have a tie at each end."
+        },
+        {
+          "question": "Can this be used as a doll collar?",
+          "answer": "Yes — the maker lists it under doll clothes as well, and the multiple-of-6 chain makes it easy to scale down."
+        }
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "slug": "star-storage-basket",
+    "title": "Star Storage Basket",
+    "description": "线材：@雪妃尔毛线 萌娃娃2号\n色号：24小鸡黄，双股\n钩针：3.5\n\n**标签**: 收纳筐 收纳盒 桌面收纳盒 星星人收纳 织女的夏天 夏日手作howto 手工的夏天 星星 钩针星星 收纳",
+    "author": "钩韵时光集",
+    "tags": [
+      "home",
+      "decor",
+      "kitchen"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_0_thumb.webp",
+        "medium": "/images/star-storage-basket/image_0_medium.webp",
+        "full": "/images/star-storage-basket/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_1_thumb.webp",
+        "medium": "/images/star-storage-basket/image_1_medium.webp",
+        "full": "/images/star-storage-basket/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_2_thumb.webp",
+        "medium": "/images/star-storage-basket/image_2_medium.webp",
+        "full": "/images/star-storage-basket/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_3_thumb.webp",
+        "medium": "/images/star-storage-basket/image_3_medium.webp",
+        "full": "/images/star-storage-basket/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_4_thumb.webp",
+        "medium": "/images/star-storage-basket/image_4_medium.webp",
+        "full": "/images/star-storage-basket/image_4_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-storage-basket/image_5_thumb.webp",
+        "medium": "/images/star-storage-basket/image_5_medium.webp",
+        "full": "/images/star-storage-basket/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_0_thumb.webp",
+        "medium": "/images/star-storage-basket/image_0_medium.webp",
+        "full": "/images/star-storage-basket/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_1_thumb.webp",
+        "medium": "/images/star-storage-basket/image_1_medium.webp",
+        "full": "/images/star-storage-basket/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_2_thumb.webp",
+        "medium": "/images/star-storage-basket/image_2_medium.webp",
+        "full": "/images/star-storage-basket/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_3_thumb.webp",
+        "medium": "/images/star-storage-basket/image_3_medium.webp",
+        "full": "/images/star-storage-basket/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-storage-basket/image_4_thumb.webp",
+        "medium": "/images/star-storage-basket/image_4_medium.webp",
+        "full": "/images/star-storage-basket/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-storage-basket/image_5_thumb.webp",
+        "medium": "/images/star-storage-basket/image_5_medium.webp",
+        "full": "/images/star-storage-basket/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Star Storage Basket\n\nRnd 1: Ch 8 and sl st into a ring, then work 15 hdc into the ring (15)\nRnd 2: 5× [hdc-inc, (hdc, ch 1, sl st, ch 1, hdc), hdc-inc]\nRnd 3: Sl st across to the second stitch, then 5× [2 hdc, 3 hdc into the ch space, ch 1, sl st, ch 1, 3 hdc into the ch space, 2 hdc, skip 2]\nRnd 4: Ch 1, turn, then sc around working into the far half-loops only\nRnd 5: *sc, sc worked one row down*, repeat around\nRnd 6: *sc worked one row down, sc*, repeat around\nRnd 7-9: repeat Rnds 5-6\nRnd 10: sl st around\n\nFinishing: sl st around the half-loops left free in Rnd 3 to neaten the star-shaped base edge.",
+        "chineseText": "星星收纳筐 R1：8ch引拔成环，环内钩15F R2：5【Fv，（F，1ch，E，1ch，F），Fv】R3：引拔过渡到第二针，【2F，锁针洞3F，1ch，E，1ch，锁针洞3F，2F，k2】重复5次 R4：1ch翻转，远离自己的半针钩一圈x R5：（短针，下拉短针）循环 R6：（下拉短针，短针）循环 R7-9：重复R5-6 R10：引拔一圈 在R3留下的半针钩一圈引拔",
+        "notes": "Five-pointed star basket. Worked in chunky chenille-style yarn with a 3.5mm hook, held double. The alternating sc / sc-one-row-down of Rnds 5-9 makes the textured sides. Shorthand: F = hdc, Fv = hdc increase, E = sl st, k2 = skip 2, x = sc."
+      }
+    ],
+    "meta": {
+      "intro": "A five-pointed star basket in chunky chenille yarn. The star base is built from hdc shell points, then textured sides are worked in alternating rows of sc and sc-one-row-down.",
+      "materials": [
+        "Chunky chenille-style yarn",
+        "3.5mm hook"
+      ],
+      "yarnWeight": "Chunky",
+      "hookSize": "3.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-3 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "inc",
+        "sl st",
+        "BLO"
+      ],
+      "faq": [
+        {
+          "question": "What gives the sides their texture?",
+          "answer": "Rnds 5-9 alternate a normal sc with an sc worked into the row below, which builds up a soft ribbed surface."
+        },
+        {
+          "question": "Why sl st around the half loops at the end?",
+          "answer": "Rnd 4 is worked into the far half-loops only, which leaves the near loops of Rnd 3 free. Slip stitching around them neatens the edge of the star base."
+        },
+        {
+          "question": "How big is the basket?",
+          "answer": "It comes out as a small desk basket — big enough for stitch markers, hair ties and other small notions."
+        }
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "slug": "pikmin-amigurumi",
+    "title": "Pikmin Amigurumi",
+    "description": "久等啦~終於也是有空整理出來了\n黄色皮克敏耳朵缝合处：R24-28（耳朵一个边8X分别缝合安排：3X对R24、R25-27各1X、2X对R28）\n红皮克敏鼻子：占4个X，找到中间缝合就好\n手缝合处：R16\n白皮克敏眼睛反著貼哦~\n眼珠參考：6mm\n\n此作品為原創創作，未經授權請勿轉載或作任何商業使用\n\n**标签**: 钩针皮克敏 皮克敏 皮克敏图解 钩织图解分享",
+    "author": "et_artisoul",
+    "tags": [
+      "amigurumi",
+      "gaming",
+      "character",
+      "toy"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/pikmin-amigurumi/image_0_thumb.webp",
+        "medium": "/images/pikmin-amigurumi/image_0_medium.webp",
+        "full": "/images/pikmin-amigurumi/image_0_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/pikmin-amigurumi/image_1_thumb.webp",
+        "medium": "/images/pikmin-amigurumi/image_1_medium.webp",
+        "full": "/images/pikmin-amigurumi/image_1_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/pikmin-amigurumi/image_0_thumb.webp",
+        "medium": "/images/pikmin-amigurumi/image_0_medium.webp",
+        "full": "/images/pikmin-amigurumi/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/pikmin-amigurumi/image_1_thumb.webp",
+        "medium": "/images/pikmin-amigurumi/image_1_medium.webp",
+        "full": "/images/pikmin-amigurumi/image_1_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Pikmin Amigurumi — Body, Arms, Flower and Character Parts\n\nYarn: 4-ply cotton. Hooks: 2.0mm and 3.0mm.\n\nEye Whites — red, yellow and blue Pikmin (2.0mm hook)\nIn a magic ring: sc, 2 dc, 2 sc, 2 dc, sc\n\nArms (make 2, 3.0mm hook)\nCh 11, starting in the 2nd ch from hook: 2 sc, 8 sl st (10). Leave a long tail for sewing.\n\nPikmin Universal Body (3.0mm hook)\nLegs (make 2; fasten off the first leg)\nRnd 1: 5 sc in MR (5)\nRnd 2-3: 5 sc (5)\nRnd 4: inc, 3 sc, inc (7)\nRnd 5: 7 sc (7) — fasten off leg 1\nRnd 6: Join leg 2 to leg 1: ch 2, [3 inc, sc], 2 sc, [3 inc, sc], 2 sc (24)\nRnd 7-8: 24 sc (24)\nRnd 9: 6× (sc, dec, sc) (18)\nRnd 10-11: 18 sc (18)\nRnd 12: 3× (2 sc, dec, 2 sc) (15)\nRnd 13: 15 sc (15)\nRnd 14: 3× (3 sc, dec) (12)\nRnd 15: 3× (sc, dec, sc) (9)\nRnd 16: 3× (sc, dec) (6)\nRnd 17: 3× (sc, inc) (9)\nRnd 18: 3× (sc, inc, sc) (12)\nRnd 19: 6× (sc, inc) (18)\nRnd 20: 6× (sc, inc, sc) (24)\nRnd 21: 24 sc (24)\nRnd 22: 6× (3 sc, inc) (30)\nRnd 23: 6× (2 sc, inc, 2 sc) (36)\nRnd 24-28: 36 sc (36)\nRnd 29: 6× (2 sc, dec, 2 sc) (30)\nRnd 30: 6× (3 sc, dec) (24)\nRnd 31: 6× (sc, dec, sc) (18)\nRnd 32: 6× (sc, dec) (12)\nRnd 33: 3× (sc, dec, sc) (9)\nRnd 34-35: 9 sc (9)\nRnd 36: 2× (sc, dec, sc), sc (7)\nRnd 37: 7 sc (7)\nRnd 38: 3 sc, dec, 2 sc (6)\nRnd 39-40: 6 sc (6)\nRnd 41: 2 sc, dec, 2 sc (5)\nRnd 42-44: 5 sc (5)\nChange to green yarn for the flower base.\nRnd 45: 5 sc (5)\nRnd 46: 5 inc (10)\nRnd 47: 5× (sc, inc) (15)\nRnd 48: 5× (sc, inc, sc) (20)\n\nRed Pikmin Nose (3.0mm hook)\nCh 5, starting in the 2nd ch from hook: 2 sl st, sc, dc. Leave a long tail for sewing.\n\nWhite Pikmin Eye Spots (3.0mm hook)\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\n\nYellow Pikmin Ears (make 2, 3.0mm hook)\nRnd 1: 6 sc in MR (6)\nRnd 2: inc, 2× (sc, 3 sc in one st), sc, sc in the first st\nRnd 3: inc, 2× (3 sc, 3 sc in one st), 3 sc, sc in the first st\nRnd 4: inc, 2× (5 sc, 3 sc in one st), 5 sc, sc in the first st\n\nFlower Centre (3.0mm hook, yellow)\nRnd 1: 5 sc in MR (5)\nRnd 2: 5 inc (10)\nRnd 3: 5× (sc, inc) (15)\nRnd 4: 5× (sc, inc, sc) (20)\n\nPetals (3.0mm hook, white)\nRnd 5: 5× (sl st, ch 4, 2× (2 tr together), ch 4, sl st) — work the petals so the flower centre and the green stem base are joined together.\n\nAssembly notes from the designer: sew the yellow Pikmin ears between Rnds 24-28 of the head; sew the red Pikmin nose centred on the face; the white Pikmin's eyes are attached back-to-front. Suggested eye beads: 6mm.",
+        "chineseText": "Pikmin 钩织图解 线材:4股棉 钩针:2.0mm、3.0mm。红黄蓝眼白(2.0mm) 环起:x,2t,2x,2t,x。手x2(3.0mm) 11ch倒2回勾 2x,8sl(10)留长线缝合。Pikmin通用身体(3.0mm) 腿x2... R48:5(x,v,x)(20)。红Pikmin鼻子/白Pikmin眼/黄Pikmin耳朵x2/花心/花瓣",
+        "notes": "One universal body pattern for all four Pikmin colours, with separate small parts for each character. Hooks: 2.0mm for eyes, 3.0mm for everything else. Original design, not for commercial use or resale."
+      }
+    ],
+    "meta": {
+      "intro": "Amigurumi Pikmin with one universal body pattern and separate small parts for the red, yellow, blue and white characters. Each one carries a white flower on a green stem.",
+      "materials": [
+        "4-ply cotton in red, yellow, blue, white and green",
+        "2.0mm and 3.0mm hooks",
+        "Small eye beads",
+        "Fibrefill stuffing"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "3.0mm (2.0mm for eyes)",
+      "difficulty": "Intermediate",
+      "estimatedTime": "4-6 hours per figure",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "inc",
+        "dec",
+        "MR",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "Do all four Pikmin use the same body?",
+          "answer": "Yes — the universal body covers Rnds 1-48 including the legs and green stem. Only the face and head parts change per colour."
+        },
+        {
+          "question": "What is different about each colour?",
+          "answer": "Red gets a pointed nose, white gets the round eye spots applied back-to-front, yellow gets two ears, and blue uses the plain eye whites."
+        },
+        {
+          "question": "How are the petals worked?",
+          "answer": "Rnd 5 makes five petals of ch 4, two tr2tog clusters and ch 4, worked so the yellow flower centre and the green stem base are joined together as you go."
+        },
+        {
+          "question": "What size eyes?",
+          "answer": "The maker uses 6mm beads for the eyes."
+        }
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "slug": "colourful-bird-applique",
+    "title": "Colourful Bird Applique",
+    "description": "（无正文，仅话题标签）\n\n**标签**: 图解 图解分享 编织图解 钩针图解 图纸分享 钩针 手作图解",
+    "author": "灿灿",
+    "tags": [
+      "applique",
+      "bird",
+      "motif",
+      "decor"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [],
+    "diagrams": [
+      {
+        "filename": "image_0.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/colourful-bird-applique/image_0_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_0_medium.webp",
+        "full": "/images/colourful-bird-applique/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/colourful-bird-applique/image_1_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_1_medium.webp",
+        "full": "/images/colourful-bird-applique/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_2_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_2_medium.webp",
+        "full": "/images/colourful-bird-applique/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_3_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_3_medium.webp",
+        "full": "/images/colourful-bird-applique/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_4_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_4_medium.webp",
+        "full": "/images/colourful-bird-applique/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/colourful-bird-applique/image_0_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_0_medium.webp",
+        "full": "/images/colourful-bird-applique/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/colourful-bird-applique/image_1_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_1_medium.webp",
+        "full": "/images/colourful-bird-applique/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_2_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_2_medium.webp",
+        "full": "/images/colourful-bird-applique/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_3_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_3_medium.webp",
+        "full": "/images/colourful-bird-applique/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/colourful-bird-applique/image_4_thumb.webp",
+        "medium": "/images/colourful-bird-applique/image_4_medium.webp",
+        "full": "/images/colourful-bird-applique/image_4_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Colourful Bird Appliqué — Symbol Chart\n\nThis chart shows all four panels of the bird: the head and wing panel (top left), the body panel (rows 1-21, worked in orange), the tail panel (rows 1-9, worked in pink) and the four tail-feather fans (red, at the right edge).\n\nSymbol key\n+ or × = sc\nT = dc\noval = ch\n∨ = 2 sc in one stitch (inc)\n∧ = sc2tog (dec)\nThe tall bracketed groups at the right = fans of tr worked into the end of the tail panel.\n\nHow to read it\nRow numbers are printed up both sides of each panel. Read odd-numbered rows right to left and even-numbered rows left to right, turning at the end of each row. The body panel is worked first, the head is joined to row 11 of the body, and the tail panel is joined along the back edge. The legs are chains worked down from the underside of the body, each finished with a small chain foot.\n\nThe full row-by-row written version of this chart follows on the next pages of the pattern.",
+        "chineseText": "钩针大鸟图解 — 符号图（头/翅膀片、身体片1-21行、尾片1-9行、四组尾羽）",
+        "notes": "Symbol chart for a flat crocheted bird appliqué. Colours are lettered A-E in the written pattern: A = orange, B = pink, C and D = body and head shades, E = the contrast used for the surface-crochet wing line and the French-knot eye."
+      },
+      {
+        "englishText": "Colourful Bird Appliqué — Symbol Chart (clean version)\n\nThe same chart as the previous page without the finished-piece photo, so the stitch symbols are easier to follow.\n\nPanels shown\n- Head and wing panel: rows 1-9, with the beak chain worked off the top left corner.\n- Body panel: rows 1-21, the largest section, with row numbers on both sides.\n- Tail panel: rows 1-9, joined along the right-hand edge of the body.\n- Tail feathers: four fans of tr with ch loops between them, worked into the end of the tail panel.\n- Legs: two chain legs hanging from the underside of the body, each ending in a small chain foot.\n\nSymbol key\n+ or × = sc, T = dc, oval = ch, ∨ = 2 sc in one stitch, ∧ = sc2tog.\nRead odd-numbered rows right to left and even-numbered rows left to right; ch 1 and turn at the end of each row.",
+        "chineseText": "钩针大鸟图解 — 符号图（无照片版）",
+        "notes": "Second copy of the bird symbol chart, printed without the sample photo. Use it alongside the written English rows on the following pages."
+      },
+      {
+        "englishText": "Colourful Bird Appliqué — Tail and Body\n\nUsing A, ch 5.\nCircle 1: Skip 2 ch, 5 hdc in the third ch, skip 1 ch, sl st in the first ch, rotate to work into the other side of the foundation ch, skip 2 ch, 5 hdc in the next ch, skip 1 ch, sl st in the next ch.\nCircles 2 to 4: Ch 5 and work as for Circle 1. Fasten off and weave in the ends.\nWith RS facing, join B in the second hdc of circle 4 (the top circle). From here the work is in rows across the circles.\nRow 1: Ch 1, [3 sc BLO, skip 1 st, dc in the space between the circles, skip 1 st] 3 times, 3 sc BLO, turn (15 sts)\nRow 2: Ch 1, sc2tog, 11 sc, sc2tog, turn (13 sts)\nRow 3: Ch 1, 13 sc, turn\nRow 4: Ch 1, sc2tog, 9 sc, sc2tog, turn (11 sts)\nRow 5: Ch 1, 11 sc, turn\nRow 6: Ch 1, sc2tog, 7 sc, sc2tog, turn (9 sts)\nRow 7: Ch 1, 9 sc, turn. Fasten off B.\nRow 8: Join C, ch 1, 9 sc, turn\nRows 9 and 10: Ch 1, 9 sc, turn. Do not turn at the end of Row 10.\nRow 11: Ch 7, skip 1 ch, 15 sc, turn (15 sts)\nRow 12: Ch 1, 15 sc, turn\nRow 13: Ch 1, 2 sc in the next st, 14 sc, turn (16 sts)\nRows 14 and 15: Ch 1, 16 sc, turn\nRow 16: Ch 1, 15 sc, 2 sc in the next st, turn (17 sts)\nRow 17: Ch 1, 15 sc, sc2tog, turn (16 sts)",
+        "chineseText": "（原图为英文文字图解页）TAIL AND BODY — Using A, ch 5. Circle 1 ... Row 17.",
+        "notes": "Written English rows for the bird's tail circles and body. Four small hdc circles form the tail fan, then the body is worked in rows across them. Colour A = red, B = pink, C = orange."
+      },
+      {
+        "englishText": "Colourful Bird Appliqué — Body Rows 18-21 and Head\n\nBody, continued\nRow 18: Ch 1, 16 sc, turn\nRow 19: Ch 1, 14 sc, sc2tog, turn (15 sts)\nRow 20: Ch 1, 15 sc, turn\nRow 21: Ch 1, 6 sl st, 3 sc, 2 hdc, 2 hdc in the next st, 1 hdc, 1 sc, sl st in the last ch, do not turn.\nEdging: Work sl st evenly around the bottom and tail, changing colour when the body colour changes. Fasten off and weave in the ends.\n\nHead\nWith RS facing, join D in Row 11 of the body.\nRow 1: Ch 1, working into the row ends, 10 sc, turn\nRow 2: Ch 1, sc2tog, 6 sc, sc2tog, turn (8 sts)\nRows 3 to 6: Ch 1, 8 sc, turn\nRow 7: Ch 1, sc2tog, 4 sc, sc2tog, turn (6 sts)\nRow 8: Ch 1, 6 sc, turn\nRow 9: Ch 1, skip 1 st, 1 sc, [2 hdc in the next st] twice, 1 sc, sl st in the last st. Fasten off.\nWith RS facing, join D in the row end of the first st of Row 1.\nEdging: Work sl st evenly around the head. Fasten off and weave in the ends.",
+        "chineseText": "（原图为英文文字图解页）Row 18 - Row 21, Edging, HEAD Row 1 - Row 9, Edging.",
+        "notes": "Second page of the written English pattern for the bird. The head is worked directly into the row ends of the body, so no sewing is needed."
+      },
+      {
+        "englishText": "Colourful Bird Appliqué — Beak, Feet and Finishing\n\nBeak\nWith RS facing, join A in the row end of Row 8 of the head, behind the sl st edging. Ch 6, skip 1 ch, 1 sl st, 1 sc, 2 hdc, 2 hdc in the next st, join in Row 6 with a sl st. Fasten off and weave in the ends.\n\nFeet\nLeft foot: Join A in Row 18 of the body, ch 13, skip 1 ch, 3 sl st, ch 1, 8 sl st, 1 sc, join in Row 17 with a sl st.\nRight foot: Join A in Row 11 of the body, ch 12, skip 1 ch, 3 sl st, ch 1, 7 sl st, 1 sc, join in Row 10 with a sl st. Fasten off and weave in the ends.\n\nFinishing\nUsing E and referring to the photo, add a curved line of surface crochet for the wing.\nUsing A, embroider straight stitch lines on the tail and zigzags on the neck in arrow stitch.\nUsing E, work the eye as a French knot.",
+        "chineseText": "（原图为英文文字图解页）BEAK / FEET / FINISHING.",
+        "notes": "Final page of the written English pattern. The wing is surface crochet rather than a separate piece, and the eye is embroidered as a French knot."
+      }
+    ],
+    "meta": {
+      "intro": "A flat crocheted bird appliqué with a fan tail built from four small hdc circles, a surface-crochet wing and an embroidered eye. The pattern comes as both a symbol chart and full written English rows.",
+      "materials": [
+        "Yarn in five colours (A-E)",
+        "Hook to suit the yarn",
+        "Yarn needle for embroidery"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "sc2tog",
+        "BLO",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How is the tail made?",
+          "answer": "Four small circles of 5 hdc are worked on a chain base, then Row 1 of the body is worked across them, joining them into a fan."
+        },
+        {
+          "question": "Do I sew the head on?",
+          "answer": "No. The head is worked directly into the row ends of the body starting at Row 11, so the bird comes off the hook in one piece."
+        },
+        {
+          "question": "What are the letters A to E?",
+          "answer": "They are the colour codes used in the written pattern — A is used for the tail, feet and embroidery, B and C for the body, D for the head, and E for the surface-crochet wing and the French-knot eye."
+        },
+        {
+          "question": "How do I read the symbol chart?",
+          "answer": "+ or × is sc, T is dc, an oval is a chain, ∨ is 2 sc in one stitch and ∧ is sc2tog. Read odd rows right to left and even rows left to right."
+        }
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "slug": "apple-baby-hat",
+    "title": "Apple Baby Hat",
+    "description": "宝宝戴起来真的超级萌，和圆脸宝宝的适配度拉满！！\n\n**标签**: 钩针帽子 苹果帽 宝宝秋冬帽子",
+    "author": "胖淘不淘",
+    "tags": [
+      "baby",
+      "wearable",
+      "fruit",
+      "food"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_0_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_0_medium.webp",
+        "full": "/images/apple-baby-hat/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_1_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_1_medium.webp",
+        "full": "/images/apple-baby-hat/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_2_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_2_medium.webp",
+        "full": "/images/apple-baby-hat/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_3_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_3_medium.webp",
+        "full": "/images/apple-baby-hat/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_4_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_4_medium.webp",
+        "full": "/images/apple-baby-hat/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_5_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_5_medium.webp",
+        "full": "/images/apple-baby-hat/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/apple-baby-hat/image_6_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_6_medium.webp",
+        "full": "/images/apple-baby-hat/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_0_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_0_medium.webp",
+        "full": "/images/apple-baby-hat/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_1_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_1_medium.webp",
+        "full": "/images/apple-baby-hat/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_2_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_2_medium.webp",
+        "full": "/images/apple-baby-hat/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_3_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_3_medium.webp",
+        "full": "/images/apple-baby-hat/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_4_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_4_medium.webp",
+        "full": "/images/apple-baby-hat/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-baby-hat/image_5_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_5_medium.webp",
+        "full": "/images/apple-baby-hat/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/apple-baby-hat/image_6_thumb.webp",
+        "medium": "/images/apple-baby-hat/image_6_medium.webp",
+        "full": "/images/apple-baby-hat/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Apple Baby Hat — Hat, Stem and Leaf\n\nMaterials: red chunky coral-fleece yarn (50g balls, just under two balls) with a 6mm hook; brown and green 5-ply cotton with a 3mm hook for the stem and leaf. Sized for a 9-18 month old baby.\n\nHat Body (6mm hook, red)\nRnd 1: 12 hdc in MR (12)\nRnd 2: 12 hdc-inc (24)\nRnd 3: *hdc, hdc-inc*, repeat around (36)\nRnd 4: *2 hdc, hdc-inc*, repeat around (48)\nRnd 5-6: 48 hdc (48)\nRnd 7: 44 hdc — leave the last 4 sts unworked; this gap is the neck opening\nRnd 8: Turn, ch 2, 44 hdc (44)\nRnd 9: hdc, hdc2tog, 18 hdc, hdc2tog, 18 hdc, hdc2tog, hdc (41)\nRnd 10: 2 hdc, hdc2tog, 15 hdc, hdc2tog, 16 hdc, hdc2tog, hdc, then ch 16 and, starting in the 2nd ch, 14 hdc to form the chin tie (38)\nRnd 11: 18 hdc, hdc2tog, 16 hdc, hdc2tog (36)\nRnd 12: 36 sc (36)\n\nApple Stem (stuff it so it stands up)\nRnd 1: 6 sc in MR (6)\nRnd 2: 12 sc (12)\nRnd 3: 12 sc in FLO (12)\nRnd 4 onwards: 12 sc, repeat until the stem is as long as you want, then fasten off leaving a long tail.\n\nLeaf\nRow 1: Ch 16, starting in the 2nd ch: sc, 2 dc, 3 hdc, sl st, sl-st-inc, sl st, 3 hdc, 2 dc, 3 sc in one st, 2 dc, 3 hdc, sl st, sl-st-inc, sl st, 3 hdc, 2 dc, sc\nRow 2: 15 sc, (sc, ch 2, sc), 15 sc — slip a shaping wire in for extra support.\n\nSew the stem to the crown of the hat and the leaf to the base of the stem.",
+        "chineseText": "钩针苹果帽 材料:珊瑚绒二红50克一团，6mm钩针，两团不到；棕色/绿色5股棉线，3mm钩针。帽子主体(适合9-18个月宝宝) R1:环起12f 12 R2:12fv24 R3:f,fv 36 R4:2f,fv 48 R5-6:48f R7:44f(最后四针不勾，脖子位置) R8:翻转2ch,44f R9:f,fa,18f,fa,18f,fa,f 41 R10:2f,fa,15f,fa,16f,fa,f,(继续16ch,倒2勾14f,下巴绑带)38 R11:18f,fa,16f,fa 36 R12:36x 苹果杆(塞棉，更有支撑力) R1:环起6x R2:12x R3:12x(全部外半针) R4(往后):12x 叶子 R1:16ch,倒2,x,2t,3f,e,ev,e,3f,2t,w,2t,3f,e,ev,e,3f,2t,x R2:15x,(x,2ch,x),15x(加入定型条更有支撑力)",
+        "notes": "Baby bonnet-style apple hat with a chin tie worked straight off Rnd 10. Shorthand: f = hdc, fv = hdc increase, fa = hdc decrease, x = sc, t = dc, e = sl st, ev = 2 sl st in one st, w = 3 sc in one st."
+      }
+    ],
+    "meta": {
+      "intro": "A red apple bonnet for a baby, worked in chunky coral-fleece yarn with a chin tie built straight into the shaping. A stuffed brown stem and a wired green leaf go on top.",
+      "materials": [
+        "Red chunky coral-fleece yarn, just under two 50g balls",
+        "Brown and green 5-ply cotton",
+        "6mm hook for the hat, 3mm for the trims",
+        "Fibrefill stuffing",
+        "Shaping wire for the leaf"
+      ],
+      "yarnWeight": "Chunky (hat) / 5-ply cotton (trims)",
+      "hookSize": "6mm (3mm for stem and leaf)",
+      "finishedSize": "Fits 9-18 months",
+      "difficulty": "Easy",
+      "estimatedTime": "2-3 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "dec",
+        "FLO",
+        "MR",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How does the chin tie work?",
+          "answer": "It is worked into Rnd 10: after the last decrease you chain 16, turn back and work 14 hdc along the chain, so the tie comes off the hat with no extra sewing."
+        },
+        {
+          "question": "Why leave four stitches unworked in Rnd 7?",
+          "answer": "That gap forms the neck opening. Rnd 8 turns and works back across, which is what shapes the bonnet."
+        },
+        {
+          "question": "Will it fit an older baby?",
+          "answer": "It is sized for 9-18 months. For a bigger head, add one more increase round before Rnd 5 and work the straight rounds a little longer."
+        },
+        {
+          "question": "How do I keep the stem upright?",
+          "answer": "Stuff the stem firmly — the maker notes it needs stuffing for support — and slip a shaping wire into the leaf."
+        }
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "slug": "caramel-pudding-storage-pot",
+    "title": "Caramel Pudding Storage Pot",
+    "description": "💛QQ弹弹的布丁收纳盒！\n\n🧶：唯棉四股@苏苏姐家\n🎨：曙红，乳白，栗色，鹅黄\n🪄：2.15mm钩针（单股钩织）\n📝：图7、8 图解@Cheecute 感谢分享\n\n奶油改动：\nR1. 6x\nR2. 6v\nR3. 6[(3ch,5F未完成针),sl]\n\n樱桃改动：\nR1. 6x\nR2. 6v\nR3. 12x\nR4. 6a\n\n🌟本人织物图片，请勿搬运盗图商用。\n\n**标签**: 钩针编织 布丁 钩针图解 手工钩织 钩针小物 钩针日常 一起来钩织 钩针 钩织 焦糖布丁",
+    "author": "Scarlett🍓",
+    "tags": [
+      "food",
+      "home",
+      "sanrio",
+      "decor"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_0_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_0_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_1_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_1_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_2_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_2_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_3_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_3_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_4_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_4_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_5_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_5_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/caramel-pudding-storage-pot/image_6_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_6_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/caramel-pudding-storage-pot/image_7_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_7_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_7_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_0_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_0_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_1_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_1_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_2_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_2_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_3_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_3_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_4_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_4_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/caramel-pudding-storage-pot/image_5_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_5_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/caramel-pudding-storage-pot/image_6_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_6_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/caramel-pudding-storage-pot/image_7_thumb.webp",
+        "medium": "/images/caramel-pudding-storage-pot/image_7_medium.webp",
+        "full": "/images/caramel-pudding-storage-pot/image_7_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Caramel Pudding Storage Pot — Pudding Base (held double)\n\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, repeat 6 times (18)\nRnd 4: *2 sc, inc*, repeat 6 times (24)\nRnd 5: *3 sc, inc*, repeat 6 times (30)\nRnd 6: *4 sc, inc*, repeat 6 times (36)\nRnd 7: *5 sc, inc*, repeat 6 times (42)\nRnd 8: *6 sc, inc*, repeat 6 times (48)\nRnd 9: *7 sc, inc*, repeat 6 times (54)\nRnd 10-11: 54 sc in BLO, no shaping (54)\nRnd 12: *7 sc, dec*, repeat 6 times (48)\nRnd 13-15: 48 sc, no shaping (48)\nRnd 16: *6 sc, dec*, repeat 6 times (42)\nRnd 17-19: 42 sc, no shaping (42)\nRnd 20: *5 sc, dec*, repeat 6 times (36)\nRnd 21: 36 sc, no shaping (36)\nFasten off. The finished cup shape is the body of the pudding and the inside is left open so it works as a small pot.",
+        "chineseText": "Crocheted pudding — 布丁钩织(双股) 圈数/针法/针数：1:6X 6 / 2:6V 12 / 3:6(X,V) 18 / 4:6(2X,V) 24 / 5:6(3X,V) 30 / 6:6(4X,V) 36 / 7:6(5X,V) 42 / 8:6(6X,V) 48 / 9:6(7X,V) 54 / 10~11:挑内针不加不减两圈54 / 12:6(7X,a) 48 / 13~15:不加不减3圈48X / 16:6(6X,a) 42 / 17~19:不加不减3圈42X / 20:6(5X,a) 36 / 21:不加不减1圈36X",
+        "notes": "Held double throughout with a 2.15mm hook in 4-ply cotton (pale yellow for the pudding). Working Rnds 10-11 in back loops only creates the crisp ridge at the top rim."
+      },
+      {
+        "englishText": "Caramel Pudding Storage Pot — Caramel Top, Cherry and Cream\n\nCaramel Top (held double)\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, repeat 6 times (18)\nRnd 4: *2 sc, inc*, repeat 6 times (24)\nRnd 5: *3 sc, inc*, repeat 6 times (30)\nRnd 6: *4 sc, inc*, repeat 6 times (36)\nRnd 7: *5 sc, inc*, repeat 6 times (42)\nRnd 8-9: 42 sc in FLO, no shaping (42)\nRnd 10 (drip edge): [(dc, tr, tr, dc, 3 sc) twice; (tr, dtr, dtr, tr, 3 sc) once] twice\n\nCherry (single strand)\nRnd 1: 6 sc (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, repeat 6 times (18)\nRnd 4-5: 18 sc, no shaping (18)\nRnd 6: *sc, dec*, repeat 6 times (12)\nRnd 7: 6 dec (6)\nStuff lightly and close.\n\nCream / Salad Topping (single strand)\nWork a crocheted cord 30 stitches long, in 6 segments in total, then coil it on top of the caramel.\n\nAssembly: sit the caramel top over the pudding base so the drip edge hangs down the sides, add the cream coil and sew the cherry on top.",
+        "chineseText": "焦糖钩织（双股）1:6X 6 / 2:6V 12 / 3:6(X,V) 18 / 4:6(2X,V) 24 / 5:6(3X,V) 30 / 6:6(4X,V) 36 / 7:6(5X,V) 42 / 8~9:挑外针不加不减两圈42X / 10:[(长针，长长针，长长针，长针，3X)*2；(长长针，长长长针，长长长针，长长针，3X)*1]*2。樱桃钩织（单股）1:6X / 2:6V / 3:6(X,V) / 4~5:不加不减2圈18X / 6:6(X,a) / 7:6a。沙拉/奶油（单股）绳编方法:编30个针目，一共6段",
+        "notes": "Second half of the pudding pot: the brown caramel lid, the cherry and the whipped-cream cord. The graded tall stitches in Rnd 10 make the uneven caramel drips. Hook 2.15mm; colours crimson, cream, chestnut and pale yellow."
+      }
+    ],
+    "meta": {
+      "intro": "A caramel pudding that is really a small storage pot: the pale yellow base is worked as an open cup and the brown caramel top lifts off like a lid, complete with a drip edge, a coil of cream and a cherry.",
+      "materials": [
+        "4-ply cotton in pale yellow, chestnut, cream and crimson",
+        "2.15mm hook",
+        "Fibrefill stuffing for the cherry"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.15mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "3-5 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "dtr",
+        "inc",
+        "dec",
+        "BLO",
+        "FLO"
+      ],
+      "faq": [
+        {
+          "question": "Why is the yarn held double?",
+          "answer": "The pudding base and the caramel top are both worked with two strands together, which gives the pot firm sides that stand up on their own. The cherry and cream use a single strand."
+        },
+        {
+          "question": "What makes the caramel drips?",
+          "answer": "Rnd 10 of the top mixes dc, tr and dtr in graded groups, so the edge dips down at uneven lengths like melted caramel."
+        },
+        {
+          "question": "Why work some rounds in back or front loops only?",
+          "answer": "Rnds 10-11 of the base are BLO and Rnds 8-9 of the top are FLO. Those loop-only rounds create the crisp horizontal ridges where the shape changes."
+        },
+        {
+          "question": "Can I actually use it as a container?",
+          "answer": "Yes — the base is left open and unstuffed, so it holds stitch markers, rings or other small items with the caramel top sitting over it as a lid."
+        }
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "slug": "crochet-pony-charm",
+    "title": "Crochet Pony Charm",
+    "description": "小马挂件也太可爱了\n全网都在钩的小马挂件我看谁还没有\n画了超详细的图解，我看谁还不会\n\n**标签**: 不完美手工事务所 织女的聚会 钩针教程 手工钩织 编织图解 钩织小马 手工友人成长计划 钩织小马图解",
+    "author": "顾小谷🍄",
+    "tags": [
+      "amigurumi",
+      "animal",
+      "keychain",
+      "toy"
+    ],
+    "createdAt": "2026-09-03 01:45:33",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_0_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_0_medium.webp",
+        "full": "/images/crochet-pony-charm/image_0_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_4_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_4_medium.webp",
+        "full": "/images/crochet-pony-charm/image_4_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_6_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_6_medium.webp",
+        "full": "/images/crochet-pony-charm/image_6_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_1.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_1_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_1_medium.webp",
+        "full": "/images/crochet-pony-charm/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_2_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_2_medium.webp",
+        "full": "/images/crochet-pony-charm/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_3_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_3_medium.webp",
+        "full": "/images/crochet-pony-charm/image_3_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_5_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_5_medium.webp",
+        "full": "/images/crochet-pony-charm/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_0_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_0_medium.webp",
+        "full": "/images/crochet-pony-charm/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_1_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_1_medium.webp",
+        "full": "/images/crochet-pony-charm/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_2_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_2_medium.webp",
+        "full": "/images/crochet-pony-charm/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_3_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_3_medium.webp",
+        "full": "/images/crochet-pony-charm/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_4_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_4_medium.webp",
+        "full": "/images/crochet-pony-charm/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/crochet-pony-charm/image_5_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_5_medium.webp",
+        "full": "/images/crochet-pony-charm/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/crochet-pony-charm/image_6_thumb.webp",
+        "medium": "/images/crochet-pony-charm/image_6_medium.webp",
+        "full": "/images/crochet-pony-charm/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Crochet Pony Charm — Step 1: Two Horse Panels (Symbol Chart)\n\nSymbol key: + = sc, oval = ch, ∨ = 2 sc in one st (inc), ∧ = sc2tog (dec).\nRows are numbered 1-24 up both sides of the chart.\n\nWorking order marked on the chart\n① Start point: make the foundation chain for the front leg and work Rows 1-5 up the leg.\n② Fasten off at the top of the front leg.\n③ Start again: make a second foundation chain for the back leg and work Rows 6-11 up that leg.\n④ Join: at Row 11 connect the front leg to the back leg with a short chain across the belly and carry on across the whole width.\nContinue up through the body (Rows 11-17), then shape the neck and head (Rows 18-24), decreasing at the muzzle.\n⑤ Finish at the top of the head and fasten off.\n\nMake two identical panels — one for each side of the horse.",
+        "chineseText": "第一步 钩织两片马 — 符号图，1-24行，①起点 ②断线 ③再次起针 ④连接 ⑤结束",
+        "notes": "The chart is worked in rows, turning each row. Rows 1-5 (orange on the chart) are the front leg, Rows 6-11 the back leg, and the two are joined before the body is worked. Two matching panels are needed."
+      },
+      {
+        "englishText": "Crochet Pony Charm — Step 2: Join with Single Crochet and Stuff\n\nHold the two horse panels with wrong sides together and line up the edges.\nStarting at the top of the head (marked as the start point on the chart), work sc through both layers all the way around the outline of the horse: down the front of the face, along the neck, around the front leg, along the belly, around the back leg, up the rump and back along the top of the back to where you started.\nBefore you close the last few stitches, stuff the body lightly through the gap so it stays flat but has a little body to it.\nSl st into the first sc to join and fasten off, then weave in the end.",
+        "chineseText": "第二步 短针锁边塞棉花 — 起点在头顶，沿轮廓一圈短针，中途塞棉花",
+        "notes": "The sc edging is what turns the two flat panels into a padded charm, so keep the tension even and work one sc into each edge stitch. Stuff only lightly — this is meant to stay a flat charm, not a round toy."
+      },
+      {
+        "englishText": "Crochet Pony Charm — Step 3: Mane and Tail\n\nMane\nAlong the top edge of the neck, work 5 dc into each stitch. The dense cluster of tall stitches stands up on its own and makes the mane.\n\nTail\nJoin the yarn at the rump. Chain to the length you want the tail to be, then work a fan of dc into the last chain, sl st back down into the chain to secure it, and fasten off.\n\nWeave in all the ends and the charm is finished.",
+        "chineseText": "最后 鬃毛和尾巴就完成啦 — 每个针目5个长针（鬃毛），尾巴锁针+扇形长针，连接后锁针结束",
+        "notes": "Both the mane and the tail are added after the body is joined and stuffed. Using a fluffy or mohair-blend yarn for the mane and tail gives the shaggy look in the sample photos."
+      },
+      {
+        "englishText": "Crochet Pony Charm — Flower Motif (Symbol Chart)\n\nRnd 1 (centre): 6 sc in a magic ring (6)\nRnd 2 (petals): *ch 2, work (2 tr, dtr, 2 tr) into the next stitch, ch 2, sl st into the next stitch*, repeat around to make 6 petals.\nFasten off and weave in the ends.\n\nSew the flower to the pony's neck where the mane meets the shoulder, as shown in the finished photos. Make a few in different colours to change the look.",
+        "chineseText": "钩花朵 — 符号图：中心环起短针，外圈6片花瓣（锁针+长长针组）",
+        "notes": "Small six-petal flower motif used as the accent on the pony charm. Worked in a contrasting fluffy yarn in the sample."
+      }
+    ],
+    "meta": {
+      "intro": "A flat pony charm made from two identical crocheted panels joined with a round of single crochet and lightly stuffed, then finished with a dense dc mane, a chained tail and a small flower on the shoulder.",
+      "materials": [
+        "Main colour yarn plus a fluffy or mohair-blend yarn for the mane and tail",
+        "Contrast yarn for the flower",
+        "Fibrefill stuffing",
+        "Yarn needle"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "dtr",
+        "inc",
+        "dec",
+        "MR",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How is the horse shaped?",
+          "answer": "Each panel starts with the front leg (Rows 1-5), fastens off, starts again for the back leg (Rows 6-11), then the two legs are joined at Row 11 and the body, neck and head are worked up to Row 24."
+        },
+        {
+          "question": "How much should I stuff it?",
+          "answer": "Only lightly. It is meant to stay a flat charm, so add just enough fill to give it a little body before closing the sc edging."
+        },
+        {
+          "question": "How is the mane made?",
+          "answer": "Work 5 dc into every stitch along the top edge of the neck — the crowded tall stitches stand up on their own."
+        },
+        {
+          "question": "How many panels do I need?",
+          "answer": "Two identical ones, held wrong sides together and joined with sc all the way around the outline."
+        }
+      ]
+    }
+  },
+  {
+    "id": 287,
+    "slug": "croissant-and-pretzel-bag-charms",
+    "title": "Croissant & Pretzel Bag Charms",
+    "description": "超超可爱的牛角包！！！舍不得带出门系列，当包挂是想萌倒谁！\n线材：萌娃娃4号线\n钩针：2.5mm\n图解参考自小红书哦\n\n**标签**: 针织手作 钩针挂件 钩针图解 牛角包",
+    "author": "叮了个咚",
+    "tags": [
+      "keychain",
+      "food",
+      "accessory",
+      "amigurumi"
+    ],
+    "createdAt": "2026-09-03 01:45:32",
+    "updatedAt": "2026-09-03 02:03:52",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_0_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_0_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_1_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_1_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_2_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_2_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_3_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_3_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_4_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_4_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_4_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_5_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_5_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_6_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_6_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_0_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_0_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_1_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_1_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_2_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_2_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_3_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_3_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_4_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_4_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_5_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_5_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/croissant-and-pretzel-bag-charms/image_6_thumb.webp",
+        "medium": "/images/croissant-and-pretzel-bag-charms/image_6_medium.webp",
+        "full": "/images/croissant-and-pretzel-bag-charms/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Croissant Bag Charm — Crocheted Croissant\n\nRnd 1: 8 sc (8)\nRnd 2: 8 sc (8)\nRnd 3: *sc, inc*, repeat 4 times (12)\nRnd 4: 12 sc (12)\nRnd 5: 4 sc, 2 hdc-inc, 6 sc (16)\nRnd 6: 4 sc, dc, 2 hdc, dc, 6 sc\nRnd 7: sc, *2 sc, inc*, repeat 4 times, sc\nRnd 8: 7 sc, dc, 2 hdc, dc, 7 sc\nRnd 9: 7 sc, dc, hdc-inc, hdc-inc, dc, 7 sc\nRnd 10: 7 sc, dc, 4 hdc, dc, 7 sc\nRnd 11: 7 sc, dc, hdc, hdc2tog, hdc, dc, 7 sc\nRnd 12: sc, *2 sc, inc*, repeat 6 times\nRnd 13: 10 sc, dc, 4 hdc, dc, 9 sc\nRnd 14: 10 sc, dc, hdc-inc, hdc, hdc, hdc-inc, dc, 9 sc\nRnd 15: 10 sc, dc, 2 hdc, hdc-inc, 3 hdc, dc, 9 sc\nRnd 16-17: 10 sc, dc, 7 hdc, dc, 9 sc\nRnd 18: 10 sc, dc, 2 hdc, hdc2tog, 3 hdc, dc, 9 sc\nRnd 19: 10 sc, dc, hdc2tog, hdc, hdc2tog, hdc, dc, 9 sc\nRnd 20: 10 sc, dc, 4 hdc, dc, 9 sc\nRnd 21: *3 sc, dec*, repeat 5 times\nRnd 22: 9 sc, dc, 2 hdc-inc, dc, 7 sc\nRnd 23: 9 sc, dc, 4 hdc, dc, 7 sc\nRnd 24: 9 sc, dc, 2 hdc2tog, dc, 7 sc\nRnd 25: 9 sc, dc, 2 hdc, dc, 7 sc\nRnd 26: *2 sc, dec*, repeat 5 times\nRnd 27-28: 7 sc, dc, hdc, dc, 5 sc\nRnd 29: *sc, dec*, repeat 5 times\nRnd 30: 10 sc\nRnd 31: 5 dec. Fasten off and weave in ends.",
+        "chineseText": "牛角包 R1.8X R2.8X R3.4*(X,V) R4.12X R5.4X,2FV,6X R6.4X,T,2F,T,6X R7.X,4*(2X,V),X R8.7X,T,2F,T,7X R9.7X,T,FV,FV,T,7X R10.7X,T,4F,T,7X R11.7X,T,F,FA,F,T,7X R12.X,6*(2X,V) R13.10X,T,4F,T,9X R14.10X,T,FV,F,F,FV,T,9X R15.10X,T,2F,FV,3F,T,9X R16~R17.10X,T,7F,T,9X R18.10X,T,2F,FA,3F,T,9X R19.10X,T,FA,F,FA,F,T,9X R20.10X,T,4F,T,9X R21.5*(3X,A) R22.9X,T,2FV,T,7X R23.9X,T,4F,T,7X R24.9X,T,2FA,T,7X R25.9X,T,2F,T,7X R26.5*(2X,A) R27~R28.7X,T,F,T,5X R29.5*(X,A) R30.10X R31.5A",
+        "notes": "Croissant charm worked in the round. Chart shorthand: X = sc, V = inc, A = dec, F = hdc, T = dc, FV = hdc increase, FA = hdc decrease. Worked with a 2.5mm hook in 4-ply cotton. Pairs with the pretzel charm from the same post."
+      },
+      {
+        "englishText": "Pretzel Bag Charm — Rope and Feet\n\nRope\nRnd 1-8: 6 sc (6)\nRnd 9: 5 sc, inc (7)\nRnd 10: 7 sc (7)\nRnd 11: 3 sc, inc, 3 sc (8)\nRnd 12-44: 8 sc (8)\nRnd 45: *sc, inc*, repeat 4 times (12)\nRnd 46-55: 12 sc (12)\nRnd 56: *sc, dec*, repeat 4 times (8)\nRnd 57-89: 8 sc (8)\nRnd 90: 6 sc, dec (7)\nRnd 91: 7 sc (7)\nRnd 92: 3 sc, dec, 2 sc (6)\nRnd 93-100: 6 sc (6)\nFasten off. Shape the long rope into a pretzel and stitch the crossings together.\n\nFeet (make 2)\nRow 1: Ch 5, starting in the 2nd ch from hook: inc, 2 sc, 3 sc in one st, 3 sc\nRow 2: 2 inc, 2 sc, 3 inc, 2 sc, inc\nRow 3: 4 sc, dc2tog, 3 hdc2tog, dc2tog, 2 sc\nRow 4: 3 sc, dc2tog, hdc, dc2tog, sc\nRnd 5-7: 7 sc (7)\nFasten off leaving a long tail for sewing.",
+        "chineseText": "R1-8 6x / R9 5x,v / R10 7x / R11 3x,v,3x / R12-44 8x / R45 (x,v)*4 / R46-55 12x / R56 (x,a)*4 / R57-89 8x / R90 6x,a / R91 7x / R92 3x,a,2x / R93-100 6x // 脚脚*2 R1 5ch,倒2回钩 v,2x,w,3x R2 2v,2x,3v,2x,v R3 4x,TA,3FA,TA,2x R4 3x,TA,FM,TA,x R5-7 7x",
+        "notes": "Second half of the croissant/pretzel charm set. Shorthand: x = sc, v = inc, a = dec, w = 3 sc in one st, f = hdc, t = dc; TA = dc2tog and FA = hdc2tog. 2.5mm hook, 4-ply cotton."
+      }
+    ],
+    "meta": {
+      "intro": "A pair of bakery bag charms — a plump croissant and a long pretzel rope with little feet. Both are small amigurumi worked in the round, sized to clip onto a bag or a set of keys.",
+      "materials": [
+        "4-ply cotton yarn in tan and cream",
+        "2.5mm hook",
+        "Fibrefill stuffing",
+        "Lobster clasp or keyring"
+      ],
+      "yarnWeight": "4-ply / sport",
+      "hookSize": "2.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "dec",
+        "MR",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "What do the letters X, V, A, F and T mean in this pattern?",
+          "answer": "They are Chinese chart shorthand: X = sc, V = increase, A = decrease, F = hdc, T = dc. FV is an hdc increase and FA an hdc decrease."
+        },
+        {
+          "question": "How is the pretzel shaped?",
+          "answer": "The rope is a 100-round tube that stays thin at the ends and widens in the middle. Once it is finished you bend it into the pretzel shape and stitch the crossings together."
+        },
+        {
+          "question": "Can I make these bigger?",
+          "answer": "Yes — the same stitch counts in a heavier yarn with a 3mm or 3.5mm hook will give a noticeably larger charm without changing any of the maths."
+        }
+      ]
+    }
+  },
+  {
     "id": 285,
     "slug": "vacation-duck-swim-ring",
     "title": "Vacation Duck on a Swim Ring",
