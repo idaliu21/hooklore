@@ -16,6 +16,17 @@ const LEGACY_SLUG_REDIRECTS: Record<string, string> = {
 };
 
 const nextConfig: NextConfig = {
+  /**
+   * Vercel's image optimizer is off: its monthly transformation quota ran out
+   * (every /_next/image request 402'd, so the whole site showed broken images).
+   * scripts/export-data.py already emits each photo as thumb/medium/full WebP
+   * and the components pick the right one, so there is nothing left to optimize
+   * at request time — serve the static files directly.
+   */
+  images: {
+    unoptimized: true,
+  },
+
   async redirects() {
     return Object.entries(LEGACY_SLUG_REDIRECTS).map(([noteId, slug]) => ({
       source: `/pattern/${noteId}`,
