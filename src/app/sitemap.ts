@@ -2,6 +2,9 @@ import type { MetadataRoute } from "next";
 import { getAllPatterns, getAllTags, getPatternsByTag } from "@/lib/data";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
 
+// Emitted as a file at build time — see the note in robots.ts.
+export const dynamic = "force-static";
+
 /** A stable reference date so home/tag lastmod doesn't churn on every build. */
 function latestCreatedAt(patterns: ReturnType<typeof getAllPatterns>): Date {
   let max = 0;

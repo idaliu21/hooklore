@@ -1,0 +1,23 @@
+# Cloudflare Pages redirect rules.
+#
+# This file replaces next.config.ts's `redirects()`, which a static export
+# (`output: "export"`) cannot emit. Keep it in sync by hand: Next.js copies
+# public/ verbatim into out/, so Pages picks it up as-is.
+#
+# Syntax: <from> <to> <status>. Static rules are matched before dynamic
+# (wildcard) ones; Pages allows 2,100 static and 100 dynamic rules.
+
+# Legacy note_id URLs → semantic slugs (2026-07). Permanent, so pages indexed
+# under the old URLs pass their equity to the new ones.
+/pattern/686300370000000010013181  /pattern/small-elephant-amigurumi  301
+/pattern/69ccaa970000000023025702  /pattern/four-corner-granny-square-flower  301
+/pattern/69131d80000000000302da99  /pattern/cat-face-motif-scarf  301
+/pattern/694c1160000000001e009871  /pattern/angel-pixel-chart  301
+/pattern/69ce55af000000002301144a  /pattern/black-cat-pixel-placemat  301
+/pattern/67df9db2000000001b038af8  /pattern/stardew-valley-pixel-chart  301
+/pattern/69c6284800000000230110f0  /pattern/earth-globe-pendant  301
+/pattern/6942540d000000001e0004c2  /pattern/round-scalloped-coaster  301
+
+# Images moved to R2 (2026-11). Google Images and every Pin published before the
+# move still point at the old same-origin paths, so forward them rather than 404.
+/images/*  https://img.hooklore.com/images/:splat  301

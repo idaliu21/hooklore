@@ -1,0 +1,23 @@
+# Cloudflare Pages response headers.
+#
+# Next.js copies public/ verbatim into out/, so Pages reads this from the build
+# output root. Syntax: a path pattern on its own line, then indented headers.
+
+# `next build` emits the generated OG card as an extension-less file
+# (out/opengraph-image), and Pages types responses by extension — without this
+# it goes out as application/octet-stream and Facebook, X and Pinterest all
+# reject the card. The URL carries a cache-busting query string, so the content
+# at this path never changes.
+/opengraph-image
+  Content-Type: image/png
+  Cache-Control: public, max-age=31536000, immutable
+
+# Hashed build assets: the filename changes whenever the content does.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Image filenames embed their size variant and never get rewritten in place.
+# Only applies while images are still served from here; once they move to R2
+# the /images/* redirect in _redirects takes over and R2 sets its own headers.
+/images/*
+  Cache-Control: public, max-age=31536000, immutable

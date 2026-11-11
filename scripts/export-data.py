@@ -12,6 +12,7 @@ Incremental: skips images already converted to WebP.
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -29,12 +30,27 @@ from database import get_conn, DOWNLOADS_DIR
 OUTPUT_JSON = WEB_DIR / "src" / "content" / "patterns.json"
 OUTPUT_IMAGES = WEB_DIR / "public" / "images"
 
+# Where the browser fetches images from. Set NEXT_PUBLIC_IMAGE_BASE to the R2
+# custom domain (https://img.hooklore.com) and every path baked into
+# patterns.json becomes absolute, so the WebP files no longer have to ship with
+# the site. Left empty, paths stay site-relative and resolve from public/images,
+# which is what `next dev` needs for local preview.
+#
+# These URLs are frozen into patterns.json at export time, not at build time —
+# the deploy platform never reads this variable.
+IMAGE_BASE = os.environ.get("NEXT_PUBLIC_IMAGE_BASE", "").rstrip("/")
+
 # Image sizes: name → max width
 SIZES = {
     "thumb": 300,
     "medium": 800,
     "full": 1600,
 }
+
+
+def image_url(slug: str, stem: str, size: str) -> str:
+    """Public URL for one converted image. Absolute when IMAGE_BASE is set."""
+    return f"{IMAGE_BASE}/images/{slug}/{stem}_{size}.webp"
 
 
 def slugify(text: str, note_id: str) -> str:
@@ -157,9 +173,9 @@ def export():
                 image_entries.append({
                     "filename": img["filename"],
                     "type": img["image_type"],
-                    "thumb": f"/images/{slug}/{stem}_thumb.webp",
-                    "medium": f"/images/{slug}/{stem}_medium.webp",
-                    "full": f"/images/{slug}/{stem}_full.webp",
+                    "thumb": image_url(slug, stem, "thumb"),
+                    "medium": image_url(slug, stem, "medium"),
+                    "full": image_url(slug, stem, "full"),
                 })
 
         # Separate product photos and diagrams
