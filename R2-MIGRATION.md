@@ -1,8 +1,8 @@
 # 图片迁移 Cloudflare R2 方案
 
-> 状态：**选项 B 已批准（2026-11-07）**，阶段 3、4 代码改动已完成并本地验证通过。
-> 卡在阶段 1（DNS 迁 Cloudflare）和阶段 2（R2 建桶上传）——这两步需要账号操作，见第 10 节。
-> 起因：hooklore.com 自 2026-10-31 起返回 HTTP 402，Vercel 团队被暂停
+> **状态：站点已于 2026-11-11 在 Cloudflare Pages 恢复上线。**
+> 最终没有做 R2 —— 实测表明它不是复活站点的必要条件，详见第 11 节。
+> 起因：hooklore.com 自 2026-10-31 起返回 HTTP 402，Vercel 团队被暂停，共计挂了 11 天。
 
 ---
 
@@ -317,3 +317,75 @@ npx next build  →  ✓ 311 个页面，0 错误
 3. `git rm -r --cached public/images` + `.gitignore` 加 `/public/images/`，仓库瘦 397 MB
 4. Pages 连 `idaliu21/hooklore`，构建命令 `next build`、产物目录 `out`，环境变量补齐：`SITE_URL`、`NEXT_PUBLIC_GTM_ID`、`NEXT_PUBLIC_AMAZON_ASSOCIATES_TAG`（后两个现在只在本地 `.env.local` 里，Vercel 上也配过，别漏）
 5. 先用 `*.pages.dev` 验收，通过再把 `hooklore.com` / `www` 指向 Pages
+
+---
+
+## 11. 最终结果（2026-11-11）
+
+**站点已恢复，运行在 Cloudflare Pages 上，月成本 $0。R2 没有做，也不需要做。**
+
+### 为什么砍掉 R2
+
+方案原本把「图片迁 R2」当成复活站点的前提。实施中查证 Cloudflare 官方文档后发现这个前提不成立：
+
+| 限制项 | Pages Free 上限 | 本站实际 | 余量 |
+|---|---|---|---|
+| 单次部署文件数 | 20,000 | 7,469 | 2.7× |
+| 单文件体积 | 25 MiB | 最大 0.7 MB | 充裕 |
+| 请求数 | **不计量** | — | — |
+| 带宽 | **不计量** | — | — |
+
+当初炸的就是「请求数」（1.33M / 1M 上限），而 Pages 根本不对请求数计费 —— 把站点搬过来，根因就已经消失了。R2 剩下的唯一价值是「让 397 MB 图片不进 git」，那是个可以任何时候单独做的事，不该成为站点多躺 19 天的理由。
+
+因此 `public/_redirects` 里那条 `/images/*` → R2 的跳转已移除（原因见下），图片直接由 Pages 提供。
+
+### 最终架构
+
+```
+阿里云（注册商，NS 已指向 Cloudflare）
+  └─ Cloudflare DNS
+       ├─ hooklore.com      CNAME → hooklore.pages.dev（已代理）
+       │    └─ 重定向规则 "Apex to www" → https://www.hooklore.com/${1}  301
+       ├─ www.hooklore.com  CNAME → hooklore.pages.dev（已代理）← canonical
+       └─ TXT               google-site-verification（保留）
+
+GitHub idaliu21/hooklore (main)
+  └─ Cloudflare Pages 项目 "hooklore"
+       构建命令  npm run build
+       产物目录  out
+       环境变量  SITE_URL / NEXT_PUBLIC_GTM_ID /
+                NEXT_PUBLIC_AMAZON_ASSOCIATES_TAG / NODE_VERSION=22
+```
+
+以后发布：`/import → /translate → export-data.py → git push` 即自动构建上线，不再需要手动部署。
+
+### 线上验收（全部通过）
+
+- 首页 / about / 258 个图解页 / 44 个标签页 → 200
+- `robots.txt` text/plain、`sitemap.xml` 与 `feed.xml` application/xml、`opengraph-image` **image/png**
+- 8 条 legacy note_id → slug 的 301 全部正确，跳转目标 200
+- 裸域 301 → www，路径和查询串都保留（`?utm_source=pinterest` 可用，Pinterest 引流不受影响）
+- 图片 200 image/webp
+- 不存在的 slug → 404
+- 环境变量全部生效：GTM 注入、canonical 指向 www、Amazon `tag=hooklore-20` 已挂上
+- 浏览器实测渲染正常，console 零报错
+
+### 实施中踩到的坑（方案原文没有的）
+
+1. **Next 16 的 metadata route 必须显式 `force-static`。** `robots.ts` / `sitemap.ts` / `opengraph-image.tsx` 三个都要，否则 `next build` 在 `output: "export"` 下直接报错退出。
+
+2. **OG 图会被 Pages 发成 `application/octet-stream`。** 产物是无扩展名的 `out/opengraph-image`（真 PNG），Pages 按扩展名判类型。已用 `public/_headers` 钉死 `Content-Type: image/png`，线上已验证生效。这个坑如果上线后才发现，所有社交平台的卡片都会失效。
+
+3. **`_redirects` 的通配规则优先于真实静态文件。** 拿一个确实存在于 `out/` 的图片实测，`/images/*` 规则照样让它 301。所以 R2 没活之前挂这条规则 = 全站图片挂掉。这也是它被移除的直接原因。
+
+4. **Cloudflare 的 DNS 自动扫描会漏记录。** 扫描只找到 1 条 CNAME + 1 条 TXT，**漏掉了裸域的 A 记录**（216.198.79.1）。必须自己从原权威 NS `dig` 一遍逐条核对，不能信扫描结果。
+
+5. **迁 NS 前必须确认 DNSSEC 关闭。** 注册商开着 DNSSEC 又换 NS，域名会直接解析失败。本站两边查证都是关闭状态，无 MX 记录，所以也不影响邮件。
+
+6. **`wrangler pages dev out` 可以在零账号成本下跑真实 Pages 运行时。** 上线前用它验证了 `_redirects`、`_headers`、无扩展名路由，三个都和线上行为一致 —— 强烈建议以后改这类配置都先这样验一遍。
+
+### 遗留事项
+
+- **图片仍在 git 里**（4,683 个文件，约 400 MB，`.git` 约 354 MB）。不影响线上，但 clone 很重。想治理时再做 R2：建桶 → 绑 `img.hooklore.com` → rclone 上传 → 带 `NEXT_PUBLIC_IMAGE_BASE` 重跑 export → `git rm -r --cached public/images` → 把 `/images/*` 跳转规则加回 `_redirects`（顺序不能反，见坑 3）。`export-data.py` 的 `IMAGE_BASE` 支持已经就位，到时候不用改代码。
+- **Vercel 项目尚未删除**，11/30 自动解除暂停后可作为冷备。确认 Pages 稳定后再删。
+- GSC 里重新提交 sitemap，观察索引恢复情况。
