@@ -18,6 +18,11 @@
 /pattern/69c6284800000000230110f0  /pattern/earth-globe-pendant  301
 /pattern/6942540d000000001e0004c2  /pattern/round-scalloped-coaster  301
 
-# Images moved to R2 (2026-11). Google Images and every Pin published before the
-# move still point at the old same-origin paths, so forward them rather than 404.
-/images/*  https://img.hooklore.com/images/:splat  301
+# Images are served from this deployment, so no rule is needed here.
+#
+# When they do move to R2, add:
+#   /images/*  https://img.hooklore.com/images/:splat  301
+# but only once R2 is actually serving. A wildcard here takes precedence over a
+# real file in out/ — verified against wrangler pages dev, where an image that
+# exists on disk still 301'd — so adding it early would break every image on
+# the site rather than fall back to the local copy.

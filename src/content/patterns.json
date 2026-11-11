@@ -1,5 +1,2483 @@
 [
   {
+    "id": 344,
+    "slug": "relief-dove-lace-coaster",
+    "title": "Relief Dove Lace Coaster",
+    "description": "🤍做了一个极有观赏性的浮雕鸽子杯垫！\n🌿做的过程中一直怀疑哪里做错了（并且也真的做错了）好在成品实在貌美\n🕊️钩针杯垫 成品直径15cm 适配各种大小的杯子～ 虽然是浮雕但放着也很稳 供大家参考\n🌿钩针图解 也分享在P4啦！我这里线不够做一半就停手了 但效果也很不错\n🤍毛线用的是@苏苏姐家 的匹马棉【西尔芙】余线：01米白 钩针是3.0mm的～\n\n**标签**: #手工的夏天# #织女的夏天# #子禾啊# #子禾手作# #我的手作日常# #夏日手作howto# #手工杯垫# #钩针编织#",
+    "author": "子禾啊Handmade",
+    "tags": [
+      "coaster",
+      "bird",
+      "lace",
+      "home"
+    ],
+    "createdAt": "2026-09-16 02:58:19",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_0_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_0_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_1_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_1_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_2_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_2_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_2_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_4_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_4_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_5_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_5_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_6_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_6_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_6_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/relief-dove-lace-coaster/image_3_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_3_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_3_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_0_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_0_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_1_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_1_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_2_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_2_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/relief-dove-lace-coaster/image_3_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_3_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_4_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_4_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_5_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_5_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/relief-dove-lace-coaster/image_6_thumb.webp",
+        "medium": "/images/relief-dove-lace-coaster/image_6_medium.webp",
+        "full": "/images/relief-dove-lace-coaster/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "3D Relief Dove Coaster — Symbol Chart (Rnds 1-21)\n\nThe chart has two parts: a flat lace disc worked in Rnds 1-11, and the raised dove worked over the top in Rnds 12-21.\n\nBase disc\nRnd 1: Magic ring filled with dc.\nRnds 2-5: dc fans and ch-2 spaces radiating out from the centre, with bobbles placed between the fans.\nRnds 6-9: alternating rounds of sc and ch arcs with groups of 3-4 dc, expanding the circle evenly.\nRnds 10-11: an outer ring of ch loops and dc groups that sets the finished 15 cm diameter.\n\nRelief dove\nRnds 12-15: rows of tr and sl st worked over the surface of the disc to outline the bird's body and wing.\nRnds 16-21: shell and fan groups worked in rows across the wing, each row shorter than the last, building the layered feathers that stand proud of the base.\n\nFasten off and weave in the ends behind the wing so the relief stays crisp.",
+        "chineseText": "立体浮雕飞鸟杯垫符号图解（俄文图解，共21圈，主体圆片1-11圈，浮雕鸟身12-21圈）。",
+        "notes": "Finished diameter about 15 cm, fits any size cup. Worked in cream pima cotton with a 3.0 mm hook. The relief wing is worked on top of the finished disc, so it sits raised but the coaster still lies flat."
+      }
+    ],
+    "meta": {
+      "intro": "A round lace coaster with a raised relief dove worked on top of the finished disc. The base is a flat lace circle of about 15 cm, and the layered wing feathers stand proud of it while the coaster still sits flat on a table.",
+      "materials": [
+        "Pima cotton yarn in cream",
+        "3.0 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "Pima cotton (DK)",
+      "hookSize": "3.0mm",
+      "finishedSize": "About 15 cm diameter",
+      "difficulty": "Advanced",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "sl st",
+        "bobble"
+      ],
+      "faq": [
+        {
+          "question": "How does the relief bird stay raised?",
+          "answer": "Rounds 12 to 21 are worked over the surface of the finished disc rather than into its outer edge, so the wing sits on top as a separate layer while the base stays flat."
+        },
+        {
+          "question": "Will it still work as a coaster?",
+          "answer": "Yes. The maker notes that despite the relief it sits stably under a cup, and it fits mugs and cups of any size at 15 cm across."
+        },
+        {
+          "question": "How much yarn does it take?",
+          "answer": "The sample was made from leftover cream pima cotton and the maker ran out partway through the relief section, so a partial wing is possible and still looks good."
+        },
+        {
+          "question": "Any advice for a first attempt?",
+          "answer": "Work the flat disc first and check it lies flat before starting the relief rounds. The relief section is easier to read from the chart than to count, so mark the start of each row."
+        }
+      ]
+    }
+  },
+  {
+    "id": 330,
+    "slug": "cloud-wave-handbag",
+    "title": "Cloud Wave Handbag",
+    "description": "灭线完成一只波浪纹三角包✨\n钩法简单，成品却格外耐看\n蓝绿白配色清清爽爽，很适合春夏\n自制小花扣做点缀，细节满满💕\n\n特意加大了尺寸，容量很够用\n可以手提，也可以腋下背\n这个款式自由度很高，大小能够随心调整\n\n我的起针161CH，16组花样，一组花样10针\n(SL，X，T，F，2E，F，T，X，SL)\n🧶线材：五股牛奶棉\n🪡钩针：3.5mm\n图解参考P4，来自@momo爱编织\n\n**标签**: #织女的夏天# #手工钩织# #波浪纹包包# #钩针图解# #手工包# #毛线编织# #钩针包包# #钩针日常# #手工的夏天# #一起来钩织#",
+    "author": "屹朵",
+    "tags": [
+      "bag",
+      "lace",
+      "accessory"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_0_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_0_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_1_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_1_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_2_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_2_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_2_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/cloud-wave-handbag/image_3_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_3_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_3_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_0_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_0_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_1_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_1_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/cloud-wave-handbag/image_2_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_2_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/cloud-wave-handbag/image_3_thumb.webp",
+        "medium": "/images/cloud-wave-handbag/image_3_medium.webp",
+        "full": "/images/cloud-wave-handbag/image_3_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Cloud Wave Handbag — Symbol Chart (29 rows)\n\nFoundation: Ch 80 with yarn held double and a 6.0 mm hook. From row 2 onward work into the back bump of the foundation chain.\n\nThe body is worked flat for 29 rows following the chart. Each wave repeat is built from ch, sl st, hdc, dc and tr worked in back-loop-only (striped/ribbed) versions — the chart legend marks which stitches are worked into the far half loop only, and it is those back-loop stitches that create the raised wave ribs.\n\nFinishing\n1. Body: work all 29 rows of the wave pattern.\n2. Strap: fold the finished piece left over right, seam both sides with an edging, and attach the handles while seaming. Crochet a small square patch to cover the handle join.\n3. Closure: work a chain loop at the centre of one opening edge as a button loop, and sew a button to the opposite edge.\n\nFinished size: 27 cm wide x 27 cm tall.",
+        "chineseText": "云团波浪手提包\n线材：云团纯色系列双股（1团）；钩针：6.0mm；成品尺寸：包宽27cm，包高27cm\n1.包包主体：6.0mm针双股，起80个锁针后第二行从里山开始钩织，按照图解花样规律钩织完成。\n2.肩带：钩织完成后左右对折，两边包边缝合，缝合过程中连接提手。钩织一块方形小片遮挡提手连接部分。\n3.扣子：在一边包口中间位置，钩织辫子针做扣袢，另一边包口缝上扣子。\n符号：锁针 / 引拔针 / 引拔针的条纹针（钩远离自己的半针）/ 中长针 / 长针 / 长长针 / 中长针的条纹针 / 长针的条纹针 / 长长针的条纹针",
+        "notes": "Yarn held double, 6.0 mm hook, one ball. Legend covers ch, sl st, hdc, dc, tr and their back-loop-only 'striped' variants. Finished bag 27 x 27 cm."
+      }
+    ],
+    "meta": {
+      "intro": "A textured wave-stitch handbag worked flat in one piece from an 80-chain foundation, then folded and seamed with a chain button loop. The ripple pattern comes from back-loop-only stitches worked in a repeating sequence.",
+      "materials": [
+        "Cotton-blend yarn held double (1 ball)",
+        "6.0 mm crochet hook",
+        "Handles",
+        "Button",
+        "Yarn needle"
+      ],
+      "yarnWeight": "Held double (bulky)",
+      "hookSize": "6.0mm",
+      "finishedSize": "27 cm wide x 27 cm tall",
+      "difficulty": "Intermediate",
+      "estimatedTime": "5-10 hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sl st",
+        "hdc",
+        "dc",
+        "tr",
+        "BLO"
+      ],
+      "faq": [
+        {
+          "question": "Why work into the back bump of the foundation chain?",
+          "answer": "Starting row 2 in the back bump gives the bottom edge of the bag a neat braided finish that matches the top edge once the piece is folded and seamed."
+        },
+        {
+          "question": "What creates the wave texture?",
+          "answer": "The chart marks certain stitches as worked into the far half loop only. Those back-loop stitches pull the fabric into raised ribs, and the alternating stitch heights turn the ribs into waves."
+        },
+        {
+          "question": "How are the handles attached?",
+          "answer": "Fold the finished rectangle in half, seam both sides with an edging round and catch the handles into that seam as you go. A small crocheted square then covers the join."
+        },
+        {
+          "question": "Can I make the bag larger?",
+          "answer": "Yes, add pattern repeats to the foundation chain in multiples of the chart repeat and work extra rows. The sample uses 80 chains and 29 rows for a 27 cm square bag."
+        }
+      ]
+    }
+  },
+  {
+    "id": 331,
+    "slug": "star-baby-sleep-sack",
+    "title": "Star Baby Sleep Sack",
+    "description": "感谢@安康猫 的图解，稍做了改动\n线材：@雪妃尔毛线 萌娃娃四股05号13团，25号2团，16号1团\n\n**标签**: #宝宝睡袋# #钩织#",
+    "author": "分不清大小王（洋妈手作）",
+    "tags": [
+      "baby",
+      "wearable",
+      "character"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-sleep-sack/image_0_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_0_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-sleep-sack/image_1_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_1_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_1_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-baby-sleep-sack/image_2_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_2_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_2_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-sleep-sack/image_0_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_0_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-sleep-sack/image_1_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_1_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-baby-sleep-sack/image_2_thumb.webp",
+        "medium": "/images/star-baby-sleep-sack/image_2_medium.webp",
+        "full": "/images/star-baby-sleep-sack/image_2_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Star Baby Sleep Sack (3-month size) — Full Pattern\n\nAbbreviations for this pattern: X = sc, T = hdc, F = dc, FA = dc decrease, FV = dc increase, FW = 3 dc in one stitch, E = treble, CH = chain.\n\nBody (worked as a granny-style star from the centre)\nRnd 1: MR, 2 dc, ch 2, 4x(3 dc, ch 2), dc\nRnd 2: 5x[3 dc, then (dc, ch 2, dc) in the ch space]\nRnd 3: 5x[5 dc, (dc, ch 2, dc) in ch sp]\nRnd 4: 5x[7 dc, (2 dc, ch 2, 2 dc) in ch sp]\nRnds 5-9: continue the same way with 11, 13, 15, 19, 21 dc per point\nRnd 10: 5x[23 dc, (2 dc, ch 2, 2 dc)]\nRnds 11-17: continue with 27, 29, 31, 35, 37, 39, 43 dc per point\nButtonhole row: 13 dc, ch 1 skip 1, 11 dc, ch 1 skip 1, 13 dc\nRnd 18: join the two layers and work 90 dc through both\nRnd 19: 5x(8 dc, dc dec, 8 dc) = 85\nRnd 20: 5x(15 dc, dc dec) = 80\nRnd 21: 5x(7 dc, dc dec, 7 dc) = 75\nRnd 22: no shaping = 75\nRnds 23-38: continue decreasing 5 sts every shaping round (70, 65, 60, 55, 55, 50, 45, 40, 35, 35, 30, 25, 20, 15, 10) ending Rnd 38: 5 dc dec = 5\n\nSleeves: Ch 45, join to the back of the body and work from Rnd 18 of the body.\n\nHood\nRow 1: 35 sts across the back panel\nRow 2: turn, dc inc, 33 dc, dc inc\nRow 3: turn, dc inc, 35 dc, dc inc\nRow 4: turn, dc inc, 37 dc, dc inc, then ch 54 to join and work in the round\nRows 5-8: 95 sts, no shaping\nRnd 9: 5x(17 dc, dc dec) = 90\nRnds 10-29: continue decreasing 5 sts per shaping round down to 5\nHood edging: 2x(sc, ch 3) in every stitch\n\nSmall star\nRnd 1: 5 sc\nRnd 2: 5x(3 dc in one st)\nRnd 3: 5x[sc, (hdc, dc, ch, tr, ch, dc, hdc), sc]. Make 2 and sew together.\n\nButtons (make 2): MR, 15 dc\nButton band: Row 1: dc dec, 41 dc, dc dec. Row 2: dc dec, 39 dc, dc dec.",
+        "chineseText": "星星睡袋3月龄图解\n钩针符号：X 短针 / T 中长针 / F 长针 / FA 长针减针 / FV 长针加针 / FW 一个针目三个长针 / E 2卷长针 / CH 辫子针\n主体 R1: 环起2F, 2CH, 4(3F, 2CH), F；R2: 5[3F, 辫子针上(F, 2CH, F)]；R3: 5[5F,…]；…R17: 5[43F, 辫子针上(F,2CH,F)]；R18: 2片一起90F；R19: 5(8F,FA,8F)=85；R20: 5(15F,FA)=80；…R38: 5FA=5\n留扣眼：13F, 1ch.k1, 11F, 1ch.k1, 13F\n袖子：45ch链接后片主体，按上面第18圈开始钩\n帽子：1.后片片钩35针；2.翻转钩FV,33F,FV；3.翻转钩FV,35F,FV；4.翻转钩FV,37F,FV，起54个辫子连接圈钩；5-8行不加不减钩95针；9: 5(17F,FA)=90；…R29: 5FA=5\n帽檐花边：每个针目 2(X, 3CH)\n小星星 R1: 5X；R2: 5Fw；R3: 5[X,(T,F,ch,E,ch,F,T),X]，钩2片缝合\n纽扣*2: 环起15F",
+        "notes": "3-month baby size. Worked as a five-point star that folds into a sleep sack with sleeves and a hood. Yarn: 4-ply baby cotton, roughly 13 balls of the main colour plus 2 and 1 of the contrasts."
+      }
+    ],
+    "meta": {
+      "intro": "A five-point star sleep sack for a roughly three-month-old baby, worked as a granny-star centre that folds into a cocoon with sleeves, a hood and a small crocheted star trim. Buttonholes are worked into the body as you go.",
+      "materials": [
+        "4-ply baby cotton: main colour (about 13 balls), plus 2 balls and 1 ball of contrast shades",
+        "Yarn needle",
+        "2 crocheted buttons"
+      ],
+      "yarnWeight": "4-ply baby cotton",
+      "finishedSize": "Fits about 3 months",
+      "difficulty": "Intermediate",
+      "estimatedTime": "10+ hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "inc",
+        "dec",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "What do F, FA, FV and FW mean in the chart?",
+          "answer": "The pattern includes its own legend: X is single crochet, T is half double crochet, F is double crochet, FA is a double crochet decrease, FV is a double crochet increase, FW is three double crochet in one stitch and E is a treble."
+        },
+        {
+          "question": "How does a flat star become a sleep sack?",
+          "answer": "Rounds 1 to 17 make the star point panels. At Rnd 18 the two layers are joined and worked together as a tube, decreasing five stitches per shaping round down to the closed foot."
+        },
+        {
+          "question": "Where do the buttonholes go?",
+          "answer": "The buttonhole row is worked between Rnds 17 and 18 as 13 dc, ch 1 skipping 1, 11 dc, ch 1 skipping 1, 13 dc. Two crocheted buttons made from a magic ring of 15 dc fasten into them."
+        },
+        {
+          "question": "How are the sleeves added?",
+          "answer": "Chain 45, join to the back of the body and then work from Rnd 18 of the body pattern so the sleeve grows out of the main piece rather than being sewn on."
+        }
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "slug": "amigurumi-figure-on-a-swim-ring",
+    "title": "Green Amigurumi Figure on a Swim Ring",
+    "description": "图解来自@Hannah的徒步日记 感谢老师的图解！\n毛线@苏苏姐家 四股唯棉 色号17、13、51、06、52、82\n\n**标签**: #海绵宝宝# #比奇堡# #丑鱼# #钩针图解# #手工钩织#",
+    "author": "孟孟",
+    "tags": [
+      "amigurumi",
+      "character",
+      "toy"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_0_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_0_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_1_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_1_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_2_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_2_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_2_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_3_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_3_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_4_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_4_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_4_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_0_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_0_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_1_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_1_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_2_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_2_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_3_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_3_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/amigurumi-figure-on-a-swim-ring/image_4_thumb.webp",
+        "medium": "/images/amigurumi-figure-on-a-swim-ring/image_4_medium.webp",
+        "full": "/images/amigurumi-figure-on-a-swim-ring/image_4_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Green Amigurumi Figure on a Swim Ring — Body, Arms and Legs\n\nBody (2.0 mm hook, 4-ply combed cotton, start at the bottom)\nIn teal:\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, x6 (18)\nRnd 4: *sc, inc, sc*, x6 (24)\nRnd 5: *3 sc, inc*, x6 (30)\nRnd 6: *2 sc, inc, 2 sc*, x6 (36)\nRnds 7-12: 36 sc each round (36)\nChange to light green at Rnd 13:\nRnd 13: 36 sc in back loops only (36)\nRnds 14-31: 36 sc each round (36)\nRnd 32: *2 sc, dec, 2 sc*, x6 (30)\nRnd 33: 30 sc (30)\nRnd 34: *3 sc, dec*, x6 (24)\nRnd 35: *sc, dec, sc*, x6 (18)\nRnd 36: *sc, dec*, x6 (12)\nRnd 37: 6 dec (6). Fasten off.\nShirt hem: go back to Rnd 13 and work 36 sc in the front loops only in teal.\n\nArms (make 2): Rnds 1-14, 6 sc per round\nLegs (make 2): Rnds 1-15, 6 sc per round\nTrouser legs (make 2)\nRnd 1: Ch 8, join into a ring\nRnd 2: 8 sc (8)\nRnd 3: *sc, inc*, x4 (12)\nRnd 4: 12 sc (12)",
+        "chineseText": "比奇堡居民-游泳圈纳德钩织图解\n身体部分2.0钩针4股精梳棉，从屁股开始：青碧色 R1: 6X；R2: 6V；R3: 6(X,V)；R4: 6(X,V,X)；R5: 6(3X,V)；R6: 6(2X,V,2X)；R7~R12: 36X；R13开始换色浅绿色：R13: 36BLO(内半针)；R14~R31: 36X；R32: 6(2X,A,2X)；R33: 30X；R34: 6(3X,A)；R35: 6(X,A,X)；R36: 6(X,A)；R37: 6A；R13: 36FLO外半针 青碧色\n胳膊x2: R1-R14: 6X\n腿儿x2: R1-R15: 6X\n裤腿儿x2: R1: 8ch首尾相连；R2: 8X；R3: 4(X,V)；R4: 12X",
+        "notes": "2.0 mm hook with 4-ply combed cotton. Working Rnd 13 in back loops only and later going back into the front loops creates the shirt hem ridge. The narrow 6-st arms and legs are fiddly but keep the character's proportions."
+      },
+      {
+        "englishText": "Green Amigurumi Figure on a Swim Ring — Face, Fins and Ring\n\nEye whites (white yarn)\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\n\nEyelids (split the 4-ply down to 2-ply and use a 1.8 mm hook)\nRow 1: MR, 5 sc, do not join, turn and work flat\nRow 2: inc, 3 sc, inc (7)\nRow 3: inc, 5 sc, inc (9)\nRow 4: Work a row of sc back along the edge just made\n\nLips: Ch 28 and join into a ring (adjust the stitch count to suit your tension and the length you want)\n\nFin: Ch 22; starting in the 2nd ch from hook work 2 sc, 2 hdc, 2 dc, (tr, ch 3), sc, hdc, dc, (tr, ch 3), sc, hdc, dc, (tr, ch 3), then sc to the end.\n\nSwim ring\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, x6 (18)\nRnd 4: 18 sc in back loops only (18), then continue in sc.\nWork 10 rounds per colour block, changing white, red, white, red for 8 blocks in total, then join the two ends.\n\nTips\n1. Stuff a little at a time as you go so the ring stays even.\n2. Work only 8 rounds for the first red block and add 2 extra red rounds after the last white block, so the join is almost invisible.",
+        "chineseText": "眼白（白色线）：R1: 6x, R2: 6V\n眼皮（将4股拆成2股钩织1.8钩针）：R1: 环起5x，不引拔翻立片钩织；R2: V, 3X, V；R3: V, 5X, V；R4: 沿着刚刚钩织的位置钩一行x\n嘴唇：28ch，首尾连接（可以根据手劲儿自由调整针数控制长度）\n鱼鳍：22ch, 倒2钩织, 2x, 2T, 2F,(E,3ch), X, T, F,(E, 3ch), X, T, F,(E,3ch)，钩织X直至结束\n游泳圈：R1: 6X；R2: 6V；R3: 6(X,V)；R4: BLO 18X…每一段颜色为10行，换白色，换红色，换白色…共8个色块，首尾连接\nTips: 1.钩织一段就塞点棉花，这样就比较均匀一些。2.第一段红色可以只钩织8行，同时最后一组白色织完后再钩织2行红色，这样子首尾连接缝合的时候比较无痕。",
+        "notes": "Eyelids use split 2-ply yarn and a 1.8 mm hook so they sit flat on the eye. The swim ring is one long tube of 8 alternating colour blocks joined end to end."
+      }
+    ],
+    "meta": {
+      "intro": "An amigurumi of a grumpy cartoon fish lounging on a striped swim ring, worked in fine cotton on a small hook. The body, arms, legs, trousers, face pieces and the eight-block swim ring are all worked separately and assembled.",
+      "materials": [
+        "4-ply combed cotton in teal, light green, white, red and skin shades",
+        "2.0 mm crochet hook",
+        "1.8 mm hook for the eyelids",
+        "Polyester stuffing",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply combed cotton",
+      "hookSize": "2.0mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "5-10 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "inc",
+        "dec",
+        "BLO",
+        "FLO",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How is the shirt hem made?",
+          "answer": "Round 13 of the body is worked in back loops only in the new colour. Once the body is finished you return to the free front loops of that round and work 36 sc in the original colour, which forms the raised hem."
+        },
+        {
+          "question": "Why are the eyelids worked with split yarn?",
+          "answer": "The 4-ply is split down to 2-ply and worked with a 1.8 mm hook so the lids stay thin and lie flat against the eyeball instead of bulking up the face."
+        },
+        {
+          "question": "How do I keep the swim ring even?",
+          "answer": "Stuff it a little at a time as you work rather than all at the end, and work 10 rounds per colour block so the eight blocks come out the same length."
+        },
+        {
+          "question": "Any tip for joining the swim ring ends?",
+          "answer": "Work only 8 rounds for the first red block and add 2 extra red rounds after the final white block. The join then falls in the middle of a colour block and is almost invisible."
+        }
+      ]
+    }
+  },
+  {
+    "id": 334,
+    "slug": "ice-cream-cone-bag",
+    "title": "Ice Cream Cone Bag",
+    "description": "把我自己喜欢的冰淇淋包包图解附上\n还要哪个可以留言滴滴\n\n**标签**: #钩针包包# #钩针手机包# #夏日必备编织包# #钩针小物# #钩织的乐趣# #一起来钩织# #图解# #包包分享# #钩织使我快乐# #织女日常#",
+    "author": "闪念手作",
+    "tags": [
+      "bag",
+      "food",
+      "accessory"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_0_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_0_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_1_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_1_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_2_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_2_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_3_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_3_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_4_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_4_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_5_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_5_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_6_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_6_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_6_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/ice-cream-cone-bag/image_7_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_7_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_7_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_0_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_0_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_1_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_1_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_2_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_2_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_3_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_3_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_4_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_4_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_5_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_5_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "product_photo",
+        "thumb": "/images/ice-cream-cone-bag/image_6_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_6_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/ice-cream-cone-bag/image_7_thumb.webp",
+        "medium": "/images/ice-cream-cone-bag/image_7_medium.webp",
+        "full": "/images/ice-cream-cone-bag/image_7_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Ice Cream Cone Bag — Cone, Scoop and Drawstring\n\nNote: [ ] means both stitches are worked into the same stitch. X = sc, T = hdc, F = dc, V = increase, k = skip.\n\nCone\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: 2x(5 sc, inc) (14)\nRnd 4: 2x(6 sc, inc) (16)\nRnds 5-14: continue 2x(n sc, inc) each round, adding one sc per repeat, up to 2x(16 sc, inc) (36)\nRnd 15: 36 sc\nRnds 16-17: 2x(17 sc, inc), 2x(18 sc, inc) (40)\nRnd 18: 40 sc\nRnds 19-21: 2x(19 sc, inc), 2x(20 sc, inc), 2x(21 sc, inc) (46)\nRnd 22: 46 sc\nRnds 23-25: 2x(22 sc, inc), 2x(23 sc, inc), 2x(24 sc, inc) (52)\nRnd 26: 52 sc\nRnds 27-28: 2x(25 sc, inc), 2x(26 sc, inc) (56)\nRnds 29-30: 56 sc\n\nWhite ice cream scoop\nRnd 31: Join white. 8x(sc, [hdc+dc in one st], dc inc, [dc+hdc in one st], sc, [hdc+dc], [dc+hdc])\nRnd 32: In the front loops only, 96 dc increases\nRnd 33: 192 dc\nRnd 34: Working into the back loops of Rnd 31: ch 3, 8x(ch 3, skip 4, 4 sl st, skip 3, ch 3, dc)\nRnd 35: 8x(ch 3, 8 dc closed together through all loops), ch 3, sl st\nRnd 36: 8x(ch 6, 1 sl st)\nRnd 37: 8x(ch 3, 6 dc closed together, ch 3, sl st)\nRnd 38: 8x(ch 5, sc)\nRnd 39: Ch 3, 8x(2 dc, 2 dc, ch 2) — these ch-2 spaces carry the drawstring\nRnd 40: 8x(4 dc, ch 2, [6 dc in one st], ch 2)\nRnd 41: 8x(4 dc, [3 dc in one st], 6 hdc, [3 dc in one st])\n\nDrawstring and strap\nDrawstring: ch 80, thread through the holes of Rnd 39 all the way around.\nShoulder strap: ch 260, tie into the holes at both sides of Rnd 40.",
+        "chineseText": "冰淇淋背包钩织教程\n蛋卷部分 R1:环起6X；R2:6V；R3:2(5X,V)；R4:2(6X,V)；…R14:2(16X,V)；R15:36X；R16:2(17X,V)；…R17:2(18X,V)；R18:40X；R19:2(19X,V)…R22:46X；R23:2(22X,V)…R26:52X；R27:2(25X,V)；R28:2(26X,V)；R29-30:56X\n白色冰淇淋部分 R31:引白线 8(X,[TF],FV,[FT],X,[TF],[FT])；R32:外半针96FV；R33:192F；R34:在R31内半针 3ch 8(3ch,k4,4sl,k3,3ch,F)；R35:8(3ch 8长针半针一起带过)3ch, sl；R36:8(6ch,1sl)；R37:8(3ch 6长针半针一起带过 3ch, sl)；R38:8(5ch,X)；R39:3ch 8(2F,2F,2ch)；R40:8(4F,2ch,[6F],2ch)；R41:8(4F,[3F],6T,[3F])\n抽绳部分：抽绳80ch串在R39孔里一圈；背绳260ch绑在R40两侧孔内\n[ ]表示两针钩在一针内",
+        "notes": "Cone is a plain sc spiral; the scoop is a lacy ruffle worked partly into front loops and partly into back loops so it sits over the cone. Drawstring closure with a long chain shoulder strap."
+      }
+    ],
+    "meta": {
+      "intro": "A crossbody bag shaped like an ice cream cone: a plain single crochet cone topped with a lacy white scoop that closes with a drawstring. The long chain strap makes it a wearable novelty bag rather than a display piece.",
+      "materials": [
+        "Cotton yarn in cone brown and cream",
+        "Crochet hook",
+        "Yarn needle"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "5-10 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "inc",
+        "FLO",
+        "BLO",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "What do the square brackets mean in the chart?",
+          "answer": "Square brackets indicate that both stitches inside them are worked into the same stitch, so [hdc+dc] means one half double and one double crochet in a single stitch."
+        },
+        {
+          "question": "How does the scoop sit over the cone?",
+          "answer": "Round 32 is worked into the front loops of Rnd 31 and Rnd 34 goes back into the free back loops of the same round. The two layers grow in opposite directions so the ruffle drapes over the cone."
+        },
+        {
+          "question": "How long are the drawstring and strap?",
+          "answer": "The drawstring is a chain of 80 threaded through the holes of Rnd 39. The shoulder strap is a chain of 260 tied into the holes at both sides of Rnd 40, so you can shorten it to suit your height."
+        },
+        {
+          "question": "Can I make it smaller?",
+          "answer": "Yes. The cone increases two stitches per shaping round, so stopping the increases earlier and shortening the straight rounds gives a smaller pouch without changing the scoop pattern."
+        }
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "slug": "apple-shooting-star-cup-sleeve",
+    "title": "Apple and Shooting Star Cup Sleeve",
+    "description": "收起来是苹果流星挂件\n打开还可以当杯套\n这巧思真的绝了！\n线材：@雪妃尔毛线 萌娃娃2号\n色号：18浅黄/29大红/40薄荷绿/24小鸡黄/26橘色/66浅啦\n钩针：2.5和3.5，双股用3.5钩针，单股用2.5钩针\n图解来自@是三月吖🍀 @染小果 @陈甜甜慢点点\n\n**标签**: #杯套# #杯套钩织# #钩针杯套# #我的春天时刻# #ourspring# #杯套收纳# #交换春天# #杯套挑战#",
+    "author": "娴雅手作",
+    "tags": [
+      "cup-sleeve",
+      "fruit",
+      "keychain",
+      "accessory"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_0_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_0_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_1_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_1_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_2_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_2_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_3_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_3_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_4_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_4_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_4_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_5_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_5_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_0_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_0_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_1_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_1_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_2_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_2_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_3_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_3_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_4_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_4_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/apple-shooting-star-cup-sleeve/image_5_thumb.webp",
+        "medium": "/images/apple-shooting-star-cup-sleeve/image_5_medium.webp",
+        "full": "/images/apple-shooting-star-cup-sleeve/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Apple and Shooting Star Cup Sleeve — Apple, Net and Stars\n\nApple motif (yarn held double)\nFront\nRnd 1: 12 hdc in MR (12)\nRnd 2: 12 hdc inc (24)\nRnd 3: 2x[(dc, hdc), hdc inc, 4x(hdc, hdc inc), (hdc, dc), sl st]\nRnd 4: Skip 1, sc, 5 inc, 11 sc, sl st, 11 sc, 5 inc, sc, skip 1\nBack: work Rnds 1-4 exactly as the front, then\nRnd 5: Working into the far half loop only, 1 sc in each stitch around.\n\nStem (yarn held double): Ch 6, starting in the 3rd ch from hook work hdc, dc, 2 sc\nLeaf (single strand): Ch 8, starting in the 2nd ch from hook work sc, dc, 3 hdc, dc, 3 sts in one st, dc, 3 hdc, dc, sc\n\nJoining: hold the two apple motifs wrong sides together, pick up the outer loops and sc all the way around to seam, leaving an opening for the cup.\n\nNet holder (single strand)\nRnds 1-8: 11x(sc, ch 10, skip 3), ch 5, triple treble\nRnd 9: 2 sc, ch 2, 11x(4 sc, ch 2), 2 sc\nHandle: Ch 45, then work 44 sc back along the back bumps of the chain\n\nLarge star: Rnd 1: 5 sc in MR; Rnd 2: 5 inc (10); Rnd 3: *[ch 4, from the 2nd ch from hook sc, dc, hdc], skip 1, sl st*, x5\nSmall star: Rnd 1: 5 sc in MR; Rnd 2: 5x(ch 3, from the 2nd ch from hook sl st, sc, sl st)",
+        "chineseText": "苹果流星挂件杯套图解\n苹果片图解：双股线\n正面：R1: 12f；R2: 12fv；R3: 2【(t,f),fv,4(f,fv),(f,t),sl】；R4: k1,x,5v,11x, sl,11x,5v, x ,k1\n背面R1~R4同正面，R5在远离自己的半针钩织，每个针目钩一个短针\n梗：双股线，6ch, 倒三回钩f, t, 2x\n叶子：单股线，8ch, 倒二回钩x, t, 3f, t, w, t, 3f, t, x\n两个花片背面相对，挑外侧半针钩一圈短针缝合，留出开口位置\n网兜部分：单股线 R1-R8: 11（x,10ch,k3）,5ch, 3卷长针；R9: 2x, 2ch, 11(4x, 2ch), 2x；提手：45ch, 回到里山钩44X\n大星星：R1: 5x R2:5v R3:[[4ch,倒2钩x,t,f],k1,sl]*5\n小星星：R1: 5x R2:5 (3ch, 倒2钩sl, x, sl)",
+        "notes": "Folds flat as an apple charm and opens out into a cup sleeve. 2.5 mm hook for single strand and 3.5 mm for doubled yarn. k = skip; w = 3 stitches in one stitch."
+      }
+    ],
+    "meta": {
+      "intro": "A two-in-one piece that folds flat as an apple charm and opens out into a netted cup sleeve with dangling stars. The apple is made from two matching motifs seamed together, and the net holder is worked separately in a single strand.",
+      "materials": [
+        "4-ply cotton in red, cream, mint green, chick yellow, orange and pale yellow",
+        "2.5 mm hook for single strand",
+        "3.5 mm hook for doubled yarn",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply cotton",
+      "hookSize": "2.5mm and 3.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "inc",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "Why are two hook sizes listed?",
+          "answer": "The apple motif is worked with the yarn held double on a 3.5 mm hook so it is firm, while the net holder and stars use a single strand on a 2.5 mm hook so they stay fine and drapey."
+        },
+        {
+          "question": "How are the two apple motifs joined?",
+          "answer": "Hold them wrong sides together, pick up only the outer loops of both pieces and single crochet all the way around, leaving an opening so the sleeve can slide onto a cup."
+        },
+        {
+          "question": "How does the net stretch around a cup?",
+          "answer": "Rounds 1 to 8 of the holder are long ch-10 loops separated by single crochet, which makes an open mesh that stretches to fit different cup diameters."
+        },
+        {
+          "question": "Do I need both star sizes?",
+          "answer": "No, but the large and small stars are worked differently, the large one from 5 sc increased to 10 with chain points and the small one straight from a 5 sc ring, so mixing them gives the charm more movement."
+        }
+      ]
+    }
+  },
+  {
+    "id": 337,
+    "slug": "green-round-lace-motif",
+    "title": "Green Round Lace Motif",
+    "description": "💚周末得闲钩了花片，很解压了～\n💚名字是我自行取的，通俗好记哈哈\n\n🧶：@雪妃尔毛线 萌娃娃2号四股\n🎨：37草绿\n🪄：2.5mm钩针\n📃：图6书上图解\n\n🌟本人织物图片，请勿搬运盗图商用！\n\n**标签**: #钩针编织# #钩针花片# #钩针图解# #手工钩织# #织女的聚会# #钩针小物# #钩针日常# #一起来钩织# #图解分享# #编织#",
+    "author": "Scarlett🍓",
+    "tags": [
+      "motif",
+      "lace",
+      "coaster"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_0_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_0_medium.webp",
+        "full": "/images/green-round-lace-motif/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_1_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_1_medium.webp",
+        "full": "/images/green-round-lace-motif/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_2_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_2_medium.webp",
+        "full": "/images/green-round-lace-motif/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_3_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_3_medium.webp",
+        "full": "/images/green-round-lace-motif/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_4_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_4_medium.webp",
+        "full": "/images/green-round-lace-motif/image_4_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/green-round-lace-motif/image_5_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_5_medium.webp",
+        "full": "/images/green-round-lace-motif/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_0_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_0_medium.webp",
+        "full": "/images/green-round-lace-motif/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_1_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_1_medium.webp",
+        "full": "/images/green-round-lace-motif/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_2_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_2_medium.webp",
+        "full": "/images/green-round-lace-motif/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_3_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_3_medium.webp",
+        "full": "/images/green-round-lace-motif/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/green-round-lace-motif/image_4_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_4_medium.webp",
+        "full": "/images/green-round-lace-motif/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/green-round-lace-motif/image_5_thumb.webp",
+        "medium": "/images/green-round-lace-motif/image_5_medium.webp",
+        "full": "/images/green-round-lace-motif/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Green Round Lace Doily / Motif — Symbol Chart (about 10 rounds)\n\nThe chart is a Japanese-style round motif worked from a centre ring outwards:\n\nRnd 1: Start with a magic ring (or ch 6 joined) and fill it with dc, joined with a sl st.\nRnd 2: Ch spaces alternating with sc, creating the first ring of arches.\nRnd 3: Groups of dc worked into each arch, separated by ch-5 loops.\nRnd 4: Ch-5 arches carried across the dc groups.\nRnds 5-7: Fans of dc worked into the arches, each fan separated by ch-5 loops so the motif opens out into a lace wheel.\nRnd 8: Rows of ch-5 loops with sc, setting up the outer scallops.\nRnd 9: Into each outer arch work a 3-dc bobble flanked by ch-5 loops.\nRnd 10: Finish with ch-5 loops and sl st between the bobbles to form the picot-edged outer ring. Fasten off and weave in the end.\n\nThe repeat count is the same all the way around, so the motif blocks into a flat circle.",
+        "chineseText": "钩织方法 35（p.26）——圆形花片符号图解，共约10圈，外圈为锁针小环与枣形针组成的花边。",
+        "notes": "From a Japanese crochet book (pattern 35, p.26). Worked in 4-ply cotton with a 2.5 mm hook in a single colour. Best blocked flat after finishing."
+      }
+    ],
+    "meta": {
+      "intro": "A single-colour round lace motif of about ten rounds, ending in a picot and bobble edge. Worked in one shade it makes a doily, a coaster or a repeating flower motif for a larger piece.",
+      "materials": [
+        "4-ply cotton yarn in one colour",
+        "2.5 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply cotton",
+      "hookSize": "2.5mm",
+      "difficulty": "Easy",
+      "estimatedTime": "1-2 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "dc",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "Do I need to block it?",
+          "answer": "Yes, lace motifs like this one relax and open up considerably once blocked. Pin it out flat and damp to get the chain loops evenly spaced."
+        },
+        {
+          "question": "Can I use a different yarn weight?",
+          "answer": "The stitch counts do not change with yarn weight, only the finished diameter does. Thinner cotton with a smaller hook gives a more delicate doily, thicker yarn a chunkier coaster."
+        },
+        {
+          "question": "Why does my circle ruffle?",
+          "answer": "Ruffling usually means the chain arcs are being worked too loosely or an extra repeat has crept in. Count the repeats at the end of each round before moving on."
+        }
+      ]
+    }
+  },
+  {
+    "id": 338,
+    "slug": "star-baby-bonnet",
+    "title": "Star Baby Bonnet",
+    "description": "侄子（侄女）还没出生 先安排上宝宝帽子吧\n软萌可爱 糯叽叽的 超级可爱 简直萌化我这小姨的心了\n\n**标签**: #软乎乎的帽子# #钩针帽子# #婴儿帽子# #宝宝帽子# #儿童帽子# #针织手作#",
+    "author": "粒子🌰",
+    "tags": [
+      "baby",
+      "wearable"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-bonnet/image_0_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_0_medium.webp",
+        "full": "/images/star-baby-bonnet/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-bonnet/image_1_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_1_medium.webp",
+        "full": "/images/star-baby-bonnet/image_1_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-baby-bonnet/image_2_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_2_medium.webp",
+        "full": "/images/star-baby-bonnet/image_2_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-bonnet/image_0_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_0_medium.webp",
+        "full": "/images/star-baby-bonnet/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/star-baby-bonnet/image_1_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_1_medium.webp",
+        "full": "/images/star-baby-bonnet/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/star-baby-bonnet/image_2_thumb.webp",
+        "medium": "/images/star-baby-bonnet/image_2_medium.webp",
+        "full": "/images/star-baby-bonnet/image_2_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Star Baby Bonnet — Body, Edging and Star\n\nBody\nCh 78 (fits a head circumference of about 52 cm). Starting in the 3rd ch from hook, work 76 dc.\nTurn and work 76 dc per row, back and forth, for 19 rows.\nFold the rectangle in half and seam the back seam.\n\nEdging\nRnd 1: 2 dc in every stitch around the face opening\nRnd 2: 1 dc in every stitch around\n\nStar (make 2 and sew together)\nRnd 1: MR, 10 dc (10)\nRnd 2: 10 dc inc (20)\nRnd 3: *(sc, hdc), (dc, tr), (tr, dc), (hdc, sc)*, repeat 5 times to form the 5 points\n\nTies: crochet two chains and thread one through the edging and one through the neck edge.",
+        "chineseText": "星星小黄帽\n起78CH（适合头围52左右），倒3回钩。76F\n翻转钩织76F，往返钩19圈\n将织片对折缝合\n花边：第一圈，每个针目里2个长针；第二圈，每个针目一个长针\n星星：R1:10F；R2:10FV；R3:【(X, T)，(F, E)，(E, F,)，(T, X)】*5\n钩两片缝合\n钩两条辫子，穿在花边部分和脖子部分",
+        "notes": "Sized for a newborn to small baby (52 cm head). Worked flat as a simple dc rectangle then folded, so it is a good first hat project. F = dc, T = hdc, E = tr, FV = dc increase."
+      }
+    ],
+    "meta": {
+      "intro": "A soft baby bonnet worked flat as a simple double crochet rectangle, then folded and seamed, with a double-crochet ruffle around the face and a small crocheted star on the side. A good first hat project.",
+      "materials": [
+        "Soft baby yarn",
+        "Crochet hook",
+        "Yarn needle"
+      ],
+      "finishedSize": "Fits a head circumference of about 52 cm",
+      "difficulty": "Beginner",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "dc",
+        "sc",
+        "hdc",
+        "tr",
+        "inc"
+      ],
+      "faq": [
+        {
+          "question": "How do I adjust the size?",
+          "answer": "The foundation chain sets the depth and the row count sets the width. The sample chains 78 and works 19 rows for a 52 cm head, so add or remove chains and rows proportionally for a different size."
+        },
+        {
+          "question": "How is the bonnet shaped?",
+          "answer": "There is no shaping at all. The rectangle is folded in half and seamed along the back, and the face edging plus the ties pull it into a bonnet shape."
+        },
+        {
+          "question": "What makes the frilled face edge?",
+          "answer": "The first edging round places 2 dc in every stitch, which doubles the stitch count and forces a ruffle. The second round works 1 dc in each stitch to settle it."
+        },
+        {
+          "question": "How are the ties attached?",
+          "answer": "Crochet two plain chains and thread one through the edging round and one through the neck edge, then knot the ends so they can be tied under the chin."
+        }
+      ]
+    }
+  },
+  {
+    "id": 339,
+    "slug": "rainbow-ice-cream-stack",
+    "title": "Rainbow Ice Cream Stack",
+    "description": "🪡：2.0mm\n🧶：四股 @雪妃尔毛线 萌娃2号\n图解：@沙莎\n\n**标签**: #钩针# #不完美手工事务所# #手工钩织# #钩针日常# #织女# #钩针图解# #五月天# #五月天物料# #钩织的乐趣# #钩针小物#",
+    "author": "黑眼圈怪怪（接🍰）",
+    "tags": [
+      "amigurumi",
+      "food",
+      "keychain",
+      "character"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/rainbow-ice-cream-stack/image_0_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_0_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_0_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/rainbow-ice-cream-stack/image_1_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_1_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/rainbow-ice-cream-stack/image_2_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_2_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_2_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/rainbow-ice-cream-stack/image_0_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_0_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/rainbow-ice-cream-stack/image_1_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_1_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/rainbow-ice-cream-stack/image_2_thumb.webp",
+        "medium": "/images/rainbow-ice-cream-stack/image_2_medium.webp",
+        "full": "/images/rainbow-ice-cream-stack/image_2_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Rainbow Ice Cream Stack — Red, Yellow, Pink and Blue Scoops\n\nRed scoop\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, x6 (18)\nRnd 4: *sc, inc, sc*, x6 (24)\nRnd 5: *3 sc, inc*, x6 (30)\nRnd 6: *2 sc, inc, 2 sc*, x6 (36)\nRnds 7-11: 36 sc each round (36)\nRnd 12: *2 sc, dec, 2 sc*, x6 (30)\nRnd 13: *3 sc, dec*, x6 (24)\nRnd 14: Working into the front loops only, *ch 2, (bobble, ch 2), sl st*, repeat around for the ruffled drip edge.\n\nYellow, pink and blue scoops (each worked the same way)\nRnd 1: Working into the back loops of Rnd 14 of the scoop below, 24 sc (24)\nRnd 2: *3 sc, inc*, x6 (30)\nRnd 3: *2 sc, inc, 2 sc*, x6 (36)\nRnds 4-7: 36 sc each round (36)\nRnd 8: *2 sc, dec, 2 sc*, x6 (30)\nRnd 9: *3 sc, dec*, x6 (24)\nRnd 10: Front loops only, *ch 2, (bobble, ch 2), sl st*, repeat around.\n\nStack the scoops by working each new scoop straight out of the back loops of the one below, so the drip ruffles stay on the outside.",
+        "chineseText": "五月天冰淇淋图解\n红色球 R1: 环起6x；R2: 6v；R3: 6(x.v)；R4: 6(x.v.x)；R5: 6(3x.v)；R6: 6(2x.v.2x)；R7-R11: 36x；R12: 6(2x.A.2x)；R13: 6(3x.A)；R14: 钩外半针2CH,（枣形针，2CH），SL重复钩织到结束。\n黄.粉.蓝色球 R1: 在红球第14圈内半针钩24x；R2: 6(3x.v)；R3: 6(2x.v.2x)；R4-R7: 36x；R8: 6(2x.A.2x)；R9: 6(3x.A)；R10: 钩外半针2CH,（枣形针，2CH），SL重复钩织到结束。",
+        "notes": "2.0 mm hook with 4-ply cotton. The front-loop bobble round is the melted-drip edge; the next scoop grows out of the untouched back loops."
+      },
+      {
+        "englishText": "Rainbow Ice Cream Stack — Green Scoop and Waffle Cone\n\nGreen scoop\nRnd 1: Working into the back loops of Rnd 10 of the blue scoop, 24 sc (24)\nRnd 2: *3 sc, inc*, x6 (30)\nRnd 3: *2 sc, inc, 2 sc*, x6 (36)\nRnds 4-7: 36 sc each round (36)\nRnd 8: *2 sc, dec, 2 sc*, x6 (30)\nRnd 9: 30 sc (30)\nRnd 10: Front loops only, *ch 2, (bobble, ch 2), sl st*, repeat around.\n\nWaffle cone\nRnd 1: Working into the back loops of Rnd 10 of the green scoop, 30 sc (30)\nRnd 2: 30 hdc (30)\nRnd 3: 30 sc (30)\nRnd 4: Back loops only, *4 sc, dec, 4 sc*, x3 (27)\nRnd 5: 27 sc (27)\nRnd 6: *7 sc, dec*, x3 (24)\nRnd 7: 24 sc (24)\nRnd 8: *3 sc, dec, 3 sc*, x3 (21)\nRnd 9: 21 sc (21)\nRnd 10: *5 sc, dec*, x3 (18)\nRnd 11: 18 sc (18)\nRnd 12: *2 sc, dec, 2 sc*, x3 (15)\nRnd 13: 15 sc (15)\nRnd 14: Back loops only, sc, then 7 dec; close the remaining hole and pull tight.",
+        "chineseText": "绿色球 R1: 在蓝球第10圈内半针钩24x；R2: 6(3x.v)；R3: 6(2x.v.2x)；R4-R7:36x；R8: 6(2x.A.2x)；R9: 30x；R10: 钩外半针2CH,（枣形针，2CH），SL重复钩织到结束。\n甜筒部分 R1: 在绿球第10圈内半针钩30x；R2: 30T；R3: 30x；R4: 钩内半针 3(4x.A.4x)；R5:27x；R6:3(7x.A)；R7: 24x；R8: 3(3x.A.3x)；R9:21x；R10:3(5x.A)；R11: 18x；R12: 3(2x.A.2x)；R13: 15x；R14:钩内半针x.7A，缝合拉紧。",
+        "notes": "Stuff the cone lightly as you decrease. The hdc round near the top of the cone gives the waffle rim its ridge."
+      }
+    ],
+    "meta": {
+      "intro": "A stacked rainbow ice cream in five scoops on a waffle cone, each scoop finished with a bobble drip edge. The scoops grow directly out of each other, so the whole thing is made without sewing the layers together.",
+      "materials": [
+        "4-ply cotton in red, yellow, pink, blue, green and cone brown",
+        "2.0 mm crochet hook",
+        "Polyester stuffing",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply cotton",
+      "hookSize": "2.0mm",
+      "difficulty": "Easy",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "inc",
+        "dec",
+        "FLO",
+        "BLO",
+        "sl st",
+        "bobble"
+      ],
+      "faq": [
+        {
+          "question": "How do the scoops stack without sewing?",
+          "answer": "The last round of each scoop is worked into the front loops only as a bobble drip edge. The next scoop then starts in the untouched back loops of that same round, so each colour grows out of the one below."
+        },
+        {
+          "question": "When should I stuff it?",
+          "answer": "Stuff each scoop just before you close it with the decrease rounds, and stuff the cone lightly as you work down so it keeps its tapered shape."
+        },
+        {
+          "question": "What makes the waffle cone rim?",
+          "answer": "Round 2 of the cone is a round of half double crochet, which stands slightly proud of the single crochet either side of it and reads as the rim of the cone."
+        },
+        {
+          "question": "Can I make fewer scoops?",
+          "answer": "Yes. Every scoop after the red one uses the same 10-round recipe, so you can stop at any point and go straight into the cone."
+        }
+      ]
+    }
+  },
+  {
+    "id": 340,
+    "slug": "starry-mandala-coaster",
+    "title": "Starry Mandala Coaster",
+    "description": "✨杯子又有新杯垫啦~\n\n用线：@雪妃尔毛线 萌娃娃2号，24小鸡黄/18淡黄/02奶白/11深杏粉/47浅蓝/48雾霾蓝/50藏蓝\n钩针：2.5\n\n图解在第4张，来自@阿坏爱手作 ，以及@林时工手作\n图片自主拍摄，🚫盗图商用，🚫搬运转载\n\n**标签**: #夏日手作howto# #howto手工# #钩针图解# #钩针花片# #隔热垫# #杯垫# #钩针日常# #钩针小物# #配色灵感#",
+    "author": "屿沫手作",
+    "tags": [
+      "coaster",
+      "mandala",
+      "motif"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_0_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_0_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_1_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_1_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_2_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_2_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_2_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/starry-mandala-coaster/image_3_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_3_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_3_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_0_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_0_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_1_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_1_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/starry-mandala-coaster/image_2_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_2_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/starry-mandala-coaster/image_3_thumb.webp",
+        "medium": "/images/starry-mandala-coaster/image_3_medium.webp",
+        "full": "/images/starry-mandala-coaster/image_3_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Starry Mandala Coaster — Symbol Chart with Modifications\n\nThe chart is a multi-colour mandala worked from a magic ring outwards in about 9 rounds of dc, ch spaces, bobbles and post stitches.\n\nModifications made to the original chart:\n\nRnd 1: Replace the 3-dc bobble with a 4-dc popcorn stitch.\n\nRnd 7: Omit the 2 chains at the top of each petal. Discard Rnds 8-11 of the original chart (the last 4 rounds) and work the following two rounds instead.\n\nRnd 8: Insert the hook into the chain to the left of the front post dc of Rnd 7 and work 1 hdc; ch 2 to stand up; then insert the hook through the chain to the right of the same front post dc and work 1 hdc so the two stitches cross; ch 4, sl st through the two middle strands behind the Rnd 7 petal; ch 4 and repeat the sequence around.\n\nRnd 9: Work 2 sc over the ch-2 of Rnd 8; skip the first dc of Rnd 7; work 1 BPsc around each of the 2nd, 3rd and 4th dc; 1 BPdc around the next dc; ch 1; 1 BPdc around the following dc; 1 BPsc around each of the next 3 dc; skip 1 dc; repeat around.\n\nFasten off and weave in the colour-change ends.",
+        "chineseText": "繁星点点曼陀罗杯垫符号图解（图解来自@阿坏爱手作）。调整如下：\nR1的3长针枣形针改为4长针的爆米花针\nR7花瓣顶部两个锁针不钩，去掉R8-11(最后的4圈)，重新再钩以下两圈\nR8：在R7的外钩长针左边的锁针入针钩一个中长针，起立2ch，再穿过外钩长针右边的锁针入针钩一个中长针(形成交叉的形状)，起立4ch，挑R7花瓣背后中间两股线引拔，起立4ch，重复以上步骤\nR9：在R8的2ch上钩2X，R7的第一个长针不钩，第二三四个长针上各钩一个内钩短针，下一个长针上钩一个内钩长针，起立1个锁针，在下一个长针上内钩长针，下三个长针上各钩一个内钩短针，空一个长针不钩，重复以上步骤",
+        "notes": "2.5 mm hook, 4-ply cotton in 7 colours (chick yellow, pale yellow, cream, deep apricot pink, light blue, dusty blue, navy). The last four rounds of the original chart were replaced with two crossed-hdc and post-stitch rounds."
+      }
+    ],
+    "meta": {
+      "intro": "A seven-colour mandala coaster with a popcorn centre, petal rounds and a crossed half-double crochet border. The maker reworked the last four rounds of the original chart into two new rounds for a crisper edge.",
+      "materials": [
+        "4-ply cotton in chick yellow, pale yellow, cream, deep apricot pink, light blue, dusty blue and navy",
+        "2.5 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply cotton",
+      "hookSize": "2.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "1-2 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "BPsc",
+        "BPdc",
+        "FPdc",
+        "sl st",
+        "popcorn"
+      ],
+      "faq": [
+        {
+          "question": "What changes were made to the original chart?",
+          "answer": "The 3-dc bobble in Rnd 1 was swapped for a 4-dc popcorn, the 2 chains at the top of each Rnd 7 petal were omitted, and Rnds 8 to 11 of the original were replaced with two new rounds of crossed half double crochet and post stitches."
+        },
+        {
+          "question": "How do the crossed stitches work?",
+          "answer": "In the new Rnd 8 you work one half double into the chain on the left of a front post double, chain 2, then work a second half double into the chain on its right so the two stitches cross over each other."
+        },
+        {
+          "question": "Can I use fewer colours?",
+          "answer": "Yes, the seven shades are purely decorative. A two or three colour version still reads clearly because the texture rounds carry most of the design."
+        },
+        {
+          "question": "Does it lie flat as a coaster?",
+          "answer": "It should, provided the post stitch rounds are not pulled tight. Post stitches draw the fabric in, so keep them loose and block the finished piece."
+        }
+      ]
+    }
+  },
+  {
+    "id": 341,
+    "slug": "blue-sakura-magic-circle-coaster",
+    "title": "Blue Sakura Magic Circle Coaster",
+    "description": "这个杯垫真的用什么配色都很好看呀~\n\n用线：@lifeyarn 可可，30/72/16/25\n钩针：2.5\n\n详细步骤图解在第4，5张，符号图解在第6张\n图片自主拍摄，🚫盗图商用，🚫搬运转载\n\n**标签**: #织女的聚会# #人类丰容计划# #钩针小物# #钩针图解# #手工杯垫# #杯垫# #钩针日常# #钩针花片# #钩织的乐趣#",
+    "author": "屿沫手作",
+    "tags": [
+      "coaster",
+      "motif",
+      "lace"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_0_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_0_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_1_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_1_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_2_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_2_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_2_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_3_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_3_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_4_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_4_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_5_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_5_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_5_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_0_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_0_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_1_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_1_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_2_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_2_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_3_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_3_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_4_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_4_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/blue-sakura-magic-circle-coaster/image_5_thumb.webp",
+        "medium": "/images/blue-sakura-magic-circle-coaster/image_5_medium.webp",
+        "full": "/images/blue-sakura-magic-circle-coaster/image_5_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Blue Sakura Magic Circle Coaster — Step Photos, Rnds 1-8\n\nRnd 1: 6 sc in a magic ring (6)\nRnd 2: *inc, ch 1*, repeat 6 times\nRnd 3: *5 dc into each ch-1 space*, repeat 6 times\nRnd 4: *(sc, ch 3) between two 5-dc groups, then (sc, ch 3) into the 3rd dc of the 5-dc group*, repeat 6 times\nRnd 5: *(dc, ch 1, dc) into the sc, 3 dc into the ch-3 space, dc into the next sc, 3 dc into the next ch-3 space*, repeat 6 times\nRnd 6: *(sc, ch 5) into the ch space, skip 2, (sc, ch 3), skip 3, (sc, ch 5)*, repeat 6 times\nRnd 7: *(3 dc, ch 3, 3 dc) into the ch-3 space, (sc, ch 2) into the ch-5 space, (dc, ch 2) into the sc, sc into the next ch-5 space*, repeat 6 times\nRnd 8: 1 dc into each of the 3 dc, 6 dc into the ch-3 space, 1 dc into each of the next 3 dc\n\nK = skip. Change colour at Rnds 3, 5 and 7 for the yellow, pink and blue rings.",
+        "chineseText": "①R1：环起6X ②R2：(V，ch)*6 ③R3：【在ch上钩(5F)】*6 ④R4：【在两个5F中间钩(X,3ch)，在5F的第3F上钩(X,3ch)】*6 ⑤R5：【在X上钩(F,ch,F)，3ch上钩3F，下一个X上钩F，3ch上钩3F】*6 ⑥R6：【ch上钩(X,5ch)，K2，(X,3ch)，K3，(X,5ch)】*6 ⑦R7：【在3ch上钩(3F,3ch,3F)，5ch上钩(X,2ch)，X上钩(F,2ch)，下一5ch上钩X】*6 ⑧R8：在3F上各钩1F，3ch上钩(6F)，3F上各钩1F",
+        "notes": "Step-by-step photo tutorial for the first 8 rounds. 2.5 mm hook, 4-ply cotton in 4 colours. The coaster works up in any colourway."
+      },
+      {
+        "englishText": "Blue Sakura Magic Circle Coaster — Final Round Detail (picot points)\n\n1. Work a dc into a dc of Rnd 7.\n2. Ch 3 to stand up, then work a 2-dc bobble (2 unfinished dc) into the same dc.\n3. Yarn over and draw through all loops at once, ch 3, sl st into the same stitch, then ch 1.\n4. Work 1 more dc into the same Rnd 7 dc and make another bobble.\n5. Ch 3 to stand up and make a picot.\n6. The finished picot should sit proud at the tip of the point.\n7. Ch 3 and sl st into the same stitch.\n8. Work the mirror-image motif on the right side into the same Rnd 7 stitch.\n\nRepeat around to make all the picot points, then fasten off and weave in ends.",
+        "chineseText": "①在第7圈F上钩F ②立3ch，在F上钩2个未完成长针的枣形针 ③一次性带过，钩3ch，同针目引拔，再钩1ch ④在第7圈F上再钩1F，枣形针 ⑤立3ch，钩狗牙针 ⑥狗牙针完成的样子 ⑦3ch，同针目引拔 ⑧第7圈同针目再钩一个右侧的花样",
+        "notes": "Detail photos for the decorative picot/bobble edging on the last round. Work loosely so the points do not curl."
+      },
+      {
+        "englishText": "Blue Sakura Magic Circle Coaster — Symbol Chart (Rnds 1-8)\n\nRnd 1: MR, 6 sc (6)\nRnd 2: *inc, ch 1*, x6\nRnd 3: *5 dc in each ch-1 space*, x6\nRnd 4: *(sc, ch 3) between the 5-dc groups, (sc, ch 3) in the 3rd dc of each group*, x6\nRnd 5: *(dc, ch 1, dc) in the sc, 3 dc in the ch-3 sp, dc in the next sc, 3 dc in the next ch-3 sp*, x6\nRnd 6: *(sc, ch 5), skip 2, (sc, ch 3), skip 3, (sc, ch 5)*, x6\nRnd 7: *(3 dc, ch 3, 3 dc) in the ch-3 sp, (sc, ch 2) in the ch-5 sp, (dc, ch 2) in the sc, sc in the next ch-5 sp*, x6\nRnd 8: dc in each of the 3 dc, 6 dc in the ch-3 sp, dc in each of the next 3 dc, finishing each point with bobbles and a ch-3 picot as shown.\n\nFasten off and weave in ends. The motif is a six-point flat lace circle.",
+        "chineseText": "蓝色小樱魔法阵杯垫符号图解（8圈）。",
+        "notes": "Language-independent chart for the whole coaster; matches the two step-photo sheets. 2.5 mm hook, 4-ply cotton."
+      }
+    ],
+    "meta": {
+      "intro": "A six-point lace coaster worked in four colours, with a bobble and picot edge on the final round. Step photos cover every round, so it suits anyone moving beyond basic motifs.",
+      "materials": [
+        "4-ply cotton in 4 colours",
+        "2.5 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "4-ply cotton",
+      "hookSize": "2.5mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "1-2 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "dc",
+        "inc",
+        "sl st",
+        "picot",
+        "bobble"
+      ],
+      "faq": [
+        {
+          "question": "Where do the colour changes fall?",
+          "answer": "The sample changes colour at Rounds 3, 5 and 7, which is where each new ring of the design begins. Any four-colour combination works because the stitch counts never change."
+        },
+        {
+          "question": "How is the picot point made?",
+          "answer": "Chain 3, work a 2-dc bobble into the same stitch, close it, chain 3 and slip stitch back into the same stitch. The mirror-image half is then worked into that same Rnd 7 stitch."
+        },
+        {
+          "question": "Why does my edge curl?",
+          "answer": "The final round packs several stitches into one place. Work the bobbles and picots loosely and block the coaster flat when you are done."
+        },
+        {
+          "question": "Can I use this as a motif rather than a coaster?",
+          "answer": "Yes, the hexagonal six-point shape joins neatly to copies of itself if you slip stitch the points together on the last round instead of finishing each one separately."
+        }
+      ]
+    }
+  },
+  {
+    "id": 342,
+    "slug": "moonlit-mist-fan-stitch-shawl",
+    "title": "Moonlit Mist Fan Stitch Shawl",
+    "description": "🌿月落轻纱凝浅韵，雾缠织缕藏温柔。\n以月为色🌙，以雾为形软绵钩织披肩，\n衬尽国风少女万般清雅～\n钩织说明：按照P7图解钩织\n每组扇形纹样都是钩织9长长针，不需要加针！\n宽度总共钩织三排花样～\n起针按照21针为一组进行起针\n这里我起针是210针，钩织9个扇形纹花样\n也🉑根据需要增减花样\n线材：@趣织社 梦羽纯色\n色号：01\n用量：2团\n钩针：4.0㎜\n成品尺寸：长140CM×宽36CM\n图片自主拍摄🈲转载🈲商用!\n\n**标签**: #BloomingMoments# #披肩# #图解分享# #披肩搭配# #钩针罩衫# #钩织披肩# #披肩钩织# #钩针披肩图解# #披肩外搭# #国风穿搭#",
+    "author": "口折文手作",
+    "tags": [
+      "scarf",
+      "lace",
+      "wearable"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_0_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_0_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_1_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_1_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_2_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_2_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_3_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_3_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_4_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_4_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_5_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_5_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_6_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_6_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_0_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_0_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_1_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_1_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_2_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_2_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_3_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_3_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_4_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_4_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_5_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_5_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/moonlit-mist-fan-stitch-shawl/image_6_thumb.webp",
+        "medium": "/images/moonlit-mist-fan-stitch-shawl/image_6_medium.webp",
+        "full": "/images/moonlit-mist-fan-stitch-shawl/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Moonlit Mist Fan-Stitch Shawl/Scarf — Japanese Symbol Chart\n\nMaterials: cotton yarn, 105 g (5 balls); 3.0 mm (Japanese 3/0) hook.\nFinished size: 14 cm wide x 145.5 cm long measured along the edging.\nGauge: one pattern repeat = 8.5 cm wide; 15 rows = 13.5 cm.\n\nMethod\nRow 1: Ch 358. Work back along the chain picking up both the top half loop and the back bump, alternating sc and ch 5; skip 3 chains and then 2 chains alternately as you go.\nRows 2-15: Apart from the turning chain at the start of each row, work every stitch into the chain spaces of the previous row (not into individual chains), following the fan pattern chart.\nEdging: Without breaking the yarn, continue straight into the border round all the way around the scarf.\n\nEach fan is a group of long stitches worked into one chain space and separated by chain arcs, which is what gives the shawl its scalloped shell edge.",
+        "chineseText": "日文书图解：扇形模样のスカーフ（扇形花样围巾）。材料：Wash Cotton Crochet 105g/5玉，钩针3/0号。成品尺寸：宽14cm，长145.5cm（缘编侧）。密度：模样编1模样8.5cm×15段13.5cm。编法：锁358目起针，1段めは锁の半目と里山の2本を拾って细编みと锁5目で编みます。细编みは3目と2目とばしをくり返して拾います。2段め以降は、立ち上がりの锁目以外は前段の锁を束に拾って模様编みで15段まで编みます。続けて缘编みを编みます。",
+        "notes": "Japanese book chart. The creator's own notes: work each fan as 9 treble crochet, no increases; 3 rows of pattern across the width; foundation chain in multiples of 21 (she used 210 ch for 9 fans); 4.0 mm hook, 2 balls, finished 140 x 36 cm."
+      }
+    ],
+    "meta": {
+      "intro": "A long fan-stitch shawl worked from a single long foundation chain, so every row is the full length of the scarf and the shells build up in stripes. The result is a light, drapey wrap with a scalloped edge.",
+      "materials": [
+        "Cotton yarn, about 155 g",
+        "4.0 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "Cotton (sport to DK)",
+      "hookSize": "4.0mm",
+      "finishedSize": "140 cm long x 36 cm wide",
+      "difficulty": "Intermediate",
+      "estimatedTime": "10+ hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How many stitches do I chain to start?",
+          "answer": "Chain in multiples of 21. The maker used 210 chains for nine fan repeats; the original book chart uses 358 chains for a longer, narrower scarf."
+        },
+        {
+          "question": "Are there any increases?",
+          "answer": "No. Each fan is nine treble crochet worked into one chain space with no increases, and the width is set purely by how many rows of pattern you work. The sample is three rows of the fan pattern."
+        },
+        {
+          "question": "Why work into chain spaces rather than individual chains?",
+          "answer": "From row 2 onward every stitch except the turning chain is worked around the whole chain space of the previous row. That is what lets the fans spread and gives the lace its openness."
+        },
+        {
+          "question": "Can I make it wider?",
+          "answer": "Yes, simply keep repeating the pattern rows. Each extra row of fans adds roughly 9 cm to the depth at the given gauge."
+        }
+      ]
+    }
+  },
+  {
+    "id": 343,
+    "slug": "lavender-pineapple-triangle-shawl",
+    "title": "Lavender Pineapple Triangle Shawl",
+    "description": "🉑无♾限放大的三角镂空披肩～\n小点🉑做头巾，加大就是披肩呀！\n系绳：51CH倒2钩50SL\n线材：@回归线 悸动\n色号：107薰衣草\n钩针：2.0㎜\n自主拍摄🈲转载🈲商用!\n\n**标签**: #手工的夏天# #手工编织# #针织手作# #钩织披肩# #披肩编织# #钩织头巾# #钩织头巾披肩# #编织图解# #披肩搭配# #方巾#",
+    "author": "口折文手作",
+    "tags": [
+      "scarf",
+      "lace",
+      "wearable",
+      "hair"
+    ],
+    "createdAt": "2026-09-16 02:58:18",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_0_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_0_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_1_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_1_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_2_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_2_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_3_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_3_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_4_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_4_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_5_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_5_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_5_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_6.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_6_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_6_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_6_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_0_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_0_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_1_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_1_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_2_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_2_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_3_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_3_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_4_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_4_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "product_photo",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_5_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_5_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/lavender-pineapple-triangle-shawl/image_6_thumb.webp",
+        "medium": "/images/lavender-pineapple-triangle-shawl/image_6_medium.webp",
+        "full": "/images/lavender-pineapple-triangle-shawl/image_6_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Lavender Pineapple and Filet Triangular Shawl / Headscarf — Japanese Symbol Chart\n\nFinished size: 126 cm wide x 50 cm deep.\nMaterials: cream-yellow cotton-blend yarn, 155 g; 2.5 mm (Japanese 4/0) hook.\nGauge: one pattern repeat (8 squares) = 8 cm; 12.5 rows = 10 cm.\n\nMethod\n1. Ch 2 as the starting point at the bottom point of the triangle.\n2. Working in the pattern (filet mesh squares of dc and ch, with pineapple motifs of ch loops rising out of fans of dc), increase at both ends of every row and work 60 rows in total. The pattern repeats over 8 rows.\n3. Without breaking the yarn, work edging A along the top and edging B down the two slanted sides all the way around. Edging B is worked in the first row of the pattern and, apart from row 60, is attached every 2 rows, anchoring each fan to the chain at the edge of the pattern so the shells sit evenly.\n\nWorked small the same chart makes a headscarf; worked larger it becomes a full shawl.",
+        "chineseText": "日文书图解：パイナップル+方眼の三角ショール（菠萝+方眼三角披肩）。サイズ：幅126cm 長さ50cm。用意するもの：糸 Puririan クリームイエロー(31)155g；針 4/0号。ゲージ：模様あみ 1模様(8マス)=8cm、12.5段=10cm。あみ方：1 くさりあみ2目を作り目します。2 両端で目を増しながら、模様あみで60段をあみます。3 糸を続けて、まわりに縁あみA、Bをあみます。",
+        "notes": "The creator's own notes: ties are ch 51 with 50 sl st worked back; 2.0 mm hook in a lavender colourway. Size is fully adjustable by working more or fewer pattern repeats."
+      }
+    ],
+    "meta": {
+      "intro": "An openwork triangle worked from the bottom point outwards, increasing at both ends, which can be made small as a headscarf or scaled up into a full shawl. The pineapple motifs sit inside a filet mesh ground.",
+      "materials": [
+        "Fine cotton-blend yarn, about 155 g",
+        "2.0 mm crochet hook (2.5 mm in the original)",
+        "Yarn needle",
+        "2 beads for the tie ends"
+      ],
+      "yarnWeight": "Fine cotton blend",
+      "hookSize": "2.0mm",
+      "finishedSize": "126 cm wide x 50 cm deep in the original size",
+      "difficulty": "Intermediate",
+      "estimatedTime": "10+ hours",
+      "abbreviationsUsed": [
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "sl st"
+      ],
+      "faq": [
+        {
+          "question": "How do I make it headscarf sized instead of shawl sized?",
+          "answer": "The triangle grows by increasing at both ends of every row, so simply stop earlier. The full shawl is 60 rows; a headscarf needs far fewer."
+        },
+        {
+          "question": "How are the ties made?",
+          "answer": "Chain 51 and work 50 slip stitches back along the chain for each tie, then attach one to each top corner."
+        },
+        {
+          "question": "What is the row repeat?",
+          "answer": "The pineapple pattern repeats over 8 rows, and one pattern repeat is 8 filet squares wide, which measures about 8 cm at the stated gauge."
+        },
+        {
+          "question": "When do I add the edging?",
+          "answer": "Do not break the yarn after the last pattern row. Edging A runs along the top and edging B down both slanted sides, attached every 2 rows so the shells sit evenly."
+        }
+      ]
+    }
+  },
+  {
+    "id": 327,
+    "slug": "dunhuang-art-mandala-motif",
+    "title": "Dunhuang Art Mandala Motif",
+    "description": "祖母格花品钩织回归\n今天是经典敦煌风祖母格 针法不难\n属于入门级又出效果的花片 欢迎交作业\n图解来自@叁叶钩编 谢谢大佬图解\n🧶：8股纯棉线\n🪝：2.0\n\n**标签**: #沉浸式编织的快乐# #织女的聚会# #钩针祖母格# #钩针花片# #钩针图解# #编织图解# #针织手作# #钩针教程# #图解分享#",
+    "author": "来杯冰阔落",
+    "tags": [
+      "granny-square",
+      "mandala",
+      "motif",
+      "coaster"
+    ],
+    "createdAt": "2026-09-16 02:58:17",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_0_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_0_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_0_full.webp"
+      },
+      {
+        "filename": "image_13.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_13_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_13_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_13_full.webp"
+      },
+      {
+        "filename": "image_14.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_14_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_14_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_14_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_1_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_1_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_2_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_2_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_3_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_3_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_4_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_4_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_5_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_5_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_6_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_6_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_7_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_7_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_8_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_8_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_8_full.webp"
+      },
+      {
+        "filename": "image_9.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_9_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_9_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_9_full.webp"
+      },
+      {
+        "filename": "image_10.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_10_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_10_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_10_full.webp"
+      },
+      {
+        "filename": "image_11.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_11_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_11_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_11_full.webp"
+      },
+      {
+        "filename": "image_12.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_12_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_12_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_12_full.webp"
+      },
+      {
+        "filename": "image_15.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_15_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_15_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_15_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_0_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_0_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_1_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_1_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_2_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_2_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_3_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_3_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_4_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_4_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_5_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_5_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_6_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_6_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_7_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_7_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_8_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_8_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_8_full.webp"
+      },
+      {
+        "filename": "image_9.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_9_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_9_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_9_full.webp"
+      },
+      {
+        "filename": "image_10.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_10_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_10_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_10_full.webp"
+      },
+      {
+        "filename": "image_11.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_11_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_11_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_11_full.webp"
+      },
+      {
+        "filename": "image_12.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_12_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_12_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_12_full.webp"
+      },
+      {
+        "filename": "image_13.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_13_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_13_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_13_full.webp"
+      },
+      {
+        "filename": "image_14.jpg",
+        "type": "product_photo",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_14_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_14_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_14_full.webp"
+      },
+      {
+        "filename": "image_15.jpg",
+        "type": "symbol_diagram",
+        "thumb": "/images/dunhuang-art-mandala-motif/image_15_thumb.webp",
+        "medium": "/images/dunhuang-art-mandala-motif/image_15_medium.webp",
+        "full": "/images/dunhuang-art-mandala-motif/image_15_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnds 1-2 (Centre)\n\nRnd 1: Magic ring, 12 dc in ring, join (12)\nRnd 2: Working into each space BETWEEN two dc of Rnd 1: *sc, ch 2*, repeat 12 times around (12 sc, 12 ch-2 spaces)\n\nNote: this motif is worked in 13 rounds with colour changes each round; the ch-2 spaces made here become the anchor points for the bobbles in Rnd 3.",
+        "chineseText": "R1：环形起针，钩12长针。[12F]\nR2：两针长针之间入针，钩织（短针、2锁针）重复12组。[X,2CH]*12",
+        "notes": "Classic Dunhuang-style granny/mandala motif. 8-strand cotton yarn, 2.0 mm hook. Beginner-friendly but high impact. In this pattern's shorthand F = dc, X = sc, CH = chain."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 3 (Bobble round)\n\nRnd 3: Into each ch-2 space of Rnd 2: *3-dc bobble (3 unfinished dc worked into the same space, then yarn over and draw through all 4 loops), ch 2*, repeat 12 times around (12 bobbles, 12 ch-2 spaces)\n\nChange colour before starting this round.",
+        "chineseText": "R3：每处锁针入针，钩织3长针枣形针（3个未完成长针并一针）、2锁针。重复12组 [枣形针，2CH]*12",
+        "notes": "Bobble = 枣形针, made from 3 incomplete dc closed together. Worked with 8-strand cotton and a 2.0 mm hook."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 4 (Shell round)\n\nRnd 4: Into each ch-2 space of Rnd 3: *3 dc, ch 2 (the ch-2 passes over the bobble of the previous round)*, repeat 12 times around (36 dc, 12 ch-2 spaces)\n\nChange colour before starting this round.",
+        "chineseText": "R4：每处锁针入针，钩织3长针，2锁针跳过上圈枣形针。重复12组 [3F, 2CH]*12",
+        "notes": "The ch-2 skips over each bobble so the bobbles stay raised on the front of the work. 2.0 mm hook, 8-strand cotton."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 5 (Back-post round)\n\nRnd 5: *Into the ch-2 space work 2 dc, then work 3 BPdc (back post double crochet) around each of the 3 dc of Rnd 4 in turn*, repeat 12 times around (60 sts)\n\nChange colour before starting this round.",
+        "chineseText": "R5：每处锁针入针，钩织2长针，在上圈长针上依次钩织3内钩长针。重复12组 [2F, 3内钩长针]*12",
+        "notes": "内钩长针 = BPdc, worked around the post of the stitch from behind so the shell of Rnd 4 pops forward."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 6 (Single crochet round)\n\nRnd 6: Sc in each stitch of Rnd 5 around, working *5 sc* per pattern repeat, 12 repeats (60 sc)\n\nChange colour before starting this round. This flat round levels the fabric before the next textured round.",
+        "chineseText": "R6：上圈长针针目见入针，依次钩织短针整圈 [5X]*12",
+        "notes": "A plain sc round; keep the tension even so the motif stays flat. 2.0 mm hook."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 7 (Front-post treble round)\n\nRnd 7: *Working into the 2 sc that sit above the centre of each group of BPdc from Rnd 5, make 2 dc increases (2 dc in each of those 2 sts = 4 dc); then work 2 FPtr (front post treble) around the 2 dc that were worked into the ch-2 space in Rnd 5; skip to the next group of 2 sc above the next set of 3 BPdc*, repeat the pattern 12 times around\n\nChange colour before starting this round.",
+        "chineseText": "R7：R5内钩长针中间2短针入针，分别钩织2针长针加针2FV。依次在R5锁针上两长针钩织外钩长长针。跳到下一组3内钩长针中间2短针入针，重复花样12组 [2FV，2外钩长长针]*12",
+        "notes": "FV = dc increase (2 dc in one st); 外钩长长针 = FPtr worked around the post from the front. The FPtr pull the earlier round forward and create the raised ray effect."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 8 (Single crochet round)\n\nRnd 8: *Working over the dc increases of Rnd 7, place 3 sc into the 3 gaps between the 4 dc; sc into the skipped sc of Rnd 6 below; 2 sc over the front post trebles; sc into the next skipped st of Rnd 6*, repeat 12 times around (7 sc per repeat, 84 sc)\n\nChange colour before starting this round.",
+        "chineseText": "R8：本长针加针入针，分别在4长针中间3个间隔钩3短针。下一短针钩在R6下方跳过的短针，在外钩针上钩织2短针，R6跳过的针目上钩织短针。重复12组 [3X,X,2X,X]*12",
+        "notes": "This round anchors the front post stitches from Rnd 7 and restores an even stitch count."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 9 (Chain-space round)\n\nRnd 9: *Starting in the sc that was worked into Rnd 6, work 4 sc, then ch 4 skipping the 3 sc that sit over the dc increases*, repeat 12 times around (48 sc and 12 ch-4 spaces)\n\nChange colour before starting this round.",
+        "chineseText": "R9：从上圈钩在R6上的短针入针，依次钩织4短针。4锁针跳过长针加针中间3短针。重复花样12组。[4X,4CH]*12",
+        "notes": "The ch-4 arcs become the base for the 8-dc shells in Rnd 10."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 10 (Shell round)\n\nRnd 10: *Into each ch-4 arc of Rnd 9 work 8 dc; then work 2 dc into the 2 sc of Rnd 8 that sit over the front post stitches*, repeat 12 times around (120 dc)\n\nChange colour before starting this round. The 8-dc shells form the scalloped flower edge.",
+        "chineseText": "R10：锁针链条入针，钩织8长针。穿过R8两外钩针上对应短针，依次钩织2长针。重复花样12组 [8F,2F]*12",
+        "notes": "Work the 8 dc loosely around the whole chain arc, not into individual chains, so the shell fans out."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 11 (Back-post round)\n\nRnd 11: *2 sc into the 2 dc that bridged the shells in Rnd 10; then 8 BPdc, one around each of the 8 dc of the shell*, repeat 12 times around (120 sts)\n\nChange colour before starting this round.",
+        "chineseText": "R11：上圈跨行钩织的两长针处入针，依次钩两短针。上圈贝壳花样8长针上分别钩织8内钩长针。[2X,8内钩长针]*12",
+        "notes": "Working the shell stitches as back post dc pushes each shell forward into a rounded petal."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 12 (Bobble and back-post round)\n\nRnd 12: *Insert the hook between the 2 dc of Rnd 10 that sit below the 2 sc of Rnd 11 and work a 3-dc bobble; then work 4 BPdc around the next 4 back post stitches, ch 2, 4 BPdc around the following 4 back post stitches*, repeat 12 times around\n\nChange colour before starting this round.",
+        "chineseText": "R12：从上圈2短针位置下方对应R10两长针中间入针，钩织3长针枣形针，上圈内钩针上依次钩织4内钩长针、2锁针、4内钩长针。花样重复12组。[枣形针，4内钩长针，2CH，4内钩长针]*12",
+        "notes": "The ch 2 at the top of each petal creates the notch that the final round fills with sc."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala Motif — Rnd 13 (Final round)\n\nRnd 13: *2 sc into the ch-2 space of Rnd 12; 4 BPsc (back post single crochet) around the next 4 back post stitches; 1 sc into the top of the bobble; 4 BPsc around the following 4 back post stitches*, repeat 12 times around. Fasten off and weave in ends.\n\nThe finished motif is a 12-point Dunhuang-style mandala square/circle.",
+        "chineseText": "R13：上圈锁针入针，钩织2短针，上圈内钩针上依次钩织4内钩短针，枣形针上钩短针，依次钩织4内钩短针。重复花样12组。[2X,4内钩短针，X，4内钩短针]*12",
+        "notes": "Final round; 内钩短针 = BPsc. Fasten off and weave in all colour-change tails on the back."
+      },
+      {
+        "englishText": "Dunhuang Art Mandala — Full Symbol Chart (Rnds 1-13)\n\nRnd 1: MR, 12 dc (12)\nRnd 2: *Sc between 2 dc, ch 2*, x12\nRnd 3: *3-dc bobble in ch-2 sp, ch 2*, x12\nRnd 4: *3 dc in ch-2 sp, ch 2 over bobble*, x12\nRnd 5: *2 dc in ch-2 sp, 3 BPdc over the 3 dc*, x12\nRnd 6: Sc in each st around (5 sc per repeat)\nRnd 7: *2 dc inc over the 2 sc above the BPdc, 2 FPtr over the 2 dc*, x12\nRnd 8: *3 sc between the 4 dc, sc in skipped st, 2 sc over FPtr, sc in skipped st*, x12\nRnd 9: *4 sc, ch 4 skipping 3 sc*, x12\nRnd 10: *8 dc in ch-4 arc, 2 dc in the 2 bridging sc*, x12\nRnd 11: *2 sc, 8 BPdc over the shell*, x12\nRnd 12: *3-dc bobble, 4 BPdc, ch 2, 4 BPdc*, x12\nRnd 13: *2 sc in ch-2 sp, 4 BPsc, sc in bobble, 4 BPsc*, x12. Fasten off.",
+        "chineseText": "敦煌艺术 —叁叶钩编制图（小红书）符号图解，共13圈。",
+        "notes": "Language-independent symbol chart for the whole motif; matches the 13 step photos. 8-strand cotton, 2.0 mm hook."
+      }
+    ],
+    "meta": {
+      "intro": "A 13-round Dunhuang-inspired mandala motif in six colours, built from bobbles, shells and post stitches. It works up as a coaster, a cushion block or a repeating granny square for a larger blanket.",
+      "materials": [
+        "8-strand cotton yarn in 6 colours",
+        "2.0 mm crochet hook",
+        "Yarn needle"
+      ],
+      "yarnWeight": "8-strand cotton (worsted)",
+      "hookSize": "2.0mm",
+      "difficulty": "Intermediate",
+      "estimatedTime": "2-4 hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "dc",
+        "tr",
+        "BPdc",
+        "BPsc",
+        "FPtr",
+        "sl st",
+        "inc",
+        "dec"
+      ],
+      "faq": [
+        {
+          "question": "Why do the shells stand up from the fabric?",
+          "answer": "Rounds 5, 11 and 12 are worked as back post double crochet around the stitches of the round below, which pushes the previous shell forward so it sits raised on the front of the motif."
+        },
+        {
+          "question": "How many colours do I need?",
+          "answer": "The sample changes colour at almost every round, using six shades in rotation. You can work it in fewer colours or a single colour without changing any stitch counts."
+        },
+        {
+          "question": "Do I have to make the bobbles exactly as written?",
+          "answer": "The bobbles in Rnds 3 and 12 are three unfinished double crochet closed together. If you prefer a fuller texture you can substitute a 4-dc popcorn, but keep one bobble per repeat so the 12-point layout still works."
+        },
+        {
+          "question": "How do I keep the motif flat?",
+          "answer": "Keep an even tension on the chain spaces and work the 8-dc shells in Rnd 10 around the whole chain arc rather than into individual chains. Blocking the finished motif also helps it sit flat."
+        }
+      ]
+    }
+  },
+  {
+    "id": 328,
+    "slug": "blue-crochet-flower-bouquet",
+    "title": "Blue Crochet Flower Bouquet",
+    "description": "蓝白色系钩织花束，附图解。\n\n**标签**: #蓝色系花束# #钩针花束# #蓝白色系# #碎冰蓝玫瑰# #手工花束# #毛线花# #钩织图解# #莆田花束# #一束不凋零的花# #玫瑰花#",
+    "author": "一个",
+    "tags": [
+      "flower",
+      "decor",
+      "collection"
+    ],
+    "createdAt": "2026-09-16 02:58:17",
+    "updatedAt": "2026-09-16 03:49:48",
+    "productPhotos": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_0_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_0_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_1_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_1_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_1_full.webp"
+      }
+    ],
+    "diagrams": [
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_2_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_2_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_3_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_3_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_4_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_4_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_5_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_5_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_6_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_6_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_7_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_7_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_8_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_8_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_8_full.webp"
+      },
+      {
+        "filename": "image_9.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_9_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_9_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_9_full.webp"
+      },
+      {
+        "filename": "image_10.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_10_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_10_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_10_full.webp"
+      }
+    ],
+    "allImages": [
+      {
+        "filename": "image_0.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_0_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_0_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_0_full.webp"
+      },
+      {
+        "filename": "image_1.jpg",
+        "type": "product_photo",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_1_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_1_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_1_full.webp"
+      },
+      {
+        "filename": "image_2.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_2_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_2_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_2_full.webp"
+      },
+      {
+        "filename": "image_3.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_3_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_3_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_3_full.webp"
+      },
+      {
+        "filename": "image_4.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_4_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_4_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_4_full.webp"
+      },
+      {
+        "filename": "image_5.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_5_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_5_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_5_full.webp"
+      },
+      {
+        "filename": "image_6.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_6_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_6_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_6_full.webp"
+      },
+      {
+        "filename": "image_7.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_7_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_7_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_7_full.webp"
+      },
+      {
+        "filename": "image_8.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_8_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_8_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_8_full.webp"
+      },
+      {
+        "filename": "image_9.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_9_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_9_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_9_full.webp"
+      },
+      {
+        "filename": "image_10.jpg",
+        "type": "text_diagram",
+        "thumb": "/images/blue-crochet-flower-bouquet/image_10_thumb.webp",
+        "medium": "/images/blue-crochet-flower-bouquet/image_10_medium.webp",
+        "full": "/images/blue-crochet-flower-bouquet/image_10_full.webp"
+      }
+    ],
+    "patterns": [
+      {
+        "englishText": "Areca Palm Frond — Six Leaf Sizes\n\nAbbreviations used in this bouquet: X = sc, T = hdc, F = dc, E = tr, V = increase, A = decrease, K = skip, SL = sl st, W = 3 sts in one st, CH = chain.\n\nLeaf A (make 3)\nRow 1: Ch 20, lay floral wire along the chain, turn and work back starting in the 2nd ch from hook.\nRow 2: 3 sc, 12 hdc, 3 sc, [sc, ch 3 picot, sc] at the tip, then work the second side symmetrically.\n\nLeaf B (make 2): Ch 22; Row 2: 3 sc, 14 hdc, 3 sc, [sc, ch 3 picot, sc], mirror the other side.\nLeaf C (make 4): Ch 26; Row 2: 3 sc, 3 hdc, 12 dc, 3 hdc, 3 sc, [sc, ch 3 picot, sc], mirror.\nLeaf D (make 8): Ch 30; Row 2: 4 sc, 2 hdc, 16 dc, 3 hdc, 3 sc, [sc, ch 3 picot, sc], mirror.\nLeaf E (make 4): Ch 35; Row 2: 5 sc, 4 hdc, 16 dc, 4 hdc, 4 sc, [sc, ch 3 picot, sc], mirror.\nLeaf F (make 6): Ch 29; Row 2: 4 sc, 2 hdc, 15 dc, 3 hdc, 3 sc, [sc, ch 3 picot, sc], mirror.\n\nBundle the finished fronds along a wrapped wire stem.",
+        "chineseText": "散尾葵\n叶片A 3片：R1: 20CH，加铁丝，倒2回钩；R2: 3X，12T，3X，[X，3CH狗牙，X]，另一边对称钩\n叶片B 2片：R1: 22CH…R2: 3X，14T，3X，[X，3CH狗牙，X]\n叶片C 4片：R1: 26CH…R2: 3X，3T，12F，3T，3X，[X，3CH狗牙，X]\n叶片D 8片：R1: 30CH…R2: 4X，2T，16F，3T，3X，[X，3CH狗牙，X]\n叶片E 4片：R1: 35CH…R2: 5X，4T，16F，4T，4X，[X，3CH狗牙，X]\n叶片F 6片：R1: 29CH…R2: 4X，2T，15F，3T，3X，[X，3CH狗牙，X]",
+        "notes": "Part of a blue-and-white crocheted bouquet. Each leaf is worked around a floral wire so it holds its shape. Picot = ch 3 closed at the leaf tip."
+      },
+      {
+        "englishText": "Roselle Rose — Petals and Calyx\n\nSmall petal (make 2)\nRnd 1: MR, 10 dc (10)\nRnd 2: 10 hdc inc (20)\nRnd 3: 6 sc, 8 hdc inc, 6 sc (28)\n\nMedium petal (make 3)\nRnd 1: MR, 10 dc (10)\nRnd 2: 10 hdc inc (20)\nRnd 3: *sc, inc*, repeat 10 times (30)\nRnd 4: 2 sc, dec, 4 sc, 14x(sc, ch 2), 4 sc, dec, 2 sc\n\nLarge petal (make 5)\nRnd 1: MR, 10 dc (10)\nRnd 2: 10 hdc inc (20)\nRnd 3: *hdc, hdc inc*, repeat 10 times (30)\nRnd 4: 2 sc, dec, 4 sc, 14x(sc, ch 2), 4 sc, dec, 2 sc\n\nCalyx\nRnd 1: MR, 20 dc (20)\nRnd 2: Ch 10, from the 2nd ch from hook work sl st, 2 sc, 2 hdc, 2 dc, 2 tr, skip 3, sl st\n\nRoll the petals from small to large around a wire stem, smallest at the centre, and seat the calyx underneath.",
+        "chineseText": "洛神玫瑰\n小花瓣2片：R1: 环起10F；R2: 10TV；R3: 6X, 8TV, 6X\n中花瓣3片：R1: 环起10F；R2: 10TV；R3: 10(X,V)；R4: 2X, A, 4X, 14(X,2CH), 4X, A, 2X\n大花瓣5片：R1: 环起10F；R2: 10TV；R3: 10(T,TV)；R4: 2X, A, 4X, 14(X,2CH), 4X, A, 2X\n花托：R1: 环起20F；R2: 10CH，倒2回钩SL, 2X, 2T, 2F, 2E, 3K, SL",
+        "notes": "V = increase (2 sts in the same stitch), A = decrease, K = skip. The ch-2 ruffle in Rnd 4 gives the petal its frilled edge."
+      },
+      {
+        "englishText": "Delphinium — Buds, Bracts and Flowers\n\nLarge bud (make 3)\nRnd 1: MR, ch 2, 10 dc in the ring\nRnd 2: Ch 2, 10 dc\nRnd 3: 5 dec (5)\n\nMedium bud (make 3)\nRnd 1: MR, ch 2, 10 dc in the ring\nRnd 2: 5 dec (5)\n\nLarge bract (make 3): Into a magic ring work 8 unfinished dc (9 loops on the hook), yarn over and draw through all loops, sl st, fasten off.\nSmall bract (make 9): Into a magic ring work 5 unfinished dc (6 loops), yarn over and draw through all loops, sl st, fasten off.\n\nSmall flower (make 3)\nRnd 1: MR, 10 sc. Ch 6, picking up the back bumps and starting from the 2nd ch: 2 unfinished dc, 2 unfinished sc, pick up 1 loop in the next st, then close the loops two at a time.\nRnd 2: Ch 2, sl st into the back bump of the 2nd ch, ch 2, 2 dc, hdc, sc (sl st in the same st), sl st. 5 petals in total.\n\nLarge flower (make 6)\nLayer 1: worked exactly as the small flower above.\nLayer 2: Sl st to the middle of a petal and work into the outer loop, offsetting from layer 1.\nRnd 1: Ch 7, picking up the back bumps and starting from the 2nd ch: 3 unfinished dc, 2 unfinished sc, pick up the far half loop of the next st, close two at a time.\nRnd 2: Ch 2, sl st into the back bump of the 2nd ch, ch 2, 3 dc, hdc, sc (sl st in the same st), sl st. 5 petals in total.\n\nFlower centre (make 9): Into a magic ring work (ch 6, sl st) 5 times. Fold a yarn-wrapped wire in half and pass it through the centre.",
+        "chineseText": "大飞燕\n大花骨朵3个：R1:环起2CH，圈里10F；R2:2CH，10F；R3:5A\n中花骨朵3个：R1:环起2CH，圈里10F；R2:5A\n大花苞3个：环起8个未完成F，共9个线圈，绕线，一一带过，SL断线\n小花苞9个：环起5个未完成F，共6个线圈，绕线，一一带过，SL断线\n小花朵3朵：R1:环起10X，6CH挑里山，倒2挑2个未完成F，2个未完成X，下一针里挑一针，两两退线；R2:2CH倒2勾里山SL，2CH，2F，T，X(同一针里SL)，SL（共5个花瓣）\n大花朵6朵：第一层同上；第二层：SL到花瓣中间，外半针（与第一层花瓣错开），R1:7CH挑里山，倒2挑3个未完成F，2个未完成X，下一针里挑远离身体半针，两两退线；R2:2CH倒2勾里山SL，2CH，3F，T，X（同一针里SL），SL（共5个花瓣）\n花心9个：环起(6CH，SL)重复5次。铁丝缠线对折，穿过花心。",
+        "notes": "Each delphinium stem carries buds, bracts and two-layer flowers. Layer 2 petals are deliberately offset from layer 1 so the bloom looks full."
+      },
+      {
+        "englishText": "Tulip — Small and Large Petals\n\nSmall petal (make 3)\nRow 1: Ch 13; starting in the 2nd ch from hook work sl st, sc, hdc, 6 dc, hdc, sc, sl st, then sc, hdc, 6 dc, hdc, sc, sl st (two lobes on one chain).\nRow 2: Lay a floral wire along the edge and work a round of sc all the way around the petal, enclosing the wire.\n\nLarge petal (make 3)\nRow 1: Ch 15; starting in the 2nd ch from hook work sl st, sc, hdc, 8 dc, hdc, sc, sl st, then sc, hdc, 8 dc, hdc, sc, sl st.\nRow 2: Lay a floral wire along the edge and work a round of sc around the petal.\n\nCup the large petals around the small ones and bind the wires into a stem.",
+        "chineseText": "郁金香\n小花瓣3片：R1:起13ch,倒2回钩 sl,X,T,6F,T,X,sl,X,T,6F,T,X,sl；R2:加入铁丝钩一圈短针\n大花瓣3片：R1:起15ch,倒2回钩 sl,X,T,8F,T,X,sl,X,T,8F,T,X,sl；R2:加入铁丝钩一圈短针",
+        "notes": "The wire edging is what lets the tulip petals be bent into a cup shape. T = hdc, F = dc in this pattern's shorthand."
+      },
+      {
+        "englishText": "One-Piece Rose — Continuous Petal Strip\n\nBase: Ch 56, then work 53 dc starting in the 4th ch from hook.\n\nLarge petals (work 5)\nCh 2, turn. *5 dc, ch 2, turn, 5 dc inc, ch 2, turn, 2 dc inc, 2 tr inc, (tr inc, dtr, ch picot), (dtr, tr inc), 2 tr inc, 2 dc inc, then 2x(ch 2, sl st) with the last two sl sts worked into the side of the petal*, repeat 5 times.\n\nMedium petals (work 4)\n*4 dc, ch 2, turn, 4 dc inc, ch 2, turn, dc inc, dc+tr, tr inc, (tr, 2 dtr, ch 2 picot), (2 dtr, tr), tr inc, tr+dc, dc inc, 2x(ch 2, sl st) into the side of the petal*, repeat 4 times.\n\nSmall petals (work 4)\n*3 hdc, ch 2, turn, 3 dc inc, ch 2, turn, hdc inc, 4x(dc inc), hdc inc, 2x(ch 2, sl st) into the side of the petal*, repeat 4 times.\n\nRoll the finished strip from the small-petal end inwards and stitch the base to hold the rose shape.",
+        "chineseText": "一体月季花\n花朵：起56CH，倒四53F\n大花瓣：2CH,翻转织片,[5F,2CH,翻转织片,5FV,2CH,翻转织片,2FV,2EV,(EV,G,狗牙针),(G,EV),2EV,2FV,2(2CH,SL)最后的两个引拔在花瓣侧面]钩五个\n中花瓣：[4F,2CH,翻转织片,4FV,2CH,翻转织片,FV,FE,EV,(E,2G,2CH狗牙),(2G,E), EV,EF,FV,2(2CH, SL) 引拔在花瓣侧面],钩四个\n小花瓣：[3T,2CH,翻转织片,3FV,2CH,翻转织片,TV,4(FV), TV,2(2CH,SL) 引拔在花瓣侧面]钩4个",
+        "notes": "Worked as a single continuous strip that is rolled into a rose. Shorthand: F = dc, T = hdc, E = tr, G = dtr, V = increase; combinations such as FV/TV/EV mean an increase in that stitch."
+      },
+      {
+        "englishText": "Carnation — Ruffled Flower and Calyx\n\nFlower\nRnd 1: MR, 12 dc (12)\nRnds 2-3: 12 dc each round (12)\nRnd 4: 3 dc in each st around (36)\nRnd 5: 3 dc in each st around (108)\nRnd 6: *sc, ch 3*, repeat 108 times around for the frilled edge\n\nCalyx\nRnd 1: MR, 6 sc (6)\nRnd 2: 6 inc (12)\nRnds 3-7: 12 sc each round (12)\nRnd 8: *3 sc, inc*, repeat 3 times (15)\nRnd 9: *ch 3, dc dec, sl st, ch 3, sl st*, repeat 5 times to form the pointed sepals\n\nGather the flower, insert a wire stem and seat the calyx underneath.",
+        "chineseText": "康乃馨\n花朵：R1: 环起12F；R2-R3: 12F；R4: FW；R5: 36FW；R6: 108（X,3CH）\n花托：R1: 环起6X；R2: 6V；R3-R7: 12X；R8: 3（3X,V）；R9: 5（3CH,FA,Y,3CH,SL）",
+        "notes": "FW = 3 dc worked into one stitch, which is what makes the carnation double in width twice and ruffle. FA = dc decrease. The Rnd 9 symbol read as a slip stitch; work the sepal points to taste."
+      },
+      {
+        "englishText": "Galsang Cosmos Flower — One-Piece Calyx and Petals\n\nRnd 1: With calyx colour, MR, 8 sc (8)\nRnd 2: 8 sc (8)\nRnd 3: *Ch 5, from the 2nd ch from hook work 4 sl st back along the chain, then sl st into the outer loop of the next st*, repeat 8 times\nRnd 4: Change to flower colour. 8 sc in the front loops, sl st\nRnd 5 (petals, repeat the whole group 8 times):\n  Ch 8, working into the back bumps from the 1st ch make 7 unfinished sc; turn the work and make 1 more unfinished sc into the sl st of Rnd 4; yarn over and close the loops two at a time.\n  Ch 2, sl st into the back bump of the 2nd ch, ch 1, pick up the back bumps and make 5 unfinished sc, close two at a time.\n  Ch 2, sl st into the back bump of the 2nd ch, ch 1, pick up the back bumps and make 7 unfinished sc, close two at a time.\n  Ch 2, sl st into the back bump of the 2nd ch, 7 sl st along the back bumps, sl st into the next stitch.\n\nNote: the work only needs to be turned for the first petal group.",
+        "chineseText": "一体格桑花（花托+花瓣，阿富汗针法一体版）\nR1:（花托线）环起8X；R2: 8X；R3: 5ch，倒2回钩4sl，挑外半针sl，重复8次；R4:（换线：花朵色）内半针8X，sl；R5: 8ch，倒1里山钩7X未完成针，翻转织物，在R4的sl里再钩1X未完成针，绕线两两退针；2ch，倒2里山回钩sl，1ch，挑里山钩5X未完成针，绕线两两退针；2ch，倒2里山回钩sl，1ch，挑里山钩7X未完成针，绕线两两退针；2ch，倒2里山回钩sl，挑里山钩7sl，下一针sl。以上重复8组。注：翻转织物仅第一组花瓣需要",
+        "notes": "Afghan-style one-piece construction: the calyx and all 8 petals are worked without cutting the yarn. The unfinished-sc bundles closed two at a time are what shape each petal."
+      },
+      {
+        "englishText": "Goblet Rose — Three Petal Sizes\n\nSmall petal (make 3)\nRnd 1: 6 sc in MR (6)\nRnd 2: 6 inc (12)\nRnd 3: *sc, inc*, x6 (18)\nRnd 4: *2 sc, inc*, x6 (24)\nRnd 5: *3 sc, inc*, x6 (30)\nRnd 6: *4 sc, inc*, x6 (36)\nRnd 7: 10 sc, 3x(4 sc, inc), inc, 10 sc\nRnd 8: 10 sc, 3x(5 sc, inc), inc, 11 sc\nRnd 9: 11 sc, 3x(6 sc, inc), inc, 11 sc\n\nMedium petal (make 3): Work Rnds 1-9 as above, then\nRnd 10: 11 sc, inc, 3 sc, (sc, ch 1, sc), 3 sc, inc, 3 sc, (sc, ch 2, sc), 3 sc, inc, 3 sc, (sc, ch 1, sc), 3 sc, inc, 3 sc, 9 sc\n\nLarge petal (make 3): Work Rnds 1-9 as above, then\nRnd 10: 11 sc, 7x(inc, 3 sc), 9 sc\nRnd 11: 12 sc, inc, 4 sc, (sc, ch 1, sc), 4 sc, inc, 4 sc, (sc, ch 2, sc), 4 sc, inc, 4 sc, (sc, ch 1, sc), 4 sc, inc, 12 sc\n\nNest the petals small-to-large around a wire stem to form the goblet-shaped rose.",
+        "chineseText": "酒杯玫瑰\n小花瓣×3：R1: 6X；R2: 6V；R3: 6(X,V)；R4: 6(2X,V)；R5: 6(3X,V)；R6: 6(4X,V)；R7: 10X, 3(4X,V), V, 10X；R8: 10X, 3(5X,V), V, 11X；R9: 11X, 3(6X,V), V, 11X\n中花瓣×3：R1-R9同上；R10: 11X, V, 3X, (X,1ch,X), 3X, V, 3X, (X,2ch,X), 3X, V, 3X, (X,1ch,X), 3X, V, 3X, 9X\n大花瓣×3：R1-R9同上；R10: 11X, 7(V,3X), 9X；R11: 12X, V, 4X, (X,1ch,X), 4X, V, 4X, (X,2ch,X), 4X, V, 4X, (X,1ch,X), 4X, V, 12X",
+        "notes": "V = increase (2 sc in one stitch). The ch-1 and ch-2 points in the last round create the scalloped goblet rim."
+      },
+      {
+        "englishText": "Multi-Head Bubble Flower — Blossom Strip and Calyx\n\nBlossom\nRow 1: Ch 23\nRow 2: Starting in the 4th ch from hook, *(3 dc), sc, skip 1 st*, repeat to the end of the chain\nRow 3: *Ch 2, dc, dc inc, dc, ch 2, sc*, repeat to the end\n\nCalyx\nRnd 1: MR, 5 sc (5)\nRnd 2: 5 inc (10)\nRnd 3: *Ch 5, from the 2nd ch from hook sl st, sc, hdc, skip 1 st and sl st*, repeat 5 times\n\nRoll the blossom strip into a cluster of small bubble flowers and seat the calyx underneath on a wire stem.",
+        "chineseText": "多头泡泡\n花朵：R1:起23CH；R2:倒4回勾(3F),X,K 一直循环至结束；R3:2CH,F,FV,F,2CH,X 一直循环至结束\n花托：R1:环形起针5X；R2:5V；R3:立5CH,倒2回勾SL,X,T,做完空一针引拔,重复五次",
+        "notes": "K = skip a stitch. The strip construction gives several small blooms on one stem, hence 'multi-head'."
+      }
+    ],
+    "meta": {
+      "intro": "A full blue-and-white crocheted bouquet with nine different flower and foliage patterns, from areca palm fronds to roses, tulips, delphiniums and carnations. Every stem is worked around floral wire so it can be arranged and will never wilt.",
+      "materials": [
+        "Cotton yarn in blue, white and green shades",
+        "Floral wire",
+        "Floral tape",
+        "Yarn needle"
+      ],
+      "difficulty": "Intermediate",
+      "estimatedTime": "10+ hours",
+      "abbreviationsUsed": [
+        "MR",
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "dtr",
+        "sl st",
+        "inc",
+        "dec",
+        "picot"
+      ],
+      "faq": [
+        {
+          "question": "What do the letters in the original charts mean?",
+          "answer": "This set uses Chinese shorthand: X is single crochet, T is half double crochet, F is double crochet, E is treble, G is double treble, V means an increase, A means a decrease, K means skip, SL is a slip stitch and W is three stitches worked into one."
+        },
+        {
+          "question": "Why is floral wire worked into the pieces?",
+          "answer": "Leaves and petals are crocheted around a length of wire so they hold a bent shape. Without the wire the pieces are floppy and the bouquet will not hold its arrangement."
+        },
+        {
+          "question": "Which flower should I start with?",
+          "answer": "The goblet rose and the multi-head bubble flower are the simplest, being plain single crochet spirals and a rolled strip. The one-piece rose and the galsang cosmos are the most demanding because they are worked as a single continuous piece."
+        },
+        {
+          "question": "How many pieces make one bouquet?",
+          "answer": "The palm fronds alone call for 27 leaves across six sizes, plus multiple petals per flower. Make the foliage first so you can judge how many blooms the bouquet needs."
+        }
+      ]
+    }
+  },
+  {
     "id": 323,
     "slug": "samoyed-in-a-coconut",
     "title": "Samoyed in a Coconut",
